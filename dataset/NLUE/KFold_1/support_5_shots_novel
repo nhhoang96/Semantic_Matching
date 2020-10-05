@@ -1,0 +1,80 @@
+alarm query	how many alarms have i set
+alarm query	what alarms have i set for tomorrow
+alarm query	is my wake up alarm set a six am
+alarm query	what alarms do i got
+alarm query	tell me about alarms
+alarm remove	cancel alarm for tenth of march two thousand seventeen
+alarm remove	cancel my seven am alarm
+alarm remove	remove the latest alarm
+alarm remove	please remove this alarm
+alarm remove	disable all alarms set for today
+audio volume mute	do not make any noise until morning alarm
+audio volume mute	speakers off
+audio volume mute	turn off the sounds
+audio volume mute	silence
+audio volume mute	i want to mute the speaker
+datetime query	what day of the week does the fifteenth of march fall on
+datetime query	please show me today's date
+datetime query	what day of the week is the twenty second march
+datetime query	tell me the current time in san paulo brazil
+datetime query	what is the current central time
+general explain	rephrase me about what you've said further please.
+general explain	s1, please elaborate me on your answer further.
+general explain	s2, i was unclear about what you've just said.
+general explain	s2, i was unclear about your answers.
+general explain	it was not clear.
+general joke	what is a good joke
+general joke	tell a joke that puts smile on my face
+general joke	do you have a funny joke for me
+general joke	what is the funniest joke ever
+general joke	tell me a joke please
+general negate	please check the command.
+general negate	nope, it's not the correct command.
+general negate	uh no, you've done in wrong manner.
+general negate	uhh no, i think not right response.
+general negate	shit, not correct response.
+general quirky	what would be the a perfectly nutritionally balanced meal for dinner
+general quirky	downloads management
+general quirky	i would like to crack jokes
+general quirky	could you manipulate roip for me
+general quirky	i really enjoyed sunny day today
+general repeat	please tell me it once again.
+general repeat	speak the last words one more time please.
+general repeat	would you tell me what i said one more time again.
+general repeat	please could you try what you've said once more.
+general repeat	say what you've said one more time again please.
+music likeness	Olly save all the songs i have listened to more than once
+music likeness	keep that song for when i need cheering up
+music likeness	save this song in my great songs category
+music likeness	compile favorites list according to my song feedback
+music likeness	my favourite music band is queen
+play audiobook	play animal farm
+play audiobook	resume playing the current audiobook
+play audiobook	play the program where i left off yesterday
+play audiobook	resume audio playback of twilight
+play audiobook	start chapter five of physics for future presidents
+recommendation events	what plays are showing at the theatre
+recommendation events	which event should i attend in my area
+recommendation events	is there anything happening in town this weekend
+recommendation events	badminton
+recommendation events	list saturday night events near current location
+recommendation movies	suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like
+recommendation movies	check for all the movie theater prices and availability for a newly released movie in my location
+recommendation movies	recommend a movie with justin bieber
+recommendation movies	what movies are playing near me
+recommendation movies	what is playing at amc twenty
+takeaway order	checkout top restaurant near me and order shahi panner
+takeaway order	order a double bacon cheeseburger with bacon an white american cheese
+takeaway order	call the nearest thai restaurant with delivery
+takeaway order	start a takeaway order for me
+takeaway order	order a ham and cheese sandwich from subway
+takeaway query	will they deliver to me
+takeaway query	hello i would like to know whether you provide home delivery services
+takeaway query	look to see if luigi's has takeaway
+takeaway query	does pf changs accept takeout orders
+takeaway query	does this place do takeaway
+transport taxi	just book for me a lyft taxi to bardonia
+transport taxi	lets get a taxi
+transport taxi	please book a taxi for me
+transport taxi	i need a taxi to pick me up at the house and take me downtown
+transport taxi	book a taxi to airport for me in the evening

@@ -1,0 +1,16 @@
+alarm query	what days are my alarms set for
+alarm remove	turn off the six am alarm for Wednesday
+audio volume mute	quiet
+datetime query	what time in las vegas
+general explain	s2, last sentence was not clear.
+general joke	tell funny things
+general negate	uhh no, i think you've done this incorrectly.
+general quirky	hey whatsapp
+general repeat	would you try that instruction said again please.
+music likeness	save this song in my favorites
+play audiobook	start dune from where i left off
+recommendation events	events in me area
+recommendation movies	what is the biggest blockbuster this week
+takeaway order	what is the best pizza near me that delivers
+takeaway query	where are my takeaway order
+transport taxi	reserve the closest uber

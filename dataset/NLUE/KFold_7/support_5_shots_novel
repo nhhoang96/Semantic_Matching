@@ -1,0 +1,80 @@
+alarm query	what time is my alarm set for
+alarm query	what time is my alarm set for tomorrow morning
+alarm query	i need to set an alarm how many do i have set
+alarm query	olly find any alarms i have set for today
+alarm query	please list all my alarms
+alarm remove	i would like this alarm permanently removed
+alarm remove	remove tuesday alarm of nine am
+alarm remove	please remove the the alarm which i set
+alarm remove	do not wake me up on weekends
+alarm remove	remove set alarm
+audio volume mute	mute the sound
+audio volume mute	google please be extra quiet the baby is sleeping
+audio volume mute	cut off noise
+audio volume mute	turn down the noise
+audio volume mute	keep quiet
+datetime query	what is the month day and year
+datetime query	what day does easter fall on
+datetime query	what time is it in this city
+datetime query	tell me the time now
+datetime query	what is the current time in delhi
+general explain	do not get this.
+general explain	explain further please.
+general explain	i was not clear about your answer.
+general explain	s1, can you please again rephrase to me.
+general explain	s1, could you please clarify me about what you've just said once again.
+general joke	i want to hear a joke
+general joke	i need to hear a joke can you tell me one
+general joke	say some jokes
+general joke	any funny jokes
+general joke	search for new jokes
+general negate	thanks but you didn't get me.
+general negate	sorry but you have messed up the command.
+general negate	uhh no, that isn't what i was looking for.
+general negate	uh no, i think incorrect command.
+general negate	sorry but i think you are not right.
+general quirky	let me know when charges hit my credit card
+general quirky	what is the best chocolate chip cookie recipe
+general quirky	too private
+general quirky	hey i am having a bad day today what can i watch to cheer me up
+general quirky	show me a map of everywhere the cat has been this week
+general repeat	please say one more time again.
+general repeat	could you speak it one more again please.
+general repeat	one more again please.
+general repeat	would you tell me that once again.
+general repeat	let us try your last things once more please.
+music likeness	i have to done it on the post important music file
+music likeness	save the last radio stations of the last month
+music likeness	kfi is my favorite rapper
+music likeness	save my opinion on the currently playing song
+music likeness	i love that song who sings it
+play audiobook	can you pause and rewind the audio then resume
+play audiobook	put on the god of small things
+play audiobook	resume harry potter from the place i have stopped listening to last time
+play audiobook	resume the last played audiobook
+play audiobook	audio start
+recommendation events	Show latest events around new york
+recommendation events	is there anything to do tonight
+recommendation events	what are all the event in area
+recommendation events	what is open late in la
+recommendation events	what bands are playing in town this weekend
+recommendation movies	what are the show times for logan at the nearby theatre
+recommendation movies	is swat a good movie
+recommendation movies	what time will a movie be shown tomorrow
+recommendation movies	look up movies near me
+recommendation movies	check for all the movie theater prices and availability for a newly released movie in my location
+takeaway order	who delivers near here
+takeaway order	i'm in the mood to order takeaway
+takeaway order	order chinese for delivery
+takeaway order	places with pizza delivery near me
+takeaway order	pull up the menu for the closest mexican restaurant
+takeaway query	does dominos has a delivery option
+takeaway query	check delivery options for the restaurant
+takeaway query	can i take food home here
+takeaway query	i've cancelled the order placed at mcd did it go through
+takeaway query	how much longer until my pizza will be here
+transport taxi	find an uber that can get me to the airport now
+transport taxi	book a taxi to start from here
+transport taxi	send golden taxi to pick me up as soon as possible
+transport taxi	book for me an uber taxi to bardonia
+transport taxi	book a taxi uber

@@ -1,0 +1,48 @@
+alarm set	i need a reminder alarm at one
+audio volume down	lower the volume ten percent
+audio volume up	turn up sound
+calendar query	list out my upcoming events
+calendar remove	cancel all my appointments
+calendar set	please set reminder
+cooking recipe	what is the best way to cook pasta al dente
+datetime convert	how many hours difference is hong kong from new york city
+email addcontact	please add an email to my contacts
+email querycontact	how old is joanne
+email query	tell me when i get new emails from principal lowry
+email sendemail	create an email to my brother asking him what time he will be over for dinner
+general affirm	yeah great response.
+general commandstop	olly would you please shut off.
+general confirm	please can you check and confirm what just said.
+general dontcare	i do not really mind for whatever.
+general praise	it's good job, i appreciate it.
+iot cleaning	hoover the hallway
+iot coffee	order one coffee to starbucks coffee shop
+iot hue lightchange	switch lights to red tone
+iot hue lightdim	lower the lights a little more
+iot hue lightoff	turn off lighting
+iot hue lighton	please turn on the lights in my house
+iot hue lightup	i need more light
+iot wemo off	off the plug
+iot wemo on	turn my plug on
+lists createoradd	add pencil to school supplies list
+lists query	please show my list
+lists remove	remove item three from the list
+music query	identify song
+music settings	repeat the current song
+news query	get me news on trump
+play game	lets play battleship
+play music	play music playlist
+play podcasts	show me the top rated podcasts
+play radio	i want to hear this week's midweek motorsport
+qa currency	convert euros to dollars
+qa definition	give me the definition of formidable
+qa factoid	can turkeys fly
+qa maths	tell me sum of five and six
+qa stock	can you find and tell me the prices of facebook stock
+recommendation locations	i want to know what supermarket near me has the best price on gluten free bread
+social post	post this pic to facebook
+social query	check my facebook for notifications
+transport query	fix the driving route from here to grant market
+transport ticket	book my train ticket from las vegas to los angeles
+transport traffic	outside traffic status please
+weather query	tell me the current weather for danville il

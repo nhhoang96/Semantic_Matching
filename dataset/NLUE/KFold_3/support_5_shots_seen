@@ -1,0 +1,240 @@
+alarm set	set my alarm for twelve pm
+alarm set	wake me up at five thirty
+alarm set	change alarm to start at midnight
+alarm set	the set alarm for nine pm on Thursday night
+alarm set	set an alarm for five hundred and thirty
+audio volume down	lower the volume
+audio volume down	could you please lower your volume
+audio volume down	lower volume of music player
+audio volume down	reduce volume
+audio volume down	speak quieter
+audio volume up	turn up volume
+audio volume up	can you turn it up a little
+audio volume up	could you please yell the answer out to me
+audio volume up	speaker volume increase
+audio volume up	turn up the volume on my speakers
+calendar query	what events do i have scheduled today
+calendar query	let me know about upcoming events
+calendar query	is this program is scheduled
+calendar query	what on my calendar
+calendar query	do i have free time next tuesday to schedule a meeting
+calendar remove	please remove march nineteenth's scheduled event
+calendar remove	delete all details in event
+calendar remove	delete the monthly recurring team meeting till june
+calendar remove	clear all events from march seven
+calendar remove	remove the next event on my calendar
+calendar set	in the following week repeat this event at ten am every day
+calendar set	add a reminder to april fourth to go to the dentist
+calendar set	remember dinner on thursday at bistro italia
+calendar set	schedule dinner with sara and jamie
+calendar set	set a neighbor party for next week
+cooking recipe	how to make chicken tikka
+cooking recipe	give me instructions on how to cook chicken
+cooking recipe	find apple pie recipe
+cooking recipe	show me what the ingredients are
+cooking recipe	freezing
+datetime convert	change this time to ist
+datetime convert	convert current time from g. m. t. to est
+datetime convert	change my clock to central time zone from my current zone
+datetime convert	can you convert my time zone to the time zone i'm currently in
+datetime convert	if it is four pm in missouri what time is it in london
+email addcontact	add email to existing contact
+email addcontact	please add this email to my contacts
+email addcontact	use that email address as a contact
+email addcontact	add email address iamironman@gmail dot com
+email addcontact	add lowes hardware to my contact emails located in cleveland ohio
+email querycontact	give me charles telephone number
+email querycontact	how do i dial sarah
+email querycontact	tell me joe joe's home address
+email querycontact	is alex saved in my contacts list
+email querycontact	can you give me the newest phone number for bobby mcgee
+email query	what did the clinic say about my exams
+email query	do i have any emails from jessica
+email query	have i got any new email from my company
+email query	read new messages from my wife
+email query	check my email
+email sendemail	reply back to this email
+email sendemail	pull up kate's email and write that i will let her know
+email sendemail	send reply to joe
+email sendemail	please send the email to abc@gmail dot com instead of xyz@gmail dot com
+email sendemail	send an email to my wife about next week weather
+general affirm	it's right.
+general affirm	your understanding is confirmed.
+general affirm	your understanding was exact.
+general affirm	the answer is confirmed.
+general affirm	yeah wonderful response to command.
+general commandstop	olly can you just stop.
+general commandstop	olly please just cancel.
+general commandstop	olly would you please shut off.
+general commandstop	olly can you shut up.
+general commandstop	olly that is enough, cancel it.
+general confirm	could you check and confirm what i last said please.
+general confirm	check the details please.
+general confirm	did you get what just said correctly?
+general confirm	please can you confirm it.
+general confirm	please would you check instruction.
+general dontcare	wouldn't really care.
+general dontcare	this is unimportant.
+general dontcare	have no idea regarding to what to select, olly.
+general dontcare	have no idea for which to select, olly.
+general dontcare	have no idea regarding to which to select, olly.
+general praise	you are my hero, thank you very much, olly.
+general praise	you are helpful, thanks.
+general praise	thank you very much for that information.
+general praise	you've done that right.
+general praise	you are the best,.
+iot cleaning	start cleaning
+iot cleaning	turn my iroomba on
+iot cleaning	start robo vac
+iot cleaning	start cleaner
+iot cleaning	hey start vacuum cleaner robot
+iot coffee	coffee
+iot coffee	please set my coffee machine to start at four pm time
+iot coffee	please make me some coffee
+iot coffee	is the coffee ready
+iot coffee	start cappuccino for me now
+iot hue lightchange	change the light colour to green
+iot hue lightchange	set brightness to fifty percent
+iot hue lightchange	change the color of the lights to blue
+iot hue lightchange	make curser adjustable position
+iot hue lightchange	lights to fifty percent
+iot hue lightdim	lower lights now
+iot hue lightdim	please dim the overhead lights
+iot hue lightdim	lights down to seven
+iot hue lightdim	may i ask you to dim the lights
+iot hue lightdim	lower the light intensity
+iot hue lightoff	shut off the lights in the bedroom
+iot hue lightoff	turn the living room's light off
+iot hue lightoff	turn off garage light
+iot hue lightoff	please turn off the light of the bathroom
+iot hue lightoff	shut off the lights
+iot hue lighton	it's too dark here
+iot hue lighton	light up the lights in the kitchen
+iot hue lighton	it's dark in the living room
+iot hue lighton	can you put the lights on the high setting
+iot hue lighton	turn the lights on brighter
+iot hue lightup	turn the lights up
+iot hue lightup	brighten up the lighting
+iot hue lightup	turn up the lights in here please
+iot hue lightup	more bright
+iot hue lightup	make it brighter in here
+iot wemo off	turn off on wemo outlet
+iot wemo off	please make the smart socket turn off
+iot wemo off	please power down
+iot wemo off	please switch off on the wemo plug socket
+iot wemo off	shut the smart socket down
+iot wemo on	times clapping sound times
+iot wemo on	activate the wemo plug socket
+iot wemo on	turn on the socket
+iot wemo on	turn on my son's room plug socket on off
+iot wemo on	power yourself on
+lists createoradd	add the item to the list
+lists createoradd	make a list of numbers for me
+lists createoradd	add ketchup to the list
+lists createoradd	create a new to do list
+lists createoradd	is there room on my grocery list for an extra item
+lists query	most viewed list
+lists query	what to do lists do i have
+lists query	can i see my work lists
+lists query	what's the next thing on my list of appointments
+lists query	what is on my playlist of movies on the the dvr
+lists remove	please remove dallas from my travel itinerary
+lists remove	please delete the last song that played from the playlist
+lists remove	remove the list of apps which started with letter a
+lists remove	remove item three
+lists remove	delete the list created yesterday
+music query	which songs do i listen to most
+music query	i am interested in what emotions are conveyed in grateful dead music
+music query	what song in the theme song for frasier
+music query	tell me the singer of this track
+music query	what playlist is on shuffle
+music settings	please check my playlists for jazz music
+music settings	change song
+music settings	repeat album
+music settings	shazam this music
+music settings	repeat this song
+news query	is anything different today about blank
+news query	what's happened in the news recently
+news query	get me the latest news in new york
+news query	i want to see the news
+news query	what is the latest news on sprint
+play game	play solitaire
+play game	how about playing a game of guess the word i'm thinking of
+play game	load a fun game that i can play with you
+play game	turn on flappy bird
+play game	play rummy
+play music	let me hear some bluegrass music
+play music	play hip hop songs
+play music	play foke
+play music	find jazz music on my playlist
+play music	please play songs i've purchased and favorited
+play podcasts	play the next podcast episode
+play podcasts	play me the latest podcast about online surveys
+play podcasts	skip to next
+play podcasts	search for podcasts that cover men's issues
+play podcasts	i want to see the next podcast available
+play radio	play power one oh two point three
+play radio	play the kansas city hip hop station
+play radio	i want to hear this week's midweek motorsport
+play radio	start my playlist on i heart radio
+play radio	please play the local latin music channel on the radio
+qa currency	what is the exchange rate between us dollars and bitcoin
+qa currency	how much is twenty two usd in euros
+qa currency	what is the exchange rate of us dollar today for rupee
+qa currency	tell me the exchange rate of ten dollar to euro
+qa currency	how much is one american dollars worth in england
+qa definition	what does happy mean
+qa definition	what is the definition of forensic
+qa definition	look up word
+qa definition	what does the word labyrinth mean
+qa definition	define a phrase blue sky research
+qa factoid	how old is rihanna
+qa factoid	how big is russia
+qa factoid	look up the number of people living in miami florida
+qa factoid	where is italy
+qa factoid	where do cows come from
+qa maths	multiply one thousand by twelve
+qa maths	what is four plus five
+qa maths	let's do math
+qa maths	whats two hundred divided by five
+qa maths	how much is one hundred and thirty six plus three hundred and eighty seven
+qa stock	how much is apple stock worth
+qa stock	refer the stock price of hdfc
+qa stock	what is the stock for hp company
+qa stock	i want to figure out the stock on microsoft
+qa stock	whats the stock price of apple
+recommendation locations	where can i got to grab some drinks in west chester
+recommendation locations	when does olive garden close today
+recommendation locations	which is the best place to visit in this month
+recommendation locations	recommend a local steak restaurant
+recommendation locations	please list the best clothing shops near me
+social post	post the following status to facebook
+social post	please tweet waited sixty five minutes for a table at tgi fridays never going back
+social post	post to twitter got a hectic day ahead
+social post	tweet consumer service that the quantity is wrong
+social post	post this pic to facebook
+social query	open social media account
+social query	anything new on insta
+social query	may i know what is trending in social media
+social query	how many notifications do i have on facebook
+social query	check my social networks
+transport query	find me a train ticket for the next trip to washington dc
+transport query	how long does it take to get the train from rome to paris
+transport query	go to agha station
+transport query	is there a connecting train from london to paris and what time
+transport query	directions please
+transport ticket	i want a train ticket
+transport ticket	book me a train ticket to barcelona please
+transport ticket	i want a train ticket from boston to new york
+transport ticket	book my first class ac train ticket from new york to san francisco
+transport ticket	can you book me a train ticket to bombay for tomorrow in any train
+transport traffic	is there traffic right now in maiden lane
+transport traffic	are there any construction areas on harvard
+transport traffic	what is the traffic like this morning
+transport traffic	can i make back home without a traffic jam
+transport traffic	what is traffic like right now
+weather query	weather report of the week
+weather query	i am need my hat today
+weather query	tell me the weather for this week
+weather query	whats the weather like
+weather query	sunny in oslo

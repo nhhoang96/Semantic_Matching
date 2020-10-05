@@ -1,0 +1,48 @@
+alarm set	set an alarm for me at eight am
+audio volume down	Turn down volume
+audio volume up	increase the volume please
+calendar query	what events are scheduled this week
+calendar remove	delete from the calendar the next event
+calendar set	invite people to the calendar event
+cooking recipe	what is recipe
+datetime convert	how many hours difference is hong kong from new york city
+email addcontact	add the new email to my contacts
+email querycontact	what is mary s.'s birthday
+email query	hey check emails
+email sendemail	can you send an email to my mother about the weekly weather
+general affirm	strongly agreed.
+general commandstop	please could you shut off.
+general confirm	check last thing said please.
+general dontcare	i don't really mind for anything.
+general praise	it was nice job, thank you so much.
+iot cleaning	vacuum the mud room
+iot coffee	i need coffee please preferably hot
+iot hue lightchange	can you do me a favor my eyes are feeling strained on these lights can you please change it to a cooler tone
+iot hue lightdim	lower the light to forty percent
+iot hue lightoff	please turn off the light in the upstairs bedroom
+iot hue lighton	i want to turn on the blue lights
+iot hue lightup	raise the lights
+iot wemo off	please turn off the smart socket
+iot wemo on	please turn on my wemo plug socket
+lists createoradd	create a new list of my due bills
+lists query	what are the items on my list
+lists remove	remove my shopping list
+music query	who's playing the oboe on this piece
+music settings	shuffle music
+news query	breaking news fox news
+play game	lets go nazi hunting
+play music	play the song for me
+play podcasts	rewind to four twelve
+play radio	please play program on xmtune
+qa currency	forex rate of euro to u. s. d.
+qa definition	describe the computer to me
+qa factoid	what is the temperature in indianapolis indiana
+qa maths	is the answer of five plus two seven
+qa stock	google i. b. m. stock prices
+recommendation locations	find a grocery store in town that carries creamed pickled herring
+social post	complaint on service provider on my twitter
+social query	what is trending on twitter
+transport query	give the shortest route to the airport
+transport ticket	repurchase last train ticket to phillyx
+transport traffic	show traffic in ohio
+weather query	what is the climate here today

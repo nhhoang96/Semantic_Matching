@@ -1,0 +1,320 @@
+alarm query	how many alarms have i set
+alarm query	what alarms have i set for tomorrow
+alarm query	is my wake up alarm set a six am
+alarm query	what alarms do i got
+alarm query	tell me about alarms
+alarm remove	cancel alarm for tenth of march two thousand seventeen
+alarm remove	cancel my seven am alarm
+alarm remove	remove the latest alarm
+alarm remove	please remove this alarm
+alarm remove	disable all alarms set for today
+alarm set	get me up in half an hour
+alarm set	set alarm for this event reminder repeating for ten times
+alarm set	set an alarm at six in the morning
+alarm set	set an alarm at ten tomorrow to remind me a meeting
+alarm set	set a continuous alarm without the option to snooze for seven am please
+audio volume down	softer
+audio volume down	you're too loud
+audio volume down	lower audio
+audio volume down	lower volume to half
+audio volume down	talk quieter please
+audio volume mute	do not make any noise until morning alarm
+audio volume mute	speakers off
+audio volume mute	turn off the sounds
+audio volume mute	silence
+audio volume mute	i want to mute the speaker
+audio volume up	make sound louder
+audio volume up	set the volume higher
+audio volume up	increase the volume
+audio volume up	turn up the sound
+audio volume up	raise volume
+calendar query	what am i up to this weekend
+calendar query	what is happening this weekend
+calendar query	when monet's exhibition takes place
+calendar query	show me future events
+calendar query	latest events
+calendar remove	delete my dinner tomorrow
+calendar remove	clear everything from the calendar
+calendar remove	please cancel my next hair cut
+calendar remove	remove all my engagements from calendar for tomorrow
+calendar remove	whatever the next event is in the calendar delete it
+calendar set	reminders
+calendar set	add dentist appointment for friday at five
+calendar set	don't let me forget tomorrow's meeting with sheila
+calendar set	march fifth is john's birthday please place this on the calendar
+calendar set	remind me to water my plants every tuesday thursday and saturday
+cooking recipe	find a recipe for chicken alfredo
+cooking recipe	show me pancakes
+cooking recipe	tell me how to cook pasta
+cooking recipe	how to cook crabs
+cooking recipe	how do i cook meatballs
+datetime convert	if it is six am here what time is it in tokyo
+datetime convert	please convert the time of here at nine pm to brasil time zone
+datetime convert	change this time to ist
+datetime convert	eight am in manila is what in new york
+datetime convert	the time difference between lagos and new york is what
+datetime query	what day of the week does the fifteenth of march fall on
+datetime query	please show me today's date
+datetime query	what day of the week is the twenty second march
+datetime query	tell me the current time in san paulo brazil
+datetime query	what is the current central time
+email addcontact	just add a new email in my contacts from michael
+email addcontact	please add this email to my contacts
+email addcontact	add email address iamironman@gmail dot com
+email addcontact	please add a new email in my contacts from sara
+email addcontact	add a new contact for daniel bell dbell@aol dot com
+email querycontact	do i have a work number for susan
+email querycontact	find jhonny's address
+email querycontact	check for this mail in my contact if not then add it
+email querycontact	show me derek's contact information
+email querycontact	what is this person's contact information
+email query	are there any unread emails from patrick
+email query	find new email
+email query	what did the clinic say about my exams
+email query	how many emails do i have in the last fifteen minutes
+email query	please archive my read messages
+email sendemail	please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm
+email sendemail	i need to send an email to michael
+email sendemail	my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id
+email sendemail	send an email to bob
+email sendemail	reply email to charlotte
+general affirm	yeah you got your understanding perfectly.
+general affirm	yeap fantastic.
+general affirm	you've gotten your understanding correcly.
+general affirm	yes you have done it exactly.
+general affirm	yeap that's right.
+general commandstop	that is all, just cancel it.
+general commandstop	can you shut up please.
+general commandstop	olly just stop please.
+general commandstop	olly that would be all.
+general commandstop	olly will you stop please.
+general confirm	please would you check and confirm it.
+general confirm	could you check and confirm detail please.
+general confirm	i would like you confirm last thing i said please.
+general confirm	could you please check that.
+general confirm	could you check that please.
+general dontcare	anything would be fine with me.
+general dontcare	wouldn't really bother.
+general dontcare	wouldn't mind to choose any one.
+general dontcare	this is unimportant to me, olly.
+general dontcare	i do not really care, olly.
+general explain	rephrase me about what you've said further please.
+general explain	s1, please elaborate me on your answer further.
+general explain	s2, i was unclear about what you've just said.
+general explain	s2, i was unclear about your answers.
+general explain	it was not clear.
+general joke	what is a good joke
+general joke	tell a joke that puts smile on my face
+general joke	do you have a funny joke for me
+general joke	what is the funniest joke ever
+general joke	tell me a joke please
+general negate	please check the command.
+general negate	nope, it's not the correct command.
+general negate	uh no, you've done in wrong manner.
+general negate	uhh no, i think not right response.
+general negate	shit, not correct response.
+general praise	oh it is nice one, olly.
+general praise	you did good job, thanks.
+general praise	ah it's amazing.
+general praise	thank you.
+general praise	appreciate your helping, olly.
+general quirky	what would be the a perfectly nutritionally balanced meal for dinner
+general quirky	downloads management
+general quirky	i would like to crack jokes
+general quirky	could you manipulate roip for me
+general quirky	i really enjoyed sunny day today
+general repeat	please tell me it once again.
+general repeat	speak the last words one more time please.
+general repeat	would you tell me what i said one more time again.
+general repeat	please could you try what you've said once more.
+general repeat	say what you've said one more time again please.
+iot cleaning	vacuum the carpet freshener from the carpet
+iot cleaning	hey go from off to on my vacuum in five minutes
+iot cleaning	how do you turn on the robot vacuum cleaner
+iot cleaning	on the button of cleaner
+iot cleaning	turn on the vacuum
+iot coffee	do a coffee for me please
+iot coffee	i need one cup of coffee
+iot coffee	please make me some coffee
+iot coffee	start the coffee machine at three
+iot coffee	please make some coffee for me
+iot hue lightchange	change the overhead light to orange
+iot hue lightchange	make the lights pink at the house
+iot hue lightchange	change the media room lights from purple to green
+iot hue lightchange	make all the lights in the house orange
+iot hue lightchange	White
+iot hue lightdim	lower brightness of lights
+iot hue lightdim	dim lights in living room
+iot hue lightdim	dim the lights down a bit
+iot hue lightdim	these lights are too bright please lower them
+iot hue lightdim	please dim the lights
+iot hue lightoff	turn off kitchen light
+iot hue lightoff	please turn off all the lights in my house
+iot hue lightoff	switch off kitchen lights
+iot hue lightoff	turn off garage light
+iot hue lightoff	shutoff light in the kitchen
+iot hue lighton	hey turn on disco lights in my apartment and let the party begin
+iot hue lighton	turn corner light on
+iot hue lighton	turn the lights on
+iot hue lighton	turn the lights on brighter
+iot hue lighton	switch on all the lights
+iot hue lightup	please increase the light
+iot hue lightup	please turn up the lights in this room
+iot hue lightup	turn up the lights in here please
+iot hue lightup	turn up the brightness of the lights
+iot hue lightup	can you make the room brighter
+iot wemo off	power down the plug socket one
+iot wemo off	off all type of active devices
+iot wemo off	can you turn off wemo plug socket
+iot wemo off	turn off socket
+iot wemo off	turn off the fan in the master bedroom
+iot wemo on	turn wemo on
+iot wemo on	start the oven
+iot wemo on	start the smart plug
+iot wemo on	if switch is on then turn on else turn off
+iot wemo on	i need to turn on the plug in my office for my computer
+lists createoradd	add detergent to the list of things i need to buy
+lists createoradd	please add list of friends to invite for the party
+lists createoradd	put wash the car to my to do list
+lists createoradd	Put milk on my shopping list
+lists createoradd	please add deodorant to my shopping list
+lists query	what is on my shopping list
+lists query	tell me what is on my list
+lists query	can i have my list
+lists query	what are the titles of the lists in contacts
+lists query	please read me my current lists
+lists remove	erase shopping list
+lists remove	remove a list of accessories purchase last week
+lists remove	open lists remove list
+lists remove	throw away my to do list please
+lists remove	cross out bread from shopping list
+music likeness	Olly save all the songs i have listened to more than once
+music likeness	keep that song for when i need cheering up
+music likeness	save this song in my great songs category
+music likeness	compile favorites list according to my song feedback
+music likeness	my favourite music band is queen
+music query	from which movie is the song
+music query	what is the name of that song
+music query	what is the current song called
+music query	in classic all music are there ever any singers
+music query	is that song from shakira
+music settings	set track twenty eight in music player on repeat
+music settings	change the music mode to rock
+music settings	repeat this song three times
+music settings	repeat song number ten from main list
+music settings	stop repeating this song
+news query	will trump visit russia anytime soon
+news query	how is the news in ireland
+news query	can you search trump
+news query	headlines from dhaka tribune
+news query	please let me know about topic elections
+play audiobook	play animal farm
+play audiobook	resume playing the current audiobook
+play audiobook	play the program where i left off yesterday
+play audiobook	resume audio playback of twilight
+play audiobook	start chapter five of physics for future presidents
+play game	want to play a game with me
+play game	launch game
+play game	tag you're it
+play game	start the league of legends game
+play game	please open and play chess with me
+play music	find jazz music on my playlist
+play music	play my first favorite song on loop
+play music	can you play call me by aretha franklin after this song is finished playing
+play music	play purple haze
+play music	open my amazon music app and play my playlist
+play podcasts	can you please play the next episode of food stuff
+play podcasts	play me a podcast
+play podcasts	will you please play the next episode of podcast
+play podcasts	skip forward
+play podcasts	continue onto the next podcast
+play radio	go to the station fm ninety six point five
+play radio	lets hear wgrr one hundred and three point five
+play radio	find radio
+play radio	open radio frequency ninety nine point five
+play radio	play radio one
+qa currency	give me the exchange rate between united states dollar and canadian dollar
+qa currency	tell me the current dollar ratio for the us and canada
+qa currency	what is the rate for g. b. p. to u. s. d.
+qa currency	how much is one u. s. d. in inr
+qa currency	how many yen for each dollar
+qa definition	please tell me what is the definition of cylinder
+qa definition	describe rock sand
+qa definition	what is a sphere
+qa definition	find me a description of morel mushrooms
+qa definition	sanctimonious definition
+qa factoid	tell me about alexander the great
+qa factoid	how far does my dollar go in japan
+qa factoid	when did beyonce and jay z get married
+qa factoid	for how many years was abraham lincoln president of united states
+qa factoid	how big is the tower of london
+qa maths	what is the square root of thirty six
+qa maths	is the answer of five plus two seven
+qa maths	what is the square of 4
+qa maths	four divided by two equals two
+qa maths	what is twelve plus one hundred and ninety six
+qa stock	what is a stock price of tata
+qa stock	give the stock price details of motorolla
+qa stock	have stocks gone up or down today for walmart
+qa stock	please tell me what is the stock price of dew in ny market
+qa stock	update me on stock price of this company stock
+recommendation events	what plays are showing at the theatre
+recommendation events	which event should i attend in my area
+recommendation events	is there anything happening in town this weekend
+recommendation events	badminton
+recommendation events	list saturday night events near current location
+recommendation locations	where monet's exhibition takes place
+recommendation locations	where a good restaurant
+recommendation locations	which is the best place to visit in this month
+recommendation locations	i'm looking for some dress shows can you find clothing stores within one mile
+recommendation locations	what's the most popular curry place in town
+recommendation movies	suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like
+recommendation movies	check for all the movie theater prices and availability for a newly released movie in my location
+recommendation movies	recommend a movie with justin bieber
+recommendation movies	what movies are playing near me
+recommendation movies	what is playing at amc twenty
+social post	post a facebook status engaged
+social post	tweet this tweet coffee was too hot and at this company costa coffee
+social post	post a facebook status update
+social post	write a complaint to best buy
+social post	please tweet a complaint about slow service at applebee's
+social query	show me my latest social media activity
+social query	what's trending on twitter
+social query	please let me know what's happening to my social media
+social query	has anyone commented on my status
+social query	what new posts are on my page
+takeaway order	checkout top restaurant near me and order shahi panner
+takeaway order	order a double bacon cheeseburger with bacon an white american cheese
+takeaway order	call the nearest thai restaurant with delivery
+takeaway order	start a takeaway order for me
+takeaway order	order a ham and cheese sandwich from subway
+takeaway query	will they deliver to me
+takeaway query	hello i would like to know whether you provide home delivery services
+takeaway query	look to see if luigi's has takeaway
+takeaway query	does pf changs accept takeout orders
+takeaway query	does this place do takeaway
+transport query	directions to the target on I forty
+transport query	directions to nearest apple store
+transport query	what time is the train passing by
+transport query	can you find me a train ticket to montauk
+transport query	what is the route to the closest mcdonalds
+transport taxi	just book for me a lyft taxi to bardonia
+transport taxi	lets get a taxi
+transport taxi	please book a taxi for me
+transport taxi	i need a taxi to pick me up at the house and take me downtown
+transport taxi	book a taxi to airport for me in the evening
+transport ticket	get me a train ticket from mumbai to goa
+transport ticket	book a ticket for today in irctc site for the stored information
+transport ticket	can i get a train ticket to
+transport ticket	book a ride from new york to orlando covering ten places to see
+transport ticket	i need to get a ticket via train to orlando from hwood
+transport traffic	current traffic conditions
+transport traffic	traffic congestion issues
+transport traffic	how is the traffic situation in houston street
+transport traffic	system pull any traffic news for my commute
+transport traffic	give me a traffic update
+weather query	how many degrees is it in orange tx right now
+weather query	what is the forecast for the week
+weather query	what is the weather update for tuesday
+weather query	what is the temperature
+weather query	will I need a raincoat when I go to glasgow on sunday

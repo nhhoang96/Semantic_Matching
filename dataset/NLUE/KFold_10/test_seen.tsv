@@ -1,0 +1,1609 @@
+iot hue lightoff	cease operating lights
+iot hue lightoff	switch off the light
+play game	let's play a game of truth or dare
+news query	any local news stories for my home city
+iot hue lightoff	turn off the room light
+social post	tweet complaint to american eagle customer service
+qa currency	what is a canadian dollar worth in the us
+calendar query	do i have any off days this week
+play podcasts	play next episode on podcast
+iot coffee	set coffee maker to start at three
+cooking recipe	what's the recipe for fish soup
+calendar set	on february fourteenth make dinner reservations at the restaurant
+qa currency	what is the exchange rate between us and canada
+weather query	please confirm the weather for the thirteenth of this month
+qa factoid	what year what the eiffel tower built
+iot cleaning	initialize the robot vacuum
+iot hue lightchange	transition to another color for the lights
+qa stock	give me today's market trends for panasonic
+play radio	ally please play pandora radio
+calendar set	call sarah
+transport traffic	is the road clear in florida
+audio volume down	please lower the speaker volume
+lists remove	get rid of mike stein from contacts list
+iot coffee	can you set my coffee machine to make me coffee at seven am
+lists createoradd	include this item
+general confirm	did you get last thing said correctly?
+general dontcare	do not really mind for whatever, olly.
+news query	what's the latest news on donald trump
+iot hue lightoff	can you please turn off the lights in this room
+iot coffee	make the coffee
+calendar query	what have i got going on between three and four pm today
+general affirm	yeap you've understood my instructions perfectly.
+iot hue lightoff	switch off the light on the left
+transport traffic	how long should the drive to work take
+iot hue lightup	i can't see let's make it brighter
+general confirm	did you get last thing i said correctly?
+qa maths	is one divisible by three
+calendar set	remind me to take the casserole out of the oven at seven hundred and forty five pm
+iot hue lightup	it's a bit dark increase lighting
+general confirm	i want you check the last thing i said please.
+weather query	what will the weather be next week
+iot coffee	please make me some coffee
+transport traffic	how is the traffic on harvard
+news query	what's the latest on the travel ban
+iot hue lightoff	please turn off the light of my son's room
+transport traffic	do you have a traffic update
+qa stock	stock price fb
+qa maths	what is twelve divided by four
+calendar remove	change the plan of meeting
+qa factoid	when is shakira's birthday
+transport traffic	how is my commute
+social post	hi olly post my last clicked photo on facebook with title marry christmas
+play music	hips dont lie thats the song i would like you to play for me
+email addcontact	add a new email contact to my list
+general affirm	you did command perfectly.
+iot hue lightoff	turn the lights off
+iot hue lighton	overhead lights on please
+iot coffee	can you make me coffee now
+play game	play solitaire
+lists remove	delete item four
+lists createoradd	create list
+email query	initiate polling for new email
+transport traffic	what the traffic condition outside my office
+calendar remove	can you delete all events from my calendar
+iot wemo on	turn my smart plug socket on
+qa factoid	when does the super bowl officially start
+music settings	show current track in music player
+iot hue lightchange	house change all lights to blue
+news query	what's going around in the world these days
+social query	instagram
+play podcasts	play next on podcast
+qa definition	mobile device explanation
+general praise	you've done it right thank you so much.
+lists createoradd	include an item to a list
+general confirm	did you get what i just said correctly?
+iot hue lightdim	please turn down the lights in the house
+alarm set	turn on my alarm
+datetime convert	what is the time difference between new york and lagos
+lists remove	please delete the shopping list
+music query	who is singing that song on now
+weather query	is mysore going to be very hot and humid today whats the weather status
+play game	Please play this game
+general commandstop	olly shut up.
+music query	what movie is this song from
+iot hue lightdim	hey olly make the lights a little dimmer
+transport query	train times to glasgow
+qa definition	what does obsessed mean
+news query	tell me if an earthquake happens in the world
+general affirm	yeap excellent response to the command.
+calendar set	call me for this meeting
+qa definition	describe what a sphere is
+play podcasts	go to the third episode of this podcast
+datetime convert	how much later is new york than la
+play podcasts	skip to next podcast
+music settings	put the last song on repeat
+play podcasts	play next episode
+iot coffee	prepare my morning coffee
+cooking recipe	what is the best tasting cut of beef
+music query	what music genre do i play most
+general confirm	check what said.
+datetime convert	what is the nine am cst to est
+lists query	find list in my pda
+play radio	let's have the radio on
+iot hue lightdim	lower the lights
+email query	hey do i have any emails from bob about the bulldog
+audio volume down	it's really loud can you please turn the music down
+audio volume up	speak louder please
+qa definition	siri what does survey mean
+email addcontact	enter atdfd@yahoo dot com into my contact list
+alarm set	create an alarm for six am
+alarm set	can you set an alarm for me
+email query	display recent email from john
+music query	music traking
+datetime convert	change this time zone to washington
+alarm set	set alarm at nine am on next sunday
+datetime convert	i need the time zone from london england instead of central time zone
+general praise	you are awesome, thanks.
+calendar query	can you tell me the next scheduled event
+play music	play music true love
+lists createoradd	start a new list
+general dontcare	anything is ok for me.
+general dontcare	does not matter for me, olly.
+qa currency	u. s. d. to g. b. p.
+iot hue lightoff	turn off light
+news query	can the latest news be pulled up on the latest weather forecast for the week
+play podcasts	please play podcasts on science
+social post	tweet to ikea costumer service the following i'm not happy with this new klm product
+lists query	what are my available lists
+news query	what is the current state of brexit negotiations
+calendar remove	delete an last event reminder of twenty ninth of march twenty seventeen
+recommendation locations	where can i shop as a local tourist
+play radio	can you start ryan seacrest
+calendar set	activate a one week notification before my anniversary please
+social post	write complaint to wallmart
+iot hue lightchange	switch on the green light in playroom
+lists createoradd	prepare a new list
+iot hue lightdim	lower the lights in bedroom two
+transport query	when i should leave to office
+cooking recipe	please search for beginners guide to cooking
+email sendemail	prepare email for susan
+play game	search for the correct game
+email addcontact	save to contacts
+alarm set	add alarm
+iot wemo on	turn on the socket
+calendar query	what events do i have scheduled today
+recommendation locations	whats a good place to eat around midtown new york
+general praise	you have done that right appreciated.
+iot hue lightoff	please turn off all the lights outdoor
+qa factoid	how many hook ups had richard feynman
+iot wemo on	turn on new smart socket
+play radio	play the miami heat and warriors game
+music query	what is the name of that song that just went off
+calendar remove	hey olly on the twentieth clear my calendar
+iot coffee	please make me a coffee
+iot wemo on	turn on plug
+iot coffee	cup of coffee please
+recommendation locations	where do people shop for clothes here
+audio volume down	make the volume lower
+recommendation locations	locate local pizza shops
+calendar remove	make my calendar empty
+news query	notification regarding the new iphone release update
+iot hue lightoff	turn the lights off please
+music query	this song is composed by whom
+news query	fast me the news of academy awards
+social post	tweet complaint to consumer service
+alarm set	set an alarm for eight pm
+iot coffee	please make me nice coffee
+news query	set notification from world news
+email query	open email
+cooking recipe	how can a cook risotto
+transport query	can you please let me know the next four scheduled trains to chicago
+play radio	play all the programs pertaining to rock songs on the radio
+cooking recipe	find the recipe for sambar in cookingforu application
+calendar set	add event book club debbie's house wednesday night
+social post	what is the customer service feedback
+social post	can you contact samsung and say my washer is on fire
+general praise	amazing job, you have done well.
+weather query	what is home town weather
+transport traffic	should i go through the valley or on the ten to get to westwood
+email query	can you check to see if i have any recent email alerts
+iot hue lightchange	make curser adjustable position
+iot hue lightdim	lower lights now
+qa definition	tell about the origin of the word evolution
+lists createoradd	make a new list
+social post	post to facebook at the spa yay with a smiley face emoticon
+play music	play all songs by metallica on shuffle
+email querycontact	what is the home phone number for sarah
+audio volume up	increase volume by two levels
+weather query	what is weather today
+transport ticket	open irctc application and go to book ticket
+calendar remove	i no longer need to see the doctor can that event be removed
+music query	give me name and type of this music
+alarm set	put alarm at five am
+qa currency	i need the exchange rate for the us dollar and the euro
+weather query	will i need my snow boots this afternoon
+general confirm	i like you check it please.
+play music	can you play my favorite music
+iot hue lightchange	change color of lights
+lists remove	i don't want eggs
+qa stock	what is the sensex and nifty points for today
+general affirm	right response to command.
+general dontcare	don't really bother, olly.
+alarm set	i want an alarm for three today
+audio volume down	lower all volume on speakers please
+calendar remove	remove calendar events for this week
+qa currency	tell me the exchange rate of ten dollar to euro
+email sendemail	reply an email to jason that i will not come tonight
+transport traffic	tell me about city traffic
+weather query	how's the weather today
+iot wemo off	i'd like you to shut off my smart plug socket now please
+qa currency	convert one us dollar to british pound
+lists query	what's on my todo list
+qa currency	how much yens per u. s. d. today
+email query	read new messages from my wife
+email querycontact	did mom text me
+weather query	what will be the weather update for monday noon
+email query	what are my new contact emails
+play music	open my amazon music app and play my playlist
+lists query	make sure bread is on my grocery list
+qa maths	multiply one thousand by twelve
+general affirm	yes you get your understanding perfectly.
+music query	what song is playing on windows media player
+transport traffic	what is the latest traffic report for miami
+iot hue lightchange	change the light color to red
+iot hue lightchange	make the living room light orange
+calendar query	when is my next appointment and who do i contact to reschedule
+social query	what was the latest post
+transport traffic	is traffic heavy
+lists createoradd	new item for list
+general confirm	check last thing i said.
+play music	run indian folk song
+qa currency	how much is indian rupee going against us dollar
+cooking recipe	bring up a recipe for turkey meatballs
+general praise	thank you, olly.
+qa maths	what is the answer to four plus four
+social query	how many likes does my last instagram photo have
+lists remove	take item off list
+recommendation locations	what's the best chicken place near me
+play podcasts	play fishing podcasts that are favorited
+play radio	play the radio
+iot hue lightup	please turn the lights brighter
+calendar set	dentist appointment today at nine am
+calendar set	add running to my calendar for thursday
+play game	play snake with me
+lists query	any sport event is on my list
+calendar remove	remove emma's birthday from events
+play podcasts	play me some podcasts about getting rich quick
+iot cleaning	please set the vacuum to start going now
+news query	let me know the latest weather news
+social post	tweet consumer service that the quantity is wrong
+email query	refresh my inbox and inform me about new emails
+social query	what is happening on facebook
+alarm set	set alarm for eight am
+email querycontact	show me my contacts
+iot hue lightoff	turn the light off in the living room
+social post	start complaint to walmart
+alarm set	ring the alarm when i get home
+email sendemail	email friend
+play music	start the satellite music feed
+email sendemail	reply email to charlotte
+email addcontact	please add johndoe@yahoocom to my contact list
+calendar set	march fifth is john's birthday please place this on the calendar
+general commandstop	olly i will talk to you later.
+email query	have i received any emails since noon
+iot hue lightchange	i want to change the light colors
+recommendation locations	i need some sushi what's closest
+lists createoradd	pick up dry cleaning tomorrow
+general confirm	can you please check the last thing i said.
+cooking recipe	how long should i simmer rice for
+play game	anyone for tennis
+weather query	whats the average temperature in mangalore for this week
+social post	tweet i am doing well on twitter
+email sendemail	send an email to bob
+transport ticket	open train ticket app
+audio volume up	raise speaker volume
+news query	get latest news report on kidnapping in ny
+general confirm	would you check and confirm last thing said please.
+iot wemo on	turn on my wemo socket
+play radio	please play program on xmtune
+iot hue lightoff	shut off the lights in the kitchen
+audio volume down	please reduce the speaker volume
+audio volume up	turn the volume up on music player
+news query	google search the topic
+calendar set	latest reminder about meeting
+lists createoradd	add the item to the list
+iot hue lightup	i want to raise the light
+transport traffic	may i know the traffic situation
+news query	check the news
+cooking recipe	how long do i roast chicken breasts
+lists createoradd	make me a new checklist
+qa factoid	was einstein married
+iot hue lightoff	i want the lights turned off
+lists remove	abolish an item from list
+audio volume up	olly turn the volume up
+play game	i want to play a game with you
+iot hue lightdim	darken
+weather query	whats the weather now
+iot hue lightchange	alter the color of the lights at home
+iot hue lightchange	change the lights of the house to a blue hue
+email sendemail	start email for address not in contacts
+iot hue lightchange	change the media room lights from purple to green
+iot hue lightup	raise the light
+audio volume up	turn up
+audio volume up	could you speak more softly
+email query	did i get an email from mike
+calendar remove	cancel sam's party
+calendar set	remind me to take out the trash
+play game	find game
+general dontcare	it is unimportant for me, olly.
+iot hue lightoff	bedroom lights off now
+social post	can you send a tweet to lif saying that their app crashed
+play podcasts	play this podcast
+news query	show me rediff masala
+weather query	when is the next time it will rain
+transport query	tell me the trains from california to new jersey after eleven pm
+iot hue lightchange	lights to fifty percent
+email querycontact	who is the contact that last called me
+qa maths	what is twenty three times fifty two
+general dontcare	any one is good to me.
+email query	do i have any new emails from dan
+transport ticket	i need to get to bristol Friday night can you book me a ticket please
+general commandstop	olly that is enough, cancel.
+email querycontact	what is this person's contact information
+iot hue lightchange	i need some ambiance please
+email querycontact	add rebecca green to my list of favorite contacts
+general confirm	check last thing i said please.
+general affirm	yeap you've got your understanding right.
+play game	tag you're it
+transport traffic	how's are the roads looking right now
+transport traffic	how is traffic
+iot cleaning	can you put the vacuum on
+email addcontact	please add dan's email to my contacts
+qa factoid	where is place
+lists query	can i see my lists for today
+iot coffee	i need a cup of coffee
+email query	check email client
+general praise	thanks for asssistance.
+iot coffee	i need coffee please preferably hot
+iot hue lightchange	change lights from red to blue
+general commandstop	would you shut off.
+general dontcare	i don't really care.
+cooking recipe	what is a good vegan egg substitute
+iot cleaning	does the robot vacuum cleaner have to be plugged in
+play music	play music for me
+music query	show the playlist
+calendar set	send me notice of meeting wednesday nine am
+qa definition	what is a banana
+iot hue lightoff	put the lights off now
+email sendemail	send this email to reply to the latest emails
+email query	are there any emails i haven't read yet
+calendar remove	delete all recurring staff meetings
+iot wemo on	turn on this socket
+transport ticket	train ticket
+lists remove	please remove the grocery list from my set of lists
+iot hue lighton	it's too dark i can't even see my hands
+iot cleaning	clear the dust and then on the cleaner
+transport ticket	i want a train ticket to oregon
+play radio	play radio ninety five point five
+iot hue lightup	can you turn up the lights
+email query	check email from john
+transport query	when is the next train leaving for austin
+lists query	tell me what lists i have
+social query	what are the latest tweets from the new york times
+iot hue lightdim	it is too bright in here dim the lights
+social query	did my friend rohit posted something on facebook
+calendar set	schedule my meeting with my girlfriend lisa in the night today at nine pm
+weather query	what's the weather in toronto today
+qa stock	tell me the stock rate of hyundai
+general praise	it's great one, thank you very much.
+transport traffic	what is the current traffic in washington town
+general commandstop	olly will you cancel it.
+iot hue lightoff	switch off the master's bedroom
+play music	please play me a song from my favourite list
+calendar remove	reset all events in calendar
+qa definition	please tell me the definition of home
+email querycontact	what is sarah's number
+qa currency	how much is one american dollars worth in england
+calendar remove	clear my next event
+transport traffic	how congested is the traffic on my way to work
+qa currency	what is the exchange rate of u. s. d. to cdn
+social query	any new interests from linda
+iot cleaning	use vacuum cleaner in the hall
+play music	play chopin
+lists query	my list please
+calendar query	give me today's calendar events after six pm
+iot hue lightchange	switch the lights to blue
+iot wemo on	enable smart socket
+general dontcare	anything would be okay with me.
+qa currency	how many g. b. p. can i get for one dollar
+transport query	how often does the train arrive and depart from penn station
+lists query	could you open my list app and check for groceries please
+cooking recipe	search for the best spagetti recipe
+calendar set	set a reminder on fifteenth march as meeting
+iot hue lightchange	change the color of the light
+transport traffic	how is the traffic at the moment
+social post	let wendy's know i hate them
+transport query	what is the amount for train ticket booking
+qa stock	notify me of the latest news on the stock market
+transport traffic	which route has less traffic today
+iot hue lightdim	please turn down the lights to fifty percent in the den
+qa currency	what is us dollar today
+lists createoradd	please add an item in my calendar
+recommendation locations	help me locate a shop that sells clothes for classy ladies
+iot cleaning	can you start the vacuum
+weather query	do you think i can wear sandals or should i wear sneakers tonight at seven pm
+email query	please archive my read messages
+iot coffee	make me a cooled coffee
+iot wemo off	can you turn off the smart socket
+lists createoradd	add new item to list
+email query	read email
+datetime convert	which time zone are we in please change to current
+play podcasts	play current episode
+lists query	please read me my current lists
+news query	access latest news
+lists query	tell me the names on the list
+iot hue lightchange	change my room lights so that i can get a good sleep
+transport query	whats the travel time from here to dallas by train
+play podcasts	can you backward an episode in the podcast
+transport traffic	how is the traffic right now
+social query	what is trending on twitter
+iot cleaning	i want to clean my bedroom put the vacuum on and go to my room
+news query	please find me the pe most recent news on
+general commandstop	can you shut off please.
+recommendation locations	near by grocery
+music settings	put the current song on repeat
+weather query	will there be snow tomorrow
+play game	let's play global thermonuclear war
+general commandstop	please just cancel.
+qa stock	can i have stock rate list of ola and uber
+play radio	get me some radio music from kamp fm
+email query	show all emails regarding the breach
+news query	can you search trump
+transport traffic	are there are any delays on my commute
+calendar query	notify me about the meetings over a period of some days
+music query	show me the picture of the singer
+play music	try to play old nineties classic music
+iot coffee	start making some coffee
+iot cleaning	clean the carpets
+qa definition	can you define conservative politics
+general affirm	yeah you understood command correcly.
+qa currency	what is the exchange rate of euro today to dirham
+email sendemail	i need to add a new email to my contacts
+lists query	what are the names of the lists that i have created
+email querycontact	is mary smith in my contacts list
+iot cleaning	vacuum the house
+play music	please play the early franks sinatra stuff i have
+alarm set	i need to get going at eight am tomorrow set up an alarm thirty minutes before that
+qa stock	how much to buy stock in i. b. m.
+iot coffee	i need some coffee please
+general confirm	i'd like you check what i last said please.
+email query	my mail
+music query	when did pop it like it's hot come out
+weather query	weather in home town
+qa stock	could you give me the exact rate for dow nifty futures
+qa factoid	please tell me about our country latitude and longitude
+play radio	turn it to frequency nine hundred and ninety seven
+music query	what music do i usually like after work
+social post	tweet @phohouse your server was rude #badpho
+play podcasts	can you play the next episode please
+qa maths	how do you solve three two
+social post	send this message to @microsoft on twitter
+qa currency	how much is one u. s. d. in inr
+email query	show me emails from my friends
+calendar remove	delete the scheduled meeting on fourth october twelve pm
+play podcasts	get the next episode
+iot coffee	please turn on coffee maker and start brew cycle
+calendar remove	remove today's meeting at evening
+general affirm	yes you got answer correcly.
+general confirm	could you please check and confirm my last command.
+audio volume down	please adjust the speakers to a lower more comfortable level
+social query	who has written to me or mentioned me in social media
+general praise	ah it is excellent.
+iot hue lightup	turn out the lights
+email addcontact	please add contact email johndoe@yahoo dot com to john doe's contact information
+cooking recipe	it should spices
+qa factoid	when is stassi schroedder's birthday
+iot hue lightup	turn up the brightness of the lights
+calendar set	schedule lunch at tomo in arcata california tomorrow at noon
+general commandstop	olly that is enough, just stop it.
+music query	do you know the name of the song that is playing
+play podcasts	play anything new from my podcast subscriptions
+lists createoradd	add item
+music query	who sings this
+alarm set	set an alarm for five hundred and thirty
+weather query	on Tuesday what is the weather supposed to be
+general dontcare	i would not bother, olly.
+play game	do you want to play monopoly with me
+general confirm	would you check and confirm question please.
+audio volume up	please increase the volume of the current song
+iot hue lightdim	dim the lights in the living room
+social post	send tweet to united airlines i'm angry you lost my bags
+cooking recipe	what are the steps for biriyani meal
+cooking recipe	what temperature should the oil be for frying french fries
+music query	what is my most played song
+general affirm	you have understood my instructions perfectly.
+play music	play the song get happy by ella fitzgeral
+general praise	wonderful work, you did well, olly.
+email querycontact	what is jimmy johns's corporate number
+iot hue lightoff	office lights off
+general confirm	will you check and confirm my last command.
+calendar remove	delete all scheduled events
+qa maths	what is the square of 4
+transport query	find nearest train station
+iot wemo on	turn on kitchen light
+recommendation locations	what is the best mexican restaurant in seattle
+qa factoid	give me the birth date of mahatma gandhi
+email query	do i have any emails from katherine
+qa definition	define flabbergasted
+calendar query	do i have any thing going on at five
+iot hue lightdim	dim the lighting in my living room
+cooking recipe	i would like instructions on how to cook baked chicken
+iot cleaning	start house cleanup
+email addcontact	add new email to my contacts macs@gmail dot com
+iot hue lightdim	lower the light level in my house
+music query	who is the singer of song
+iot cleaning	start the robot vacuum cleaner at one pm today
+lists createoradd	start new list
+general commandstop	please cancel.
+iot hue lightchange	change light colors
+qa factoid	what year did george clooney start acting
+play radio	open pandora play rock station
+play music	play the romantic songs
+general commandstop	would you just stop it please.
+calendar remove	format data from calendar
+transport ticket	find out the the train arrival time and book me
+email query	new messages
+qa maths	solve the calculation
+iot cleaning	start the robotic vacuum
+iot coffee	prepare coffee
+qa definition	what is the meaning of the word sanctimonious
+email addcontact	add this email to my contact list
+iot hue lightup	turn the lights brighter
+iot coffee	brew me a cup of coffee
+qa currency	find me the exchange rate between dollars and bitcoin
+transport traffic	how long will it take me to get to the west side
+lists query	what is on my to do list today
+cooking recipe	give me instructions on how to cook chicken
+music settings	please check my playlists for jazz music
+iot hue lightchange	could you change the lights colour to green please
+qa factoid	calculate distance from boston to new york
+calendar set	remind me of meeting five minutes before time
+iot coffee	start the coffee machine at three
+qa definition	give me the description of a smartphone circuit
+email querycontact	what is jeff's number
+calendar query	what do i have scheduled for next week
+qa factoid	search for pink's youtube channel
+play game	open chess game
+play podcasts	forward this one
+music query	what are the lyrics to this song playing
+transport ticket	i need to book rajdhani train ticket from mumbai to ahmedabad
+transport traffic	how heavy is traffic now in denver
+iot hue lightchange	set the mood please
+audio volume up	i need to hear the volume of the current music
+transport query	what are the train times for today
+iot hue lightoff	turn off my bedside lamp please
+recommendation locations	recommend me a restaurant in west chester
+music settings	lower battery consumption to save setting
+social query	may i know what is trending in facebook
+transport traffic	are there any accidents on my way to work
+lists remove	throw away my to do list please
+transport query	find a train going from prague to brno
+iot hue lightoff	lights off in the kitchen please
+iot hue lightchange	light settings
+play podcasts	find me a podcast on wrestling
+general confirm	i would like you check and confirm it please.
+qa stock	fb stocks
+iot coffee	can you get me a cup of coffee
+transport ticket	please book train ticket from mumbai to sangli for tomorrow morning
+transport ticket	best ticket price air plane to chester on the twenty first
+general confirm	please check last thing said.
+iot hue lightdim	please lights less brighter
+music query	who is the artist of this song
+iot hue lightup	can you brighten the lights for me
+qa currency	which bank will give better rate for currencies i have
+iot coffee	need a hot coffee
+qa currency	please check the exchange rates of the us dollar vs the euro
+qa stock	give me the opening stock price of infosys technologies today
+general praise	that's amazing job, musch appreciated.
+play radio	play music now from radio plus
+lists query	read list for me please
+qa factoid	where do cows come from
+play radio	i'd like to listen to my favorite morning show in the car on the way to work please
+calendar remove	can you remove that on my calendar
+iot wemo off	turn socket off
+iot hue lightdim	make the lights less bright
+play game	turn on console
+general commandstop	just stop please.
+recommendation locations	list all the nearby shops
+transport query	fix the driving route from here to grant market
+play game	play for me the game temple run
+weather query	show me this week's forecast
+qa currency	what's the current exchange rate for the euro against u. s. d.
+alarm set	set my calendar for an alarm at five pm tuesday
+news query	i would like to know the latest from nbc news
+news query	what is the bbc's latest news
+play music	play new rihanna song
+cooking recipe	what does one have to damage in cream to make butter
+lists remove	erase my grocery list
+qa definition	describe blanket
+datetime convert	can you change my time zone to central
+iot hue lightoff	turn off my room lights
+calendar query	do i have any pending reminder
+transport ticket	book a train ticket for one one way for this tuesday at nine am
+calendar set	remember dinner on thursday at bistro italia
+general confirm	please will you check and confirm my last instruction.
+music query	nine hundred and ninety nine fm is currently playing what music
+datetime convert	what is the time difference between eastern time and pacific time
+music settings	please go to settings of the music player and make the equalizer in the flat sound mode
+alarm set	please set my alarm for five pm
+email querycontact	find jhonny's address
+lists remove	please remove item a from my list
+qa stock	current price of coca cola stock
+alarm set	set alarm for saturday morning soccer practice at eight am
+qa currency	how many yen for each dollar
+general affirm	you've gotten your understanding correcly.
+music query	what is the song name
+audio volume up	i want volume on my speakers
+news query	political news of importance for the day
+iot hue lightchange	turn living room lights red
+qa currency	exchange rate from cad to u. s. d.
+social query	facebook
+general dontcare	i would not really mind, olly.
+calendar remove	hey olly make sure my calendar is completely clear tomorrow
+qa factoid	did angelina jolie leave brad pitt
+email querycontact	what is john's last name
+news query	let me know if anything happens on that subject
+qa currency	if i have a dablune how many dollars is that
+general affirm	exact response to the command.
+general confirm	i would like you check details please.
+qa factoid	tell me when obama was born
+general dontcare	whatever is okay for me.
+calendar remove	remove upcoming task
+general commandstop	olly i'd like you just cancel it.
+transport ticket	i need a train ticket to
+social post	please tweet the following to radisson hotels customer service
+social query	what did happen today
+general dontcare	anything would be ok with me.
+lists remove	i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist
+calendar query	what meetings do i have between eight ten today
+transport ticket	get me two train tickets from where i am now to dallas arriving before dark
+alarm set	set alarm on twenty fifth may at five pm
+play music	i want to hear sleeptime playlist next
+social post	place family phone on instagram
+play game	i wish i could play video games together
+lists remove	remove noodles from the list
+iot hue lightup	turn up lights
+iot wemo on	turn on the plug socket one
+iot wemo on	on mobile charger plug
+iot coffee	make coffee
+recommendation locations	i need to find a gift what stores are within a one mile radius
+recommendation locations	is there any grocery nearby
+social query	what's hot social media topics
+email query	what were the first number of email subjects i got today
+lists query	what's the next thing on my list of appointments
+qa stock	how many shares of apple can i get for
+play radio	play miley cyrus radio
+audio volume down	no no turn it down
+audio volume up	more volume please
+general commandstop	i will talk to you later on.
+audio volume up	i couldn't hear you repeat that louder
+transport ticket	find me a train ticket next monday to new york city
+qa currency	what's the rate between the u. s. d. and ukraine's currency
+play game	i want to play rock paper scissors let's play
+email query	are there any unread messages in my inbox
+general praise	it was cool, i appreciate it.
+weather query	is summer going on
+email sendemail	send an email to rohit saying i am busy tomorrow
+alarm set	change alarm to start at midnight
+general confirm	i would like you to check the question please.
+email sendemail	email co worker about work project
+weather query	open the weather app
+qa currency	how many pesos can i get for a dollar right now
+transport query	display trains going to antwerp after two pm saturday
+cooking recipe	i need the recipe for hot cross buns
+lists createoradd	i want to know could an extra item be added to my grocery list
+general affirm	that is good.
+transport traffic	give details about the current traffic
+weather query	will the temperature be higher than forty tomorrow
+lists query	tell me what is in your list
+lists remove	remove my shopping list
+play radio	play the bob and tom show
+calendar set	invite people to the calendar event
+calendar query	tell me what is on my schedule for today
+general confirm	could you please check and confirm last thing i said.
+music settings	olly skip song
+calendar set	please tell me to take my umbrella because it will be very hot today
+play podcasts	play the next show on podcast
+iot hue lightoff	turn light off
+lists remove	please delete list titled kickball
+iot hue lightoff	did i leave the light on in the garage
+social post	send report to consumer service
+iot coffee	a cup of coffee please
+music settings	please repeat the current song is being played
+email addcontact	create new contact with email
+iot hue lightoff	turn off the lamp in the living room
+transport ticket	go to www dot metronorth dot com for train tickets
+alarm set	please set the alarm for seven
+qa definition	what is piramid
+calendar set	remind me the upcoming meeting at four am today
+cooking recipe	how many teaspoons are in a cup
+email query	open inbox
+lists createoradd	i want to start a new list
+audio volume up	i can't hear just increase the volume
+calendar remove	clear my calendar for saturday
+email querycontact	how old is joanne
+iot coffee	brew coffee
+transport query	please list the available rain trips to location a
+social post	tweet a complaint to comcast
+alarm set	i need a six am wakeup call
+general commandstop	would you shut down please.
+qa stock	how much does bde cost
+transport ticket	buy train ticket
+email sendemail	compose an email to parisa
+cooking recipe	can you tell me how to cook chocolate chip cookies
+email sendemail	send email to joanne@aol dot com and add as new contact
+email querycontact	is it joes birthday soon
+social post	tell them that their lines were too long
+qa maths	what is the result of two by two
+iot hue lightchange	light color change
+qa definition	how would you describe a ball
+play radio	start my playlist on i heart radio
+transport ticket	can i get a train ticket to
+social post	post a complaint via twitter to cvs pharmacy
+iot coffee	coffee make now
+weather query	do i need a jacket today
+email sendemail	please reply to my colleagues mail about his query
+qa definition	what is a monitor
+qa factoid	how old is clint eastwood
+email querycontact	what are john's contact details
+transport traffic	traffic alert
+social post	tweet a complaint to amazon about late shipment
+calendar set	can you set a reminder for wednesday at one pm for my meeting
+lists createoradd	create a new list of my due bills
+iot wemo on	turn wemo on
+cooking recipe	what is the cooking time for mashed potatoes
+cooking recipe	show me pancakes
+general confirm	could you check what just said.
+iot cleaning	can you wake the roomba for the kitchen
+qa currency	currency conversion of u. s. d. and eur
+calendar query	what is the plan for tonight
+audio volume up	please turn the music volume up
+play game	want to play a game with me
+news query	please keep tabs on how the presidential debates are going
+email addcontact	update my contacts with the new contact sam@gmail dot com
+email query	what are my newest emails
+iot hue lightup	can we turn up the lights
+transport query	what time will i arrive in austin tx
+lists createoradd	create a list for the following
+calendar remove	clear off the vet appointment tomorrow
+general confirm	please check what said.
+qa factoid	who built the prado museum
+general dontcare	really don't mind, olly.
+weather query	get today's weather report
+qa currency	u. s. d. position now
+iot wemo off	please turn off the smart socket
+email sendemail	send an email for me
+social post	post that i am going to woodland shoe store
+general praise	that's helpful,.
+social query	how many likes i have got on my eggless cake post on youtube
+play music	play any song of arijit singh
+news query	Show me articles about the new iphone eight
+lists query	tell me what is on my list
+iot wemo off	turn off the tv in
+lists createoradd	make a things to do list
+weather query	how is it outside today
+general praise	that's nice job, thank you so much.
+qa maths	what is the answer to one times two
+alarm set	please set alarm at five pm
+general dontcare	do not really bother.
+news query	is india win today cricket match
+lists createoradd	can you create a new list in the playlist
+iot hue lightup	turn up the brightness
+transport traffic	is there any construction on route sixty six
+lists createoradd	add eggs to my grocery's shopping list
+transport query	please send me info on how to go about purchasing a train ticket to new york
+email sendemail	can you open the reply inbox
+transport ticket	book me a train ticket at earliest time tomorrow
+iot coffee	i fancy some coffee now
+email querycontact	may you please pull up information about a contact
+general confirm	could you confirm my last instruction please.
+calendar query	are there any events schedule for this week
+music query	what genre is this
+iot hue lightup	turn up the lights please
+alarm set	change my alarms to mountain time
+play radio	can you turn on pandora
+weather query	how is the weather down in orange tx
+iot cleaning	hoover the carpets around
+qa definition	what does apple of my eye mean
+lists remove	go to the list and remove item
+lists query	please tell me what lists i have
+iot wemo on	power yourself on
+weather query	what is the weather for this week
+lists remove	i want you to delete my shopping list from last month
+music query	other songs by this artist
+recommendation locations	where is the nearest smoke shop
+general affirm	get command exactly.
+qa factoid	when is sunset
+qa factoid	what awards did erica grebe win last night
+recommendation locations	which store's got the cheapest three pound beef rump
+transport query	search for trains leaving tonight for london
+iot hue lightup	please put all the lights
+weather query	how is this weeks weather
+calendar query	are there any events on my calendar for this week
+iot hue lightchange	change the light color to blue
+qa currency	what is the exchange rate between u. s. d. and inr
+music query	which was that coldplay song i listened to yesterday evening can you play it again
+lists createoradd	put this on my list
+general commandstop	could you shut up.
+iot cleaning	let's suck out the dust
+play podcasts	start podcast
+general praise	it's wonderful job, thank you very much.
+social query	show me my social media notifications
+qa maths	what is the square root of four
+play radio	can you play acoustic music with no commercials
+lists query	what are all my lists
+calendar query	tell me the meetings i have for the week
+qa definition	what does h2o stand for
+calendar query	is there any pending reminder for me
+iot wemo on	please switch on my wemo plug socket
+play music	let me hear some bluegrass music
+qa currency	siri what is one american dollar in japanese yen
+calendar set	the location is my office
+email querycontact	where seth lives
+qa maths	divide one thousand five hundred by one hundred and sixty
+iot wemo off	make the smart socket turn off
+transport traffic	how was the traffic now
+general praise	you've done that correctly thanks.
+cooking recipe	can you prepare a cheese sandwich
+general commandstop	would you stop please.
+general affirm	yeap that's right.
+play music	play all songs by martina mcbride
+iot wemo off	off the plug
+social post	write a tweet to this company
+general commandstop	olly i want you just stop it.
+transport traffic	is there any traffic right now
+social post	post a facebook status update
+transport ticket	book a train ticket to mumbai for tomorrow
+audio volume up	i need you to have the volume louder
+music query	can you locate some gospel music for me
+play podcasts	please play next episode of bbc history podcast
+iot wemo off	turn off the smart socket
+iot hue lightdim	bring the lights down a bit
+iot hue lightdim	these lights are too bright please lower them
+lists query	give me lists
+calendar remove	delete my next meeting
+general commandstop	olly that is all, cancel.
+iot wemo on	turn on wemo
+email query	has mike sent me an email
+general affirm	yes that's correct.
+music query	name the artist who sang hotel california
+email addcontact	add new email to anna
+iot hue lightdim	turn the lights down a bit
+transport ticket	book a train ticket on the five hundred and two in fifteen minutes
+lists remove	delete butterfly clips from my wish list
+lists createoradd	my new work schedule list
+general praise	that is helpful, thanks.
+audio volume up	please turn up the volume to twenty one
+email sendemail	hello you have a send an email to someone
+cooking recipe	recipe for spaghetti
+iot hue lightup	raise all the lights on
+iot cleaning	turn cleaner robot on
+general dontcare	don't really know.
+transport query	i'd like a train ticket to this location
+music query	who sings this song
+email query	do i have any new emails from sarah
+iot hue lightup	increase
+audio volume down	volume down
+play radio	i want to listen to today's hits
+lists query	please show me the list that i have
+play music	play all the latest pop songs
+play music	go to youtube and play me the best wedding songs collection
+iot cleaning	please start vacuum cleaner
+email query	please check whether the email of jancy has come
+qa definition	what is the definition of inchoate
+news query	has anything happened to mass effect
+iot hue lightoff	light off living room
+qa definition	what does joke mean
+qa maths	what is five minus one
+qa stock	what is the google stock at
+general confirm	would you please confirm details.
+iot hue lightchange	select a different color for the lights
+iot hue lightup	up the brightness on these lights
+general confirm	would you please check that.
+general praise	you are so helpful, musch appreciated, olly.
+play podcasts	play the newest morning show podcast
+transport ticket	ticket for new york
+social post	tweet my complaint and mention this costumer service
+weather query	what will be the temperature today for miami florida
+qa factoid	longest river in the world
+qa factoid	name the capital of nigeria
+calendar query	from four to six when do i have a free break
+calendar query	do i have any appointments coming up
+iot cleaning	power up the vacuum
+recommendation locations	where's the closest zoo to where i'm at
+audio volume down	please slow down volume of speaker
+social post	tweet consumer service that i am very disappointed with my recent interaction
+play radio	start radio and go to frequency on nine hundred and forty three
+iot hue lightchange	can this room have green light
+general commandstop	olly please can you just stop it.
+iot hue lightdim	lower the lights in the house please
+general confirm	would you please check and confirm detail.
+qa definition	give me the definition of the word armor
+qa maths	what is the square root of ninety seven
+general confirm	please confirm my last instruction.
+lists createoradd	include this
+play podcasts	play the next episode of a podcast
+transport ticket	hey i want to get trains to manchester on Wednesday
+general confirm	i would like you to check and confirm my last command please.
+iot coffee	please start the coffee pot
+transport query	find me the distance and direction by train to rccg in ikoyi lagos
+transport ticket	buy me a ticket to take the train to atlanta
+play radio	please turn on radio on seven am
+recommendation locations	what pubs are close to me
+qa stock	is i. b. m. up today
+social post	send a tweet to esurance to say i hate you
+general dontcare	anything is good to me.
+audio volume up	please increase volume in music player
+iot cleaning	turn on the roomba for me
+general commandstop	please will you shut off.
+audio volume up	raise the volume to fifty
+play music	hey play me a popular country song
+play podcasts	play podcast a
+general commandstop	olly will you shut down please.
+transport query	what street do i take to get to downtown
+play podcasts	skip ahead to the next podcast
+calendar remove	can you delete the dentist appointment
+lists createoradd	i need oranges added to my grocery list
+play game	i need to play sims
+calendar query	on my calendar are there any birthdays
+iot hue lightdim	decrease brightness
+qa factoid	what color is the sky
+play game	play super mario brothers game with me
+audio volume up	raise the volume to sixty
+iot hue lightup	brighten the light of hall
+qa stock	please tell me what is the stock price of dew in ny market
+calendar set	make a meeting with friend
+calendar remove	delete my calendar
+iot hue lightdim	turn down the lights in the living room
+calendar remove	take out event from calendar
+qa factoid	how many songs did michael jackson write
+transport query	from where can i get a train ticket for athens
+music query	what are my favorite types of music
+datetime convert	if it is noon in virginia what time is it in california
+play podcasts	next episode in podcast
+lists createoradd	please add list of things to buy for party
+iot cleaning	make my iroomba clean the living room
+iot hue lightoff	turn lights off in kitchen
+cooking recipe	get recipe for making a hotdog
+transport query	search cost for amtrak luxury to los angeles
+calendar set	make a repeating reminder for tomorrow
+general dontcare	it is unimportant to me.
+alarm set	remind me at six thirty pm
+iot coffee	i cup of joe would be nice right now
+calendar query	today's schedule
+qa factoid	what is the birthday of hemingway
+iot cleaning	start robot vacuum
+qa stock	stock prices of rolls royce
+iot hue lightdim	can we please lower the lights
+social post	tweet at united airlines i'm angry you lost my bags
+general confirm	i'd like you check and confirm that please.
+transport query	can you give me the train times to nyc
+music query	i've heard this riff before what song stole this riff it's exactly the same
+transport query	please give me directions to a park near me
+audio volume up	turn up volume of music
+iot hue lightup	can you turn the lights up
+general dontcare	that doesn't really matter.
+iot wemo off	please power down
+social post	tweet customer service not good for lpg service in my twitter account
+qa factoid	what is glass made of
+iot coffee	turn on the coffee machine to make me some coffee
+lists createoradd	create new list
+iot cleaning	turn on the roomba
+play radio	play yesterday's hot ninety seven morning show
+qa maths	solution for eighty one divided by nine
+iot hue lightup	can you please turn up the lights
+iot coffee	i want the coffee machine to make me coffee
+general confirm	check and confirm the details please.
+cooking recipe	how do i braise a pork loin
+transport traffic	can i pass the bypass road at current traffic
+social query	are there any news regarding our president on facebook today
+play game	do you want to play solitaire
+music query	what is the title and artist of this song
+play music	i want to listen to electric slide
+audio volume down	please turn down the volume
+play radio	load sirius and play a rock and roll show
+iot hue lightchange	set the living room lights to red
+iot hue lightup	switch up the color of the lights in the house
+play radio	would you please turn on the am radio
+social post	can you put this on facebook
+email sendemail	compose a mail for jack
+recommendation locations	recommend a local steak restaurant
+social query	myspace
+transport traffic	traffic please
+email query	check to see if my mom sent me any emails
+general affirm	perfect response to command.
+transport ticket	book my chair class ac train ticket from manhattan to new york
+calendar remove	remove the doctor's appointment i added to my calendar for february twelfth at nine am
+cooking recipe	what are the ingredients necessary
+alarm set	set new alarm on five am
+music settings	please add this song to work out playlist
+qa maths	seven times seven
+play music	now playing
+transport traffic	show traffic in ohio
+general confirm	i like you confirm details please.
+lists remove	open lists remove list
+transport query	can you reserve a ticket to grand rapids by train
+transport query	next train to dc
+calendar query	shall we meet for today's party
+play music	play led zeppelin houses of the holy
+email sendemail	answer paul's email
+lists createoradd	create a list of monthly groceries to be bought
+social query	what is going on right now on twitter
+general commandstop	that's enough, stop it.
+music query	identify song
+transport ticket	book the the next train ticket to chennai
+qa maths	what is two plus two
+iot hue lightoff	turn off the bathroom light
+qa factoid	calculate a close integral of exponential function from zero to five
+audio volume up	i need you to say that last information again but much louder
+social post	send a tweet to company
+transport query	calculate the travel time if i go to orlando by train
+recommendation locations	where i can find a bakery
+play music	play for me the music by the beatles
+recommendation locations	wine shop
+iot hue lightdim	dim the lights to level two
+email querycontact	what is my wife's email
+calendar remove	cancel meeting at three
+transport ticket	i want the cheapest train ticket to new york
+calendar remove	i wish this event to be removed from my calendar
+iot hue lightdim	dim the lights a bit
+play game	i want to play solitare with you
+alarm set	can you set an alarm for seven am
+transport ticket	book me a train ticket to atlanta please
+transport query	directions to virginia beach va
+news query	could you please find me the latest news from a source that i do not usually go to
+email sendemail	please send an email to john saying i'm on leave
+weather query	will i need an umbrella today
+calendar query	please check my reminders
+qa definition	hey what's a book
+play radio	radio play nine hundred and eighty nine please
+email query	list all emails with subject contract
+calendar query	what day of the week is my birthday this year
+lists remove	take off this list
+weather query	is today a sunscreen day
+calendar remove	what do i have to do today
+general commandstop	olly that is all, just cancel.
+general commandstop	olly that's enough, stop it.
+iot hue lightoff	turn off the nearest light to me
+social query	was there any articles on shark attacks on snapchat yesterday
+email sendemail	email my meeting details to my manager
+email query	do i have any new email from ryan
+music query	what genre of music is in my music folder
+iot cleaning	vacuum the carpet freshener from the carpet
+alarm set	set an alarm for ten o'clock tomorrow morning
+iot hue lightchange	turn the lights blue at three pm
+iot wemo off	turn off smart socket
+alarm set	please make me wake up at four am tomorrow
+email query	did you receive this person email
+weather query	how soon can we expect rain
+news query	get me news on trump
+lists query	can you tell me whats on my shopping list
+qa definition	define love without invoking the term love
+email query	check emails
+iot cleaning	activate robot vacuum
+qa stock	what is the highest microsoft stock price today
+calendar set	i need you to remind me to go to store tomorrow
+general confirm	i'd like you check details please.
+qa maths	four plus five equals nine
+general commandstop	olly can you cancel please.
+email sendemail	inbox this mail
+social post	complaint to dept for food quality
+general praise	you are my hero, thank you so much, olly.
+email querycontact	when is jacob's birthday
+general confirm	would you check what i said.
+transport traffic	please give me the road forecast for i95 sb
+social query	read me the last tweet from the washington post
+alarm set	one am set
+qa maths	what's three plus three hundred and fifty five
+qa factoid	how many pages long is harry potter
+iot coffee	i need some coffee made
+iot hue lightoff	kindly switch off the light in the drawing hall
+iot hue lightdim	darken the room a bit
+iot hue lighton	hey turn on disco lights in my apartment and let the party begin
+social post	tweet to amazon about late delivery of my tv
+social post	customer service complaint
+datetime convert	it's eight fifty five here what time is it in england
+social post	lets send a tweet
+alarm set	set alarm for tomorrow six am
+email querycontact	show me derek's contact information
+calendar set	don't let me forget tomorrow's meeting with sheila
+calendar query	let me know about upcoming events
+transport traffic	current traffic conditions
+lists createoradd	create a new list for school supplies
+social post	send a tweet about sonys volume issues
+calendar remove	delete my meeting for tomorrow
+iot hue lightchange	change the lights to green
+lists remove	can you remove remove buying eggs item from my to do list
+alarm set	set my alarm for eight am
+iot cleaning	vacuum living room
+transport ticket	buy a train ticket to
+general praise	thanks for the helping, olly.
+alarm set	set an alarm for nine am
+email query	how many emails do i have in the last fifteen minutes
+play music	open songs by prince
+news query	new policies
+email sendemail	send happy new year to john@gmail dot com
+social post	tweet bad day at starbucks
+email addcontact	email hwu@gmail dot com add to email contacts
+audio volume up	turn it up
+social post	send a tweet to kroger about being overcharged for groceries
+transport query	running train status to vienna
+general commandstop	could you shut down.
+qa factoid	tell me about alexander the great
+general commandstop	that's all, just cancel it.
+datetime convert	what time will it be locally at nine am bangalore india time
+iot wemo on	turn on smart socket in dining room
+qa maths	what is four plus four
+lists createoradd	add apples to shopping list
+email query	i need to know all of the emails from contact pertaining to subject
+play music	put classic rock on
+qa factoid	what high school did halley barry go to
+play podcasts	will you please play a podcast
+general commandstop	olly i would like you just stop it.
+qa currency	what is six hundred euros in u. s. d.
+social post	tweet insight cable's customer service and tell them i have been waiting on hold for thirty minutes
+qa factoid	what is the total number of oceans in the world
+iot hue lightchange	rotate the light colors
+play music	i would like to hear the theme song to this is us
+iot coffee	yo i need a coffee now
+general dontcare	have no idea regarding to which to choose.
+weather query	how hot is it outside today
+audio volume up	turn the volume up
+calendar set	take note of today as my first date with bob
+email addcontact	add carl's email to my contact
+iot coffee	prepare a coffee
+general confirm	could you check that please.
+general affirm	exact.
+calendar set	remind me to meet with steve at one pm tomorrow
+general confirm	would you please check my last command.
+play game	play game with me
+social post	hello my item which i bought from some one has gone out of order
+email query	what new messages do i have
+iot coffee	put on a pot of coffee
+social post	tweet complaint to sony consumer service
+news query	whats happening in football today
+qa stock	what's the stock of apple
+iot coffee	make a pot of strong coffee
+email sendemail	respond to mom's mail message about the recipe site
+play radio	change the station to eighty two point four
+music query	what did she just sing
+transport query	give me directions for the place
+transport query	what are the prices to get to chicago on a train book the cheapest one
+calendar set	i have a meeting with sean at four pm on wednesday can you remind me
+play music	select and play only christian rock from one thousand nine hundred and ninety upwards
+play game	open fishdom game
+email sendemail	send an email to my boss and attach the presentation file with it apologize for being late
+qa currency	convert one pound to us dollar
+social post	write a tweet of complaint about my tv to samsung
+calendar query	what are my plans for today
+iot coffee	please get the coffee machine to make me some coffee
+general dontcare	wouldn't mind for anything.
+general commandstop	that is all, just stop.
+lists createoradd	help me start my kitchen list
+email query	all new mail
+email querycontact	send a text to alice
+iot hue lightdim	lighter shade on the lights please
+qa definition	give me the specs on the bugatti veyron
+audio volume up	raise volume
+iot wemo on	enable wemo
+social query	what time is bina going live with her sale on facebook
+play radio	hey olly turn the radio on
+calendar remove	clear my schedule for today
+lists remove	remove item from list
+iot cleaning	enable cleaner robot
+play music	play music i have liked
+email query	is there anything new in my email folder
+transport traffic	i would like to know the traffic condition
+lists query	tell me what's on my shopping list
+social query	get me updates from kenny's facebook from the weekend
+play music	play music from good playlist
+cooking recipe	find easy recipe for corn bread
+lists remove	i don't need the shopping list delete it
+calendar query	who is scheduled for tomorrow's meeting
+calendar query	what time does the dinner party start tonight
+alarm set	please set the alarm for next morning to seven am
+social post	tweet a complaint
+qa definition	describe texture
+play podcasts	i am ready to hear the next episode of podcast
+weather query	what is the current weather conditions in chicago illinois
+transport ticket	can you book a train ticket to berkeley for me
+calendar set	can you remind me to check my clothes in a hour
+play radio	please find the radio station currently playing howard stern
+qa stock	how is shell s stock doing today
+play game	would you like to play a game with me
+transport traffic	what's traffic look like over the golden gate bridge
+qa stock	what is the value of the yen right now
+qa stock	what is the stock price of nike today
+play music	put poker face by lady gaga next in the play queue
+cooking recipe	how do i cook a meatloaf
+alarm set	wake me at daybreak
+qa currency	tell me the exchange rate for the yen
+cooking recipe	how many cups of sugar in texas sheet cake frosting
+qa stock	list the latest apple stock prices
+recommendation locations	where is a petrol station in five mile radius
+general commandstop	i'd like you just cancel.
+qa stock	today's closing price for google
+email query	check if there any new email
+iot wemo off	turn wemo plug socket off
+general dontcare	i wouldn't really mind.
+datetime convert	time zone between india and us
+play radio	tune into the joe rogan show in ten minutes
+transport query	can you give me train times for ann arbor
+iot hue lightchange	change lights to pink
+iot coffee	order one coffee to starbucks coffee shop
+music query	what song is on the radio
+general praise	you did awesome work,.
+general commandstop	please would you shut up.
+iot hue lightoff	can you please switch off the lights
+iot hue lightchange	how do i change the color of the lights
+lists createoradd	create a blank list
+iot wemo on	power on wemo
+email addcontact	add this person's email
+iot coffee	brew my coffee
+calendar query	what meetings are available in march
+transport traffic	what is the average speed on main highway
+alarm set	set a continuous alarm without the option to snooze for seven am please
+lists remove	get rid of tax list from nineteen ninety
+general dontcare	anything will be ok with me.
+qa maths	find the sum of thirteen and fourteen
+calendar query	tell me about the meetings over a period of time
+play podcasts	start playing ringcast
+play game	can you play a game with me
+lists createoradd	add toothpaste to my shopping list
+lists remove	erase shopping list
+email querycontact	search jack in contacts
+social post	please negative response tweet on daikin service
+transport ticket	please train
+cooking recipe	tell me the recipe to cook pav bhaji
+general affirm	you have understood my instructions exactly.
+transport traffic	what is the traffic like this morning
+news query	tell me updates
+news query	people canceling iowa vacations over congressman's words
+social post	use facebook to post
+email sendemail	please email celine
+lists createoradd	update my list with shoes
+iot hue lightoff	turn off bedroom light at nine thirty pm
+transport traffic	what is traffic like right now
+qa stock	give me the stock price for tommy hilfiger
+news query	what's happening on bbc news today
+audio volume up	increase the volume of the music to ninety
+recommendation locations	where is a good wine bar near me
+recommendation locations	where can i get shawarma in this area
+news query	latest updates
+general commandstop	olly will you cancel please.
+qa factoid	when was einstein's birthday
+email sendemail	send the email to john
+calendar set	set a reminder for twelve thirty meeting with the boss
+iot hue lightoff	turn the security light off
+news query	will trump visit russia anytime soon
+recommendation locations	where to buy cannon cameras
+qa stock	what are the stock prices of target
+social query	has anyone follow me today on twitter today
+play radio	play the radio music band
+general confirm	check the command.
+lists query	check item five on my to do list
+transport traffic	am i gonna hit traffic
+calendar remove	take lunch meeting off my calendar
+lists query	whats on my shopping list
+play radio	tune into my selected station
+general dontcare	i would not mind to select any one, olly.
+lists query	what are the titles of the lists in contacts
+iot wemo off	shut off my living room plug socket
+social query	show me my latest social media activity
+qa maths	what is the linear equation
+iot wemo off	disable smart socket
+weather query	how's the weather like in beijing
+iot cleaning	turn on my robot vacuum cleaner now
+social query	what's going on facebook
+qa factoid	how far is france from miami
+email sendemail	compose email
+email sendemail	please send a reminder email to peter and ask him how long he will be taking to prepare the presentation ppt
+general praise	excellent job, you have done well.
+qa factoid	how far away is the sun
+general confirm	check and confirm the instruction please.
+general commandstop	will you stop.
+iot cleaning	have the roomba run the living room
+qa currency	convert one dollars to rupees
+calendar set	add practice to calendar on feb four at king's park at two pm
+social post	complaint on service provider on my twitter
+audio volume down	please talk softer
+general praise	appreciate your answers, olly.
+iot coffee	access coffee maker begin process
+general praise	you are the best, thank you so much, olly.
+general praise	you've done it correctly thanks, olly.
+recommendation locations	what shops are near me
+cooking recipe	what is the temperature i am supposed to cook this lasagna at
+calendar set	put working out on my calendar for eight am every day this week
+play music	play music
+qa stock	how much does the fb stock cost
+qa stock	stock price for gss energy
+iot hue lightup	its dark in here mind turning up the light intensity
+music query	what music is playing right now
+email querycontact	does contact mona has an email as well
+play music	play hip hop songs
+play game	can you do name that tune
+general commandstop	will you shut down please.
+general affirm	yeah you get command exactly.
+play radio	radio please
+alarm set	please set an alarm clock for my next meeting with the team at three pm next friday
+general dontcare	really i don't mind, olly.
+audio volume down	lower the volume on the speakers
+music query	what is the name of the singer
+social post	please tweet the following complaint
+alarm set	i need a reminder alarm at one
+play radio	i need ninety nine point five please
+iot hue lightoff	please turn off the lights in patio
+qa currency	how many euros for one u. s. d.
+email sendemail	open terry's email
+calendar remove	delete appointment at time
+email querycontact	tell me joe joe's home address
+email querycontact	is this my sisters cellphone number
+lists query	read me back whats on my shopping list
+transport traffic	whats the traffic like near ypsilanti
+datetime convert	what is the time difference between central and eastern
+weather query	what should i wear is it cold outside
+general affirm	yeah wonderful response.
+qa factoid	where is russia located
+music settings	please use shuffle
+play podcasts	move forward ten minutes in this podcast
+iot hue lightoff	please switch off the light
+weather query	i will need a scarf in afternoon to overcome sunlight
+audio volume down	lower the speak volume
+iot cleaning	run the vacuum cleaner
+recommendation locations	where is a good place to eat cheap pakistani food
+general affirm	it was wonderful.
+social post	post to twitter got a hectic day ahead
+qa definition	what does triumph mean
+general praise	it's helpful, thank you.
+qa stock	how much rate will be calculated
+play podcasts	show me the newest podcasts
+cooking recipe	in five sentences let me know the procedure of making thanksgiving turkey
+iot hue lightdim	decrease lighting
+transport query	i would like to know the route the train will go to get to miami
+transport query	what is the route to the closest mcdonalds
+general commandstop	that is all, stop it.
+qa maths	what is the root of 16
+audio volume up	increase the volume to seventy percent
+alarm set	set a wake up call for ten am
+qa definition	definition of velocity
+qa maths	how much is twelve divided by four
+general commandstop	would you please shut up.
+iot coffee	can i please have a cafe americano
+cooking recipe	crabmeat recipe
+transport query	how to get somewhere
+social query	can anyone tell me what's you guys discussing
+iot hue lightup	increase the brightness in this room
+qa currency	given me the exchange rates between u. s. d. and cad
+calendar set	on third april we will go to watch j llb movie set it
+calendar query	did you add tomorrow's meeting to my calendar
+lists createoradd	please find all name start with alphabetic of g and create a list
+general dontcare	any one would be okay, olly.
+calendar remove	hi olly please remove the birthday event on coming sunday
+iot hue lightup	connect to lights
+qa factoid	what is the population of florida
+play radio	play the urban radio station
+social post	send a tweet to tmobile for rude employees
+qa definition	describe the empire state building
+play podcasts	play episode ten in the podcast
+iot cleaning	how do i start the robot vacuum cleaner
+audio volume up	increase volume please
+transport ticket	google i need one train ticket to new york can you book that for me
+email query	do have any new email
+email addcontact	open up contacts and add email something@gmail dot com
+social post	tweet a complaint to old navy website
+social query	give me details of my twitter handle profile including the total number of followers
+qa definition	what is rock sand
+general commandstop	can you please shut up.
+qa definition	define session
+play radio	turn on my pandora radio
+transport traffic	how long will it take to get home
+iot cleaning	clean my house
+email sendemail	email tom
+iot hue lightoff	bedroom light off
+general confirm	check that.
+calendar query	where is my meeting at nine am
+iot hue lightup	every light of room increase its intensity
+lists createoradd	add new songs to playlist
+datetime convert	time difference between uk and us
+qa maths	what is twelve times eight
+news query	find me news about trumps speech
+transport traffic	where should i avoid this morning
+calendar query	do i have a dentist appointment on monday morning
+qa stock	stock details
+qa definition	tell me about it
+play game	lets go nazi hunting
+audio volume up	speak louder
+general praise	you rock, thank you very much, olly.
+general dontcare	that is of no importance, olly.
+email sendemail	send an email to grandma saying we are dropping by on saturday see you then
+general confirm	would you confirm the question.
+general praise	thanks for reminding me.
+music query	please tell me the name of this song that is currently playing
+news query	tell me about the latest sports news
+play radio	play any country music station
+general praise	fantastic job, you've done well, olly.
+audio volume up	up the volume the sound is too low
+social post	send a complaint to my boss
+email query	did my mom send me an email
+calendar remove	get rid of everything on my calendar
+general commandstop	olly will you stop please.
+email querycontact	what is mr taxi's phone number it is in my contacts
+recommendation locations	i need a good shop
+play podcasts	play latest reason podcast
+general confirm	did you get the detail correctly?
+general commandstop	that's enough, just cancel.
+iot coffee	could you fix me some coffee
+play game	play my game
+email query	please tell me how many emails i have
+qa definition	how would you describe a tennis ball
+general confirm	please will you check it.
+social query	what's new in facebook
+weather query	what is the weather going to be like on march twentieth two thousand and seventeen
+general commandstop	olly just stop please.
+news query	please share up to the minute details on sprint
+play music	i want to hear tum hi ho next
+iot coffee	i would like to have a cup of coffee
+general praise	you helped a lot,, olly.
+iot wemo off	turn the wemo off
+general affirm	yes you've done your understanding correcly.
+calendar query	within the past three months how many meetings did i have with mr richards
+general affirm	yeah great response.
+transport ticket	book me a train ride
+general commandstop	olly that's enough, cancel.
+email sendemail	hey i want to send an email to my friend
+social post	post this on my facebook
+datetime convert	what the time difference from here to ottawa
+play game	we should play nfs at high speed
+email addcontact	please add smurfette@gmail dot com to my email contacts
+general praise	you rock, musch appreciated.
+iot coffee	i need a coffee
+qa stock	show stock of goog
+transport query	how much time is a train to there
+qa factoid	how old is betty white
+play music	play my country playlist
+iot wemo on	switch on the plug
+general praise	appreciated, that is great job.
+play music	take me to music player
+iot coffee	i would like a cup of coffee with one cream and three sugars
+qa definition	sanctimonious definition
+play podcasts	go back to previous episode of podcast
+qa definition	can i get the definition to ambulance
+alarm set	set an alarm for next tuesdays meeting
+calendar remove	cancel my meeting tomorrow
+recommendation locations	tea shop
+iot cleaning	will you have the vacuum start cleaning
+calendar remove	delete all my calendar events
+calendar remove	delete event for tuesday
+play radio	play the jazz station
+recommendation locations	are there any veg restaurants in phoenix
+music query	i am interested in what emotions are conveyed in grateful dead music
+play game	would you like to play a game
+play radio	play howard stern on sirius
+play podcasts	next episode in the podcast please
+news query	usa today headlines
+transport traffic	what is current traffic in ohio
+iot wemo off	disable wemo socket
+general dontcare	that does not matter for me.
+qa factoid	tell me when will indians economy touch that of americas
+recommendation locations	where is a nearby park where i can go running
+lists query	how many items are on my list
+play music	set a classic music
+iot cleaning	there is a pile of torn paper on the rug to suck up
+alarm set	can you set the alarm for one hundred and thirty
+news query	give me the news on donald trump
+audio volume down	too loud
+lists query	what kind of lists do i have saved
+lists createoradd	add paav bhaji in menu card
+lists remove	remove mike stein from contacts list
+calendar query	whats going on in my calendar
+datetime convert	what is time now in japan compared to usa
+lists createoradd	enter this to a list
+play radio	i need you to start fm eight hundred and ninety radio channel
+social query	what's trending on social media
+general commandstop	please will you shut down.
+calendar set	write down meeting at seven pm
+calendar query	tell me what is on my calendar for tomorrow
+iot coffee	can you make me a cup of coffee
+iot hue lightup	i need the lights in here to be turned up to seven
+calendar set	meeting update my calendar to reflect meeting
+weather query	what is the weather in utah
+play radio	play radio disney
+general praise	nice job, you have done well, olly.
+news query	what is the news about terrorist attack in afghanistan
+lists createoradd	select the item
+play music	play a party music list
+email query	tell me who send the email about the boss yesterday
+email sendemail	send an email to peter and ask him how is he now can i do something to help him
+calendar remove	update the calendar with the last event removed
+social query	please check the trending topics on twitter
+lists createoradd	i need to create a new to do list
+music query	who sang the song that is currently playing
+general praise	ah it's awesome, olly.
+general dontcare	i don't care, olly.
+transport ticket	please book a train ticket from jodhpur to jaisalmer on sunday
+general commandstop	please can you shut off.
+general praise	it's useful, thank you so much.
+news query	tell me the news about jallikattu in tamil nadu
+email query	did i receive any email in the past hour
+general confirm	please check and confirm command.
+email sendemail	please send an email to mom
+iot hue lightup	please olly put on multi colored lightning in my apartment set for festival diwali
+play music	play random music
+qa currency	what is the price of euro to u. s. d.
+iot coffee	i want some coffee now
+qa definition	what is this
+general affirm	the answer is confirmed.
+email addcontact	save my contacts
+music query	tell me the artist name
+recommendation locations	tell me pizza restaurants close by
+qa stock	open td ameritrade
+lists query	refresh my list and tell me whats on it
+email addcontact	add dan@dancom to my contacts
+social post	write a tweet to burger king expressing my disapproval
+email sendemail	send a reply to mike with the answer four hundred and thirty from his email he sent this morning
+email sendemail	respond back to the mail
+cooking recipe	what is the best recipe for tacos
+play music	play the latest song adele
+play music	play all third day
+alarm set	wake me up at ten
+email query	check inbox for mail from sarah
+calendar query	show me my events
+social query	show me latest notifications
+iot hue lightchange	i'd like some red lighting
+recommendation locations	display nearby places
+general confirm	would you please check and confirm what i last said.
+iot coffee	make a coffee
+iot wemo off	mute your android phone when you arrive at work
+qa factoid	how long was bryan cranston on breaking bad
+iot wemo off	please turn off wemo socket
+calendar remove	cancel the breakfast at tiffany's house
+music query	do i have any music by lady antebellum
+lists remove	remove the milk from the shopping list
+general commandstop	i'd like you just stop.
+lists createoradd	create a new list by tomorrow
+play music	play the last song from my most recent playlist
+lists remove	clear my activities list for today
+news query	give me the news
+music query	is there any rap that doesn't involve sex money and drugs
+transport traffic	give me the update on traffic at new york
+play game	want to play a game
+general commandstop	olly could you shut off.
+email sendemail	send email to cat that i will accept job offer
+general affirm	excellent.
+iot hue lightoff	please turn off the lights in this room
+social post	tweet to consumer service that they should strive to be more accommodating
+play podcasts	go back
+recommendation locations	what restaurant is open after midnight
+transport ticket	can you book a train ticket for my father
+play radio	can you play beats one radio
+email addcontact	save email id
+general praise	you are my star, thank you so much.
+news query	are there any status updates on cnn news facebook page
+qa stock	please find today's stock prices for samsung company
+iot hue lightup	spread some lights
+qa definition	describe rock sand
+transport query	what time does the train leave for chicago
+email querycontact	is bills pager number in my contacts
+calendar remove	please remove dinner date scheduled for this friday at nine pm
+audio volume up	on the music player set the volume level at sixty
+iot cleaning	please turn on my robot vacuum cleaner
+general praise	you are awesome,.
+iot hue lightoff	turn the living room's light off
+recommendation locations	where is mcdo
+alarm set	set alarm for tomorrow morning at six am
+iot cleaning	on vacuum cleaner
+calendar set	set reminder for tomorrow for this item
+general praise	you rock,.
+social query	what trending on twitter
+datetime convert	when it is nine in the east what time is it in the west
+weather query	what's the weather forecast for today
+lists query	please show my list
+lists remove	find apple on list and remove
+cooking recipe	how long should i cook chicken for
+transport traffic	are there any detours that i need to know about
+general commandstop	olly would you please shut off.
+audio volume down	turn down the sound
+iot hue lightup	i would like all the lights on when i enter
+iot hue lightdim	dim the lights please
+qa stock	please indicate the opening price of fra stock
+email query	who's emailed me recently
+social query	what's happening on social media right now
+iot hue lightdim	bed room two darken
+email query	how many emails today
+transport query	how do i get to poughkeepsie from new york city
+lists remove	erase the chore list
+music query	show me the name of the song playing right now
+qa stock	what is the closing price of apple today
+transport traffic	please give me the traffic report for this afternoon
+email querycontact	please check and tell me where is the location of toms new business
+play podcasts	i would like to listen to this mornings mike and mike podcast
+lists query	what are all the lists i have available
+recommendation locations	locate me the amazon restaurants
+qa definition	define rumplestiltskin
+iot cleaning	go near vacuum cleaner
+qa definition	tell me all about hurricane
+general commandstop	olly will you shut off.
+social post	tweet british airways that my last flight from chicago to london was delayed
+weather query	will it rain in the noon
+calendar query	do i have a date for tonight

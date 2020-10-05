@@ -1,0 +1,64 @@
+alarm query	how many alarms have i set
+alarm remove	cancel alarm for tenth of march two thousand seventeen
+alarm set	get me up in half an hour
+audio volume down	softer
+audio volume mute	do not make any noise until morning alarm
+audio volume up	make sound louder
+calendar query	what am i up to this weekend
+calendar remove	delete my dinner tomorrow
+calendar set	reminders
+cooking recipe	find a recipe for chicken alfredo
+datetime convert	if it is six am here what time is it in tokyo
+datetime query	what day of the week does the fifteenth of march fall on
+email addcontact	just add a new email in my contacts from michael
+email querycontact	do i have a work number for susan
+email query	are there any unread emails from patrick
+email sendemail	please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm
+general affirm	yeah you got your understanding perfectly.
+general commandstop	that is all, just cancel it.
+general confirm	please would you check and confirm it.
+general dontcare	anything would be fine with me.
+general explain	rephrase me about what you've said further please.
+general joke	what is a good joke
+general negate	please check the command.
+general praise	oh it is nice one, olly.
+general quirky	what would be the a perfectly nutritionally balanced meal for dinner
+general repeat	please tell me it once again.
+iot cleaning	vacuum the carpet freshener from the carpet
+iot coffee	do a coffee for me please
+iot hue lightchange	change the overhead light to orange
+iot hue lightdim	lower brightness of lights
+iot hue lightoff	turn off kitchen light
+iot hue lighton	hey turn on disco lights in my apartment and let the party begin
+iot hue lightup	please increase the light
+iot wemo off	power down the plug socket one
+iot wemo on	turn wemo on
+lists createoradd	add detergent to the list of things i need to buy
+lists query	what is on my shopping list
+lists remove	erase shopping list
+music likeness	Olly save all the songs i have listened to more than once
+music query	from which movie is the song
+music settings	set track twenty eight in music player on repeat
+news query	will trump visit russia anytime soon
+play audiobook	play animal farm
+play game	want to play a game with me
+play music	find jazz music on my playlist
+play podcasts	can you please play the next episode of food stuff
+play radio	go to the station fm ninety six point five
+qa currency	give me the exchange rate between united states dollar and canadian dollar
+qa definition	please tell me what is the definition of cylinder
+qa factoid	tell me about alexander the great
+qa maths	what is the square root of thirty six
+qa stock	what is a stock price of tata
+recommendation events	what plays are showing at the theatre
+recommendation locations	where monet's exhibition takes place
+recommendation movies	suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like
+social post	post a facebook status engaged
+social query	show me my latest social media activity
+takeaway order	checkout top restaurant near me and order shahi panner
+takeaway query	will they deliver to me
+transport query	directions to the target on I forty
+transport taxi	just book for me a lyft taxi to bardonia
+transport ticket	get me a train ticket from mumbai to goa
+transport traffic	current traffic conditions
+weather query	how many degrees is it in orange tx right now

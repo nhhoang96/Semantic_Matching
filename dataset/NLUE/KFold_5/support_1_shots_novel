@@ -1,0 +1,16 @@
+alarm query	list all of my alarms
+alarm remove	change my alarm
+audio volume mute	mute the living room speakers
+datetime query	can you tell me the time in new york
+general explain	please will you clarify me more on it.
+general joke	have you heard any good jokes lately
+general negate	sorry but you have messed up the command.
+general quirky	how do you like being my assistant
+general repeat	will you retry please.
+music likeness	save this songs genre for me
+play audiobook	stop play
+recommendation events	find the events
+recommendation movies	what is a good movie to see right now
+takeaway order	hi i want to order fried chick with white sauce
+takeaway query	is mr pizza on skip the dishes
+transport taxi	book me a taxi

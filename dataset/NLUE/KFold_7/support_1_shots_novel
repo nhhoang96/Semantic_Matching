@@ -1,0 +1,16 @@
+alarm query	what time is my alarm set for
+alarm remove	i would like this alarm permanently removed
+audio volume mute	mute the sound
+datetime query	what is the month day and year
+general explain	do not get this.
+general joke	i want to hear a joke
+general negate	thanks but you didn't get me.
+general quirky	let me know when charges hit my credit card
+general repeat	please say one more time again.
+music likeness	i have to done it on the post important music file
+play audiobook	can you pause and rewind the audio then resume
+recommendation events	Show latest events around new york
+recommendation movies	what are the show times for logan at the nearby theatre
+takeaway order	who delivers near here
+takeaway query	does dominos has a delivery option
+transport taxi	find an uber that can get me to the airport now

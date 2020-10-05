@@ -1,0 +1,64 @@
+alarm query	what days are my alarms set for
+alarm remove	turn off the six am alarm for Wednesday
+alarm set	please set an alarm at seven am tomorrow morning
+audio volume down	slow down the speaker volume
+audio volume mute	quiet
+audio volume up	made media volume louder
+calendar query	what are my plans for today
+calendar remove	delete from the calendar the next event
+calendar set	remind me to pick up john from the airport tonight at eight
+cooking recipe	what are the ingredients in macaroni and cheese
+datetime convert	if it's five am in berlin what time is it here
+datetime query	what time in las vegas
+email addcontact	make this email a new contact
+email querycontact	please check and tell me where is the location of toms new business
+email query	any new email since last time
+email sendemail	send a replay email
+general affirm	you've gotten your understanding correcly.
+general commandstop	olly that is enough, just stop it.
+general confirm	i'd like you confirm it please.
+general dontcare	don't really bother.
+general explain	s2, last sentence was not clear.
+general joke	tell funny things
+general negate	uhh no, i think you've done this incorrectly.
+general praise	you are awesome,.
+general quirky	hey whatsapp
+general repeat	would you try that instruction said again please.
+iot cleaning	have the vacuum cleaner clean the room
+iot coffee	make me coffee
+iot hue lightchange	i need to change my house lights colour to blue
+iot hue lightdim	give me some dim light
+iot hue lightoff	turn the light off
+iot hue lighton	hey turn on disco lights in my apartment and let the party begin
+iot hue lightup	increase the brightness in this room
+iot wemo off	wemo plug socket off
+iot wemo on	turn on my wemo socket
+lists createoradd	create new list for baby names
+lists query	whats on my shopping list
+lists remove	delete from playlist my old english songs list
+music likeness	save this song in my favorites
+music query	can you turn down the volume please and tell me what is the title of this song
+music settings	lower battery consumption to save setting
+news query	what's happened in the news recently
+play audiobook	start dune from where i left off
+play game	start play spider
+play music	i would like to hear heathens by twenty one pilots
+play podcasts	search for podcasts that cover men's issues
+play radio	play my favorite radio station
+qa currency	what's the exchange rates
+qa definition	show meaning of clarion
+qa factoid	can you really see russia from alaska
+qa maths	what is twenty percent of one hundred and fifty
+qa stock	how's microsoft's stock
+recommendation events	events in me area
+recommendation locations	is there any chinese places in benton ar
+recommendation movies	what is the biggest blockbuster this week
+social post	tell comcast their customer service is slow
+social query	check how many likes did i got on my most recent post
+takeaway order	what is the best pizza near me that delivers
+takeaway query	where are my takeaway order
+transport query	show me the train schedules to the metropolitan opera house
+transport taxi	reserve the closest uber
+transport ticket	google can you book me a ticket on the train for tomorrow
+transport traffic	what is the current traffic situation
+weather query	what will the weather be next week

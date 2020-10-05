@@ -1,0 +1,80 @@
+alarm query	did i set an alarm to wake up in the morning
+alarm query	what is on my alarm schedule
+alarm query	tell me if my alarm is set for the morning
+alarm query	what's the alarm situation for tomorrow
+alarm query	what's my next scheduled alarm
+alarm remove	remove my early alarms
+alarm remove	remove tuesday alarm of nine am
+alarm remove	cancel wake up calls for this week
+alarm remove	remove the alarm
+alarm remove	remove finlee's bedtime alarm
+audio volume mute	Silence speakers
+audio volume mute	quiet mode four hours
+audio volume mute	mute speaker
+audio volume mute	do not make any noise until morning alarm
+audio volume mute	don't talk until i ask you to
+datetime query	today is which date
+datetime query	what's the time for neighboring city
+datetime query	show me what time it is
+datetime query	is today march sixth
+datetime query	what's the time in dubai
+general explain	s2, i was unclear about your answers.
+general explain	s2, last sentence was not clear.
+general explain	elaborate further on what you've just said to me please.
+general explain	s1, again clarify your answers please.
+general explain	rephrase further on your response please.
+general joke	find me the best knock knock joke on the internet
+general joke	funny story
+general joke	open jokes
+general joke	tell a joke
+general joke	i wanna laugh can you make it happen
+general negate	no, you gave me incorrect information.
+general negate	sorry but i think you've got that not right.
+general negate	i think you have done the task all wrong.
+general negate	thanks but i think that was not the correct command.
+general negate	uhh no, i did not say that.
+general quirky	i would like to crack jokes
+general quirky	do homework for me please
+general quirky	does mr t have a family
+general quirky	i just want to know some information about you
+general quirky	i want to know more about this person
+general repeat	could you speak the last utterance said once more.
+general repeat	can you try again please.
+general repeat	please will you replay.
+general repeat	tell me what i said one more time again please.
+general repeat	would you tell me it one more time please.
+music likeness	put that song in my favourite list
+music likeness	can you save this what a nice song for me
+music likeness	you have to check out kfi he's the best
+music likeness	i love to rock out with my sock out
+music likeness	i like songs from
+play audiobook	resume the playback of a child called it
+play audiobook	start reading fifty shades of grey from chapter four
+play audiobook	start playing again
+play audiobook	open book
+play audiobook	keep playing war and peace
+recommendation events	get local events
+recommendation events	is there anything happening on jazz scene around edinburgh
+recommendation events	please search for events in my location
+recommendation events	show me upcoming events in the quad cities
+recommendation events	what's happening in town tonight
+recommendation movies	what are new drama movies opening this weekend
+recommendation movies	training day
+recommendation movies	movie times tonight
+recommendation movies	give me a movie for tonight
+recommendation movies	which rom com movie can i watch in theatres around new york
+takeaway order	i am so hungry and tired and i think i might order some food now
+takeaway order	open grubhub
+takeaway order	call and order pizza for delivery
+takeaway order	how much does general tsos chicken cost at peking garden
+takeaway order	can you order me takeout
+takeaway query	i just ordered food call and see it has been delivered
+takeaway query	can i get the food to go
+takeaway query	domino's has takeaway right
+takeaway query	status of take away
+takeaway query	does dominos deliver
+transport taxi	get me an uber
+transport taxi	please book a taxi for me to go to the railway station
+transport taxi	book a cab which have cheapest price
+transport taxi	find transportation to rome
+transport taxi	call me an uber for right now

@@ -1,0 +1,274 @@
+alarm query	what home alarms have been set
+alarm query	please read me my alarms
+alarm query	what times are my alarms set for
+alarm query	when will my alarm go off in the morning
+alarm query	do i have any alarms set for today
+alarm query	show me what alarm times i've set for the week
+alarm query	list current set alarms
+alarm query	are there any alarms going off today
+alarm query	what alarms do i all have set
+alarm query	show me the alarms i've set
+alarm query	my set alarms
+alarm query	what alarms will wake me up tomorrow
+alarm query	have i got any alarms set
+alarm query	what alarms i have set
+alarm query	tell me about the alarm timings
+alarm query	alarms
+alarm query	when does my alarm go off
+alarm query	would you please check to see if i've set my alarm for tomorrow morning
+alarm query	alarm status
+alarm remove	disable my three pm alarm
+alarm remove	remove my bedtime alarm
+alarm remove	turn off all alarms
+alarm remove	remove alarms set for tomorrow
+alarm remove	olly cancel all soccer practice alarms
+alarm remove	remove my eight pm alarm and set it to seven pm
+alarm remove	remove alarm if any
+alarm remove	cancel the alarm that is set for tomorrow at eight am
+alarm remove	delete the first alarm
+alarm remove	remove alarm
+alarm remove	unset all alarm which is set
+audio volume mute	mute yourself until five pm
+audio volume mute	don't speak for a while
+audio volume mute	i've got a meeting by tonight seven pm please mute the music for an hour
+audio volume mute	quiet mode four hours
+audio volume mute	turn down the noise
+audio volume mute	please change the volume to mute
+audio volume mute	mute for the next hour please
+audio volume mute	please mute yourself
+audio volume mute	make the volume to zero
+audio volume mute	hey olly mute the speakers
+audio volume mute	mute the speakers
+audio volume mute	goodnight
+audio volume mute	it's quiet time
+audio volume mute	turn off speaker
+audio volume mute	mute yourself until i say otherwise
+datetime query	current date please
+datetime query	what time is it on the west coast
+datetime query	how me the time now in boston
+datetime query	date and time
+datetime query	what time is it in a city
+datetime query	i want the time for another city outside us
+datetime query	hello what time it is now
+datetime query	ten past seven
+datetime query	give me the time
+datetime query	what is the current time in california
+datetime query	show me the current time
+datetime query	can you give me the time in this time zone
+datetime query	do you know what day it is
+datetime query	tell me the time now
+datetime query	what is the time in milwaukee
+datetime query	please show me today's date
+datetime query	what's the time in new york
+datetime query	what is the current time in london
+datetime query	what time is it in london
+general explain	s1, please explain further on your words to me.
+general explain	i am not so clear about what you just said.
+general explain	i am not clear about your answers.
+general explain	i am not clear about last sentence.
+general explain	s2, i could not get that.
+general explain	will you rephrase me on what you've just said again please.
+general explain	will you explain me about what you have said once again please.
+general explain	what did you mean by saying it.
+general explain	would you please once again rephrase me on your answers.
+general explain	rephrase further on your response please.
+general explain	s2, i didn't quite catch that.
+general explain	would you again clarify me on it.
+general explain	have you made a mistake.
+general explain	elaborate further on what you've just said to me please.
+general explain	s1, please once again clarify to me.
+general explain	s1, can you further clarify me on it.
+general explain	will you please again elaborate.
+general explain	can you please clarify me about this further.
+general explain	could you elaborate further on your answers to me.
+general joke	tell me a joke please
+general joke	tell me some joke
+general joke	show me a funny joke
+general joke	jokes
+general joke	tell me a funny joke
+general joke	find the joke about the orange and the banana
+general joke	be funny for me
+general joke	i want to hear a good joke
+general joke	please tell me a joke that i'll think is funny
+general joke	hey olly have you heard any funny jokes lately
+general joke	can you tell me a joke
+general joke	have you heard any good jokes lately
+general negate	stop, i think that's not the correct command.
+general negate	oh no, i didn't say it.
+general negate	shit, you made a mistake, please correct this.
+general negate	your answer was not what i was looking for.
+general negate	oh no, you did not get what i was searching for.
+general negate	wait, i think that's not the correct command.
+general negate	thanks but i think you have gotten me not correct.
+general negate	oh no, you've done the task wrong.
+general negate	olly i said call jack not jake.
+general negate	oh no, i think you have done a task wrong.
+general negate	i think it's not the correct answer.
+general negate	i am sorry but you got that incorrectly.
+general negate	dammit, this isn't what i just said.
+general negate	you have done task all wrong.
+general negate	uhh no, that isn't what i was looking for.
+general negate	hmm, i think incorrect answer.
+general negate	i think you didn't understand me.
+general negate	uh no, you gave me incorrect information.
+general negate	i think you've done task all wrong.
+general quirky	please tell me how to do my daughters eighth grade math
+general quirky	suggestions for future
+general quirky	i would like it if my robot could engage in deep conversation with me
+general quirky	i want to know more about the upcoming commonwealth games
+general quirky	how do you like being my assistant
+general quirky	i just want to know some information about you
+general quirky	what are the scores from last night's hockey games
+general quirky	i saw a bulldog today
+general quirky	why people like movies
+general quirky	i watched the best movie please reserve me a copy when it releases
+general quirky	movies making money
+general quirky	why do starving people keep having kids
+general quirky	i need to keep two toddlers busy tell me what to do
+general quirky	i don't understand this question but what's it like in there
+general quirky	too private
+general quirky	latest technologies gadgets
+general quirky	is there life on other planets
+general quirky	what am i doing today
+general quirky	what is your name
+general repeat	will you do it again please.
+general repeat	will you tell me again please.
+general repeat	i want to hear what i've just said again.
+general repeat	tell me again please.
+general repeat	could you tell me the last spoke once again.
+general repeat	will you speak it once again.
+general repeat	what did you say in the last conversation.
+general repeat	could you tell me again please.
+general repeat	beg your pardon.
+general repeat	let us try your last things once more please.
+general repeat	please tell me it once again.
+general repeat	let's try what you said one more time again please.
+general repeat	i need to hear that sentence again.
+general repeat	would you try that words spoke one more time again.
+general repeat	could you tell me it once again please.
+general repeat	please will you replay.
+general repeat	i'd like to hear that again.
+general repeat	could you tell me it once again.
+general repeat	would you reset what i've said please.
+music likeness	remember metallica selections for next time
+music likeness	make a note please i like modern alternative rock music
+music likeness	save this song
+music likeness	i love that song
+music likeness	add the song to my favorites
+music likeness	remind me that i like that song
+music likeness	i really enjoy rock and roll
+music likeness	store opinion on song
+music likeness	mark this song as a favorite
+music likeness	download and save song of dangal movie
+music likeness	i love this music can you please save this to my dance playlist and remember that i like it
+music likeness	i want the music to be saved can you do it for me
+music likeness	that song is my favorite
+music likeness	i love zydeco jams
+music likeness	i enjoy listening to this song it really calms me down
+music likeness	i like vocals
+music likeness	save all of my preferences information specific to songs
+music likeness	my all time favorite song is something like this from chainsmokers
+play audiobook	play the program where i left off yesterday
+play audiobook	play book
+play audiobook	i want to play the audiobook good grief
+play audiobook	begin again book swan
+play audiobook	keep playing war and peace
+play audiobook	please play this playback on audiobook
+play audiobook	start playing the hobbit
+play audiobook	resume audio book history of rome
+play audiobook	get me resume of best seller audio book this month
+play audiobook	play me harry potter from the place i last stopped listening on
+play audiobook	resume playing the current audiobook
+play audiobook	i want to hear the book written by the mother of the shooter at columbine
+play audiobook	play wuthering heights from where i left off
+play audiobook	i would like to start this new audiobook
+play audiobook	playback tom clancy splinter cell
+play audiobook	open davinci code audiobook
+play audiobook	can you pause the audio
+play audiobook	please open audible app and resume play
+play audiobook	start dune from where i left off
+recommendation events	please search for local events
+recommendation events	show me events in sacramento
+recommendation events	tell me all events for today in my city
+recommendation events	are there any events coming up
+recommendation events	what bands are playing close by
+recommendation events	what is happening near me
+recommendation events	show me where i can find a hamburger
+recommendation events	what are the events taking place in new york today
+recommendation events	is there anything happening on jazz scene around edinburgh
+recommendation events	which pubs participate in the jazz festival
+recommendation events	what activities are taking place in my area
+recommendation events	what is going on in south tampa today
+recommendation events	can you recommend some dog's how events going on in our city
+recommendation events	any free events in la today
+recommendation events	what's interesting around here
+recommendation events	where should i go this weekend
+recommendation events	what's going on tonight in sacramento
+recommendation events	which teams are playing this weekend
+recommendation events	are there any events going on in milan
+recommendation movies	what's a movie in theaters that doesn't suck
+recommendation movies	theaters near to me
+recommendation movies	look up movies near me
+recommendation movies	check for all the movie theater prices and availability for a newly released movie in my location
+recommendation movies	local theater screening which movie
+recommendation movies	what movies is out there in the local cinema
+recommendation movies	tell me movies playing in oceanside tonight
+recommendation movies	top ten movies
+recommendation movies	what should i watch today
+recommendation movies	ocean eleven
+takeaway order	could you order sushi for tonight dinner
+takeaway order	call china king chinese restaurant
+takeaway order	i'm hungry show me some takeaway food
+takeaway order	i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup
+takeaway order	yo order take out from jason's deli on sixth ave
+takeaway order	order a takeaway
+takeaway order	call pf chang's to order me egg foo young
+takeaway order	any fast food meal offers
+takeaway order	order mcdonalds
+takeaway order	can i order take out from licari's
+takeaway order	have pho send three egg rolls
+takeaway order	contact pizza hut and order a large pizza with ham and mushrooms
+takeaway order	i want two burgers and one coke order it fast
+takeaway order	order the usual from turiellos pizza
+takeaway order	hey i'd like you to order burger
+takeaway order	order some takeaway food
+takeaway order	find food and order
+takeaway order	noodles one pack make it as takeaway
+takeaway order	order me a byron from deliveroo
+takeaway query	does this restaurant deliver
+takeaway query	i've cancelled the order placed at mcd did it go through
+takeaway query	is michael's a takeaway or delivery restaurant
+takeaway query	last take away order
+takeaway query	can i carry out with this restaurant
+takeaway query	are there any takeaways around here
+takeaway query	is there a takeout menu at the restaurant
+takeaway query	how much longer until my pizza will be here
+takeaway query	hello i would like to know whether you provide home delivery services
+takeaway query	tell me all the takeaways nearby and i want to order food
+takeaway query	takeaway status
+takeaway query	does vocelli's do takeaway
+takeaway query	could you please recommend a mexican restaurant for take out
+takeaway query	does olive garden have take out
+takeaway query	what is the status on my takeout
+takeaway query	when is my order ready
+takeaway query	when will my chinese food arrive
+takeaway query	does restaurant royale deliver takeaway
+takeaway query	where is my pizza from domino's at
+transport taxi	send an uber to me right now
+transport taxi	book taxi for now
+transport taxi	reserve a taxi
+transport taxi	book me a cab
+transport taxi	book an uber for one hour from now
+transport taxi	taxi now
+transport taxi	set up a taxi for eleven am tomorrow
+transport taxi	i need a taxi to pick me up at the house and take me downtown
+transport taxi	call taxi
+transport taxi	google uber
+transport taxi	i am in need of a taxi right now
+transport taxi	book an uber to los angeles cinemas in one hour
+transport taxi	call a taxi to pick me up right now
+transport taxi	book me an uber ride to go home
+transport taxi	book a taxi for pickup at my current location in one hour's time
+transport taxi	can you call a taxi
+transport taxi	book an outstation cab for tomorrow
+transport taxi	book me golden taxi for today at five pm

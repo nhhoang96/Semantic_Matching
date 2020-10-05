@@ -1,0 +1,320 @@
+alarm query	list all of my alarms
+alarm query	what time will my alarm go off today
+alarm query	confirm i have set an alarm for six am
+alarm query	what alarms do you have set
+alarm query	please list active alarms
+alarm remove	change my alarm
+alarm remove	remove my morning alarm
+alarm remove	set the alarm off
+alarm remove	remove the alarm set for four hundred am
+alarm remove	cancel alarm for tomorrow
+alarm set	i need a reminder alarm at one
+alarm set	set an alarm at six in the morning
+alarm set	alarm
+alarm set	get me up in half an hour
+alarm set	make an alarm for the meeting with bob at seven today
+audio volume down	lower the volume ten percent
+audio volume down	decrease the volume
+audio volume down	softer
+audio volume down	could you please lower your volume
+audio volume down	please reduce the sound
+audio volume mute	mute the living room speakers
+audio volume mute	will you please mute my speakers
+audio volume mute	do not make any noise until morning alarm
+audio volume mute	please do not talk for thirty minutes
+audio volume mute	mute speaker
+audio volume up	turn up sound
+audio volume up	raise the volume of the current music
+audio volume up	please raise the volume of speaker
+audio volume up	i need the volume to be louder
+audio volume up	turn up volume
+calendar query	list out my upcoming events
+calendar query	what time do i work tomorrow
+calendar query	do the knicks have a game at home tonight
+calendar query	on my calendar are there any birthdays
+calendar query	is there any pending reminder for me
+calendar remove	cancel all my appointments
+calendar remove	please remove this event from my calendar
+calendar remove	remove events from calendar
+calendar remove	destroy all events
+calendar remove	i will no longer be joining mom for lunch tomorrow
+calendar set	please set reminder
+calendar set	i would like to attend church every sunday at eleven am
+calendar set	on every tuesday remind me to go shopping
+calendar set	repeating event meeting on mondays
+calendar set	make a repeating reminder for my yoga practice every day at noon
+cooking recipe	what is the best way to cook pasta al dente
+cooking recipe	recipe for crabmeat
+cooking recipe	find the right amount of cinnamon for the garam masala
+cooking recipe	what temperature do you bake a potato
+cooking recipe	what do i need to make lamb pathia
+datetime convert	how many hours difference is hong kong from new york city
+datetime convert	how much later is new york than la
+datetime convert	it is nine here what time is it in california
+datetime convert	change this time to ist
+datetime convert	it is five forty five am in liverpool what time is now new york
+datetime query	can you tell me the time in new york
+datetime query	hey what's today's date
+datetime query	what day of the week does the next holiday fall on
+datetime query	new york time
+datetime query	the last friday of the month lands on what day
+email addcontact	please add an email to my contacts
+email addcontact	add contacts n mail
+email addcontact	i need you to add gary's email to my favorites
+email addcontact	change my mum's email in my phonebook
+email addcontact	add sam@gmail dot com to my contacts list
+email querycontact	how old is joanne
+email querycontact	open the contact alex in phonebook
+email querycontact	what is frieda's home address
+email querycontact	when was the last time that i spoke to john
+email querycontact	what is john's phone number
+email query	tell me when i get new emails from principal lowry
+email query	refresh my inbox and inform me about new emails
+email query	do i have any emails from katherine
+email query	carlos linux upgrade email
+email query	what were the first number of email subjects i got today
+email sendemail	create an email to my brother asking him what time he will be over for dinner
+email sendemail	send email to new email address
+email sendemail	send a test email to
+email sendemail	reply wishes to john by email
+email sendemail	open a new email to contact
+general affirm	yeah great response.
+general affirm	yeah that's confirmed.
+general affirm	yeah you have got your understanding perfectly.
+general affirm	yeap it is confirmed.
+general affirm	yeap you've got my instructions correcly.
+general commandstop	olly would you please shut off.
+general commandstop	would you just cancel it please.
+general commandstop	i like you just cancel.
+general commandstop	olly that's enough, cancel.
+general commandstop	olly that is enough, just cancel it.
+general confirm	please can you check and confirm what just said.
+general confirm	would you please confirm details.
+general confirm	check last thing i said.
+general confirm	check last thing said please.
+general confirm	could you check instruction.
+general dontcare	i do not really mind for whatever.
+general dontcare	doesn't matter, olly.
+general dontcare	doesn't matter with me.
+general dontcare	anything will be good with me, olly.
+general dontcare	do not care.
+general explain	please will you clarify me more on it.
+general explain	didn't understand your answers.
+general explain	rephrase me about what you've said further please.
+general explain	please explain me about your words once again.
+general explain	what did you mean by saying this.
+general joke	have you heard any good jokes lately
+general joke	tell a joke
+general joke	can i hear the joke about the old woman again
+general joke	tell me a joke about lawyers
+general joke	tell me random joke
+general negate	sorry but you have messed up the command.
+general negate	that's not what i just said.
+general negate	shit, i didn't ask for this.
+general negate	dammit, it isn't what i asked.
+general negate	incorrect command.
+general praise	it's good job, i appreciate it.
+general praise	you are my hero, thank you very much, olly.
+general praise	that's helpful, i appreciate it.
+general praise	excellent job, you have done well.
+general praise	thanks for your answers.
+general quirky	how do you like being my assistant
+general quirky	your salary
+general quirky	what is your prescription for long and healthy life
+general quirky	what is your name
+general quirky	i would like it if my robot could engage in deep conversation with me
+general repeat	will you retry please.
+general repeat	please say what you've just said once again.
+general repeat	please speak one more time again.
+general repeat	would you reset what i've said please.
+general repeat	can you try again please.
+iot cleaning	hoover the hallway
+iot cleaning	if my vacuum cleaner is not activated please activate it
+iot cleaning	on the button of cleaner
+iot cleaning	use vacuum cleaner in the hall
+iot cleaning	how do you activate the robot vacuum cleaner
+iot coffee	order one coffee to starbucks coffee shop
+iot coffee	get a cup of coffee ready now
+iot coffee	brew a pot of coffee
+iot coffee	i would like some coffee now
+iot coffee	please make me coffee without sweetener
+iot hue lightchange	switch lights to red tone
+iot hue lightchange	light settings
+iot hue lightchange	can you change the light colors into dark in the house
+iot hue lightchange	change the light colour to green
+iot hue lightchange	pink is all we need
+iot hue lightdim	lower the lights a little more
+iot hue lightdim	dim lights in living room
+iot hue lightdim	lower the lights in bedroom two
+iot hue lightdim	lower the lights in the living room
+iot hue lightdim	lower the light intensity
+iot hue lightoff	turn off lighting
+iot hue lightoff	turn off kitchen light
+iot hue lightoff	turn lights in the room off
+iot hue lightoff	please turn off the lights in the kitchen
+iot hue lightoff	switch off the light on the left
+iot hue lighton	please turn on the lights in my house
+iot hue lighton	please turn on the lights
+iot hue lighton	i can't see anything
+iot hue lighton	lights out
+iot hue lighton	and the darkness has fallen
+iot hue lightup	i need more light
+iot hue lightup	i need the lights in here to be turned up to seven
+iot hue lightup	brighten the lights a little bit
+iot hue lightup	make the light more brighter
+iot hue lightup	increase light
+iot wemo off	off the plug
+iot wemo off	turn off the socket
+iot wemo off	turn off wemo
+iot wemo off	turn off my wemo plug socket
+iot wemo off	turn off smart plug socket
+iot wemo on	turn my plug on
+iot wemo on	please turn on my door lock
+iot wemo on	turn the smart plug on
+iot wemo on	outlet on
+iot wemo on	turn on the smart charger
+lists createoradd	add pencil to school supplies list
+lists createoradd	add paav bhaji in menu card
+lists createoradd	create a new list of my due bills
+lists createoradd	begin a new list
+lists createoradd	add eggs to the list
+lists query	please show my list
+lists query	what to do lists do i have
+lists query	lists i have
+lists query	please provide the contents of the list
+lists query	do i have coffee on the grocery list
+lists remove	remove item three from the list
+lists remove	delete the dog list for me
+lists remove	please remove the list
+lists remove	delete all lists
+lists remove	remove cheese from my list
+music likeness	save this songs genre for me
+music likeness	save this song as my favorite
+music likeness	please note i like jazz and hate disco
+music likeness	i'm really enjoying this song
+music likeness	i want to listen daily to this song
+music query	identify song
+music query	what did she just sing
+music query	recommend artists similar to rihanna
+music query	tell me the name of the composer
+music query	what is the track information currently
+music settings	repeat the current song
+music settings	Please turn off shuffle setting
+music settings	repeat album
+music settings	disable shuffle
+music settings	shazam this music
+news query	get me news on trump
+news query	how are things in the world
+news query	Show me articles about the new iphone eight
+news query	what's happening around the world
+news query	search for the latest news about iphone
+play audiobook	stop play
+play audiobook	i want to finally read the mars trilogy
+play audiobook	continue playing where I left off
+play audiobook	resume the playback of zanes se chronicles
+play audiobook	play wuthering heights from where i left off
+play game	lets play battleship
+play game	play candy crush with me
+play game	play the latest games
+play game	i feel like playing chess can you play that
+play game	I'd like to play UNO with you
+play music	play music playlist
+play music	please play michael jackson album
+play music	play from favorites song
+play music	play music true love
+play music	i want to hear play that funky music
+play podcasts	show me the top rated podcasts
+play podcasts	play cindi's favorite podcast
+play podcasts	forward this one
+play podcasts	play this podcast
+play podcasts	next episode
+play radio	i want to hear this week's midweek motorsport
+play radio	show me upcoming programmes on one hundred and five point one
+play radio	play rush limbaugh on ninety seven fm
+play radio	search and play a radio station with news
+play radio	play miley cyrus radio
+qa currency	convert euros to dollars
+qa currency	is euro the best currency to trade
+qa currency	how many g. b. p. can i get for one dollar
+qa currency	how many yen for each dollar
+qa currency	currency exchange
+qa definition	give me the definition of formidable
+qa definition	how do you describe a capabara
+qa definition	define what a wizard is
+qa definition	what does this stitch long sleeved shirt look like
+qa definition	look up the word snafu
+qa factoid	can turkeys fly
+qa factoid	how many tablespoons are there in a cup
+qa factoid	where is russia located
+qa factoid	where is italy
+qa factoid	what creates buttermilk
+qa maths	tell me sum of five and six
+qa maths	do you know how to answer this math question
+qa maths	do you know math
+qa maths	what is the answer to two by two
+qa maths	what is three times seven
+qa stock	can you find and tell me the prices of facebook stock
+qa stock	open td ameritrade
+qa stock	stock details
+qa stock	please find today's stock prices for samsung company
+qa stock	what is the google stock at
+recommendation events	find the events
+recommendation events	are there any events going on in milan
+recommendation events	whats happening around my town
+recommendation events	show me painting exhibition in bay area
+recommendation events	what is playing at the local theater right now
+recommendation locations	i want to know what supermarket near me has the best price on gluten free bread
+recommendation locations	best reviews restaurant in south sacramento
+recommendation locations	where can i get something to eat by the art museum
+recommendation locations	which restaurant is there in shivaji nagar
+recommendation locations	can you recommend any pub in mg road
+recommendation movies	what is a good movie to see right now
+recommendation movies	latest movie releases
+recommendation movies	can you tell me what movies are playing at the movies tonight
+recommendation movies	i need a good chick flick any thoughts
+recommendation movies	recommend a movie playing in me area
+social post	post this pic to facebook
+social post	tweet to the customer service account of starbucks
+social post	post that i am going to woodland shoe store
+social post	tweet my complaint and mention this costumer service
+social post	have a moan at easyjet
+social query	check my facebook for notifications
+social query	i heard ale just got married can you please show me the wedding pictures on their instagram
+social query	what's new in facebook
+social query	what's new on my facebook account
+social query	has anyone tagged me in a photo on facebook
+takeaway order	hi i want to order fried chick with white sauce
+takeaway order	order chinese food
+takeaway order	order me a large ham and olive pizza from dominos
+takeaway order	order some fried chicken from church's chicken via grubhub
+takeaway order	i am in need of some pizza what's the closest place that delivers
+takeaway query	is mr pizza on skip the dishes
+takeaway query	does vocelli's do takeaway
+takeaway query	does brick grill deliver
+takeaway query	tell me if the olive garden allows takeaway
+takeaway query	is michael's a takeaway or delivery restaurant
+transport query	fix the driving route from here to grant market
+transport query	when is the next train to b street
+transport query	can you see if there any trains going to
+transport query	what time does the train from new york come in
+transport query	when i should leave to office
+transport taxi	book me a taxi
+transport taxi	book an uber for one hour from now
+transport taxi	please book a taxi for me
+transport taxi	call an uber now
+transport taxi	book a taxi to go to the movies at one
+transport ticket	book my train ticket from las vegas to los angeles
+transport ticket	go to www dot metronorth dot com for train tickets
+transport ticket	i need you to book a train ticket that leaves at two pm
+transport ticket	i want a train ticket to edinburgh
+transport ticket	can you book a train ticket to berkeley for me
+transport traffic	outside traffic status please
+transport traffic	what is the traffic situation right in broadway street
+transport traffic	how long will it take to get home
+transport traffic	what is the status quo for traffic right now
+transport traffic	is traffic heavy on route eighty today
+weather query	tell me the current weather for danville il
+weather query	will the temperature be in the today
+weather query	will i need my snow boots this afternoon
+weather query	what is the weather like outside
+weather query	is it going to be nice tomorrow

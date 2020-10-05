@@ -1,0 +1,64 @@
+alarm query
+alarm remove
+alarm set
+audio volume down
+audio volume mute
+audio volume up
+calendar query
+calendar remove
+calendar set
+cooking recipe
+datetime convert
+datetime query
+email addcontact
+email querycontact
+email query
+email sendemail
+general affirm
+general commandstop
+general confirm
+general dontcare
+general explain
+general joke
+general negate
+general praise
+general quirky
+general repeat
+iot cleaning
+iot coffee
+iot hue lightchange
+iot hue lightdim
+iot hue lightoff
+iot hue lighton
+iot hue lightup
+iot wemo off
+iot wemo on
+lists createoradd
+lists query
+lists remove
+music likeness
+music query
+music settings
+news query
+play audiobook
+play game
+play music
+play podcasts
+play radio
+qa currency
+qa definition
+qa factoid
+qa maths
+qa stock
+recommendation events
+recommendation locations
+recommendation movies
+social post
+social query
+takeaway order
+takeaway query
+transport query
+transport taxi
+transport ticket
+transport traffic
+weather query

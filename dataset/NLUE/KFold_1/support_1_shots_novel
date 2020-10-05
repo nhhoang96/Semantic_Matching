@@ -1,0 +1,16 @@
+alarm query	how many alarms have i set
+alarm remove	cancel alarm for tenth of march two thousand seventeen
+audio volume mute	do not make any noise until morning alarm
+datetime query	what day of the week does the fifteenth of march fall on
+general explain	rephrase me about what you've said further please.
+general joke	what is a good joke
+general negate	please check the command.
+general quirky	what would be the a perfectly nutritionally balanced meal for dinner
+general repeat	please tell me it once again.
+music likeness	Olly save all the songs i have listened to more than once
+play audiobook	play animal farm
+recommendation events	what plays are showing at the theatre
+recommendation movies	suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like
+takeaway order	checkout top restaurant near me and order shahi panner
+takeaway query	will they deliver to me
+transport taxi	just book for me a lyft taxi to bardonia

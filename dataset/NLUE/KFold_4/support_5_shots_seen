@@ -1,0 +1,240 @@
+alarm set	please set an alarm at seven am tomorrow morning
+alarm set	set an alarm at six am tomorrow
+alarm set	please set an alarm for tomorrows meeting at seven am
+alarm set	alarm ten am
+alarm set	set an alarm for thursday at seven pm
+audio volume down	slow down the speaker volume
+audio volume down	cut down the volume
+audio volume down	turn off the bass from the audio
+audio volume down	turn the volume down
+audio volume down	make the volume lower
+audio volume up	made media volume louder
+audio volume up	please raise the volume of speaker
+audio volume up	i can't hear you speak up
+audio volume up	bring back talking after
+audio volume up	turn it up
+calendar query	what are my plans for today
+calendar query	tell me if there are any events from three to five
+calendar query	i needed to prepare for a meeting
+calendar query	is the thanks giving event on fourteenth of this month true
+calendar query	hey please provide information about events by the end of the day
+calendar remove	delete from the calendar the next event
+calendar remove	clear everything off my calendar for the rest of the year
+calendar remove	hey olly on the twentieth clear my calendar
+calendar remove	remove emma's birthday from events
+calendar remove	i no longer need to see the doctor can that event be removed
+calendar set	remind me to pick up john from the airport tonight at eight
+calendar set	schedule dinner with sara and jamie
+calendar set	write down that i am going to meet with jenny on the third okay
+calendar set	please remind to sleep at nine pm
+calendar set	call sarah
+cooking recipe	what are the ingredients in macaroni and cheese
+cooking recipe	recipe please
+cooking recipe	what do i need to make pot roast
+cooking recipe	what type of cheese do i need for my enchiladas
+cooking recipe	it should spices
+datetime convert	if it's five am in berlin what time is it here
+datetime convert	please convert nine am cst to est time
+datetime convert	when it is nine in the east what time is it in the west
+datetime convert	what is the time difference between eastern and pacific
+datetime convert	convert g. m. t. to ist
+email addcontact	make this email a new contact
+email addcontact	just add a new email in my contacts from michael
+email addcontact	locate the email to giant eagle and put it into my contact list
+email addcontact	add lowes hardware to my contact emails located in cleveland ohio
+email addcontact	create new contact
+email querycontact	please check and tell me where is the location of toms new business
+email querycontact	does my co worker have a home phone number
+email querycontact	do you have the mailing address for the electric company
+email querycontact	open the contact alex in phonebook
+email querycontact	help me call james
+email query	any new email since last time
+email query	show unread new emails
+email query	check email client
+email query	show all emails regarding the breach
+email query	do i have any emails from jessica
+email sendemail	send a replay email
+email sendemail	send reply to joe
+email sendemail	please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm
+email sendemail	hey email jan about our meeting
+email sendemail	email chris add following content sorry I will be late today
+general affirm	you've gotten your understanding correcly.
+general affirm	excellent response to the command.
+general affirm	yeah excellent.
+general affirm	yeah you have gotten my instructions perfectly.
+general affirm	fantastic response.
+general commandstop	olly that is enough, just stop it.
+general commandstop	olly that is enough, just cancel it.
+general commandstop	olly i like you just cancel.
+general commandstop	i like you just cancel it.
+general commandstop	olly i would like you just stop it.
+general confirm	i'd like you confirm it please.
+general confirm	please will you check and confirm what i just said.
+general confirm	would you check and confirm last thing said please.
+general confirm	i want you to check and confirm what last said please.
+general confirm	check the details please.
+general dontcare	don't really bother.
+general dontcare	it is of no importance to me, olly.
+general dontcare	does not matter, olly.
+general dontcare	i would not really know, olly.
+general dontcare	that does not matter with me.
+general praise	you are awesome,.
+general praise	thanks for doing that.
+general praise	you've done it right thank you so much.
+general praise	you did awesome job,.
+general praise	you rock,.
+iot cleaning	have the vacuum cleaner clean the room
+iot cleaning	please activate my vacuum cleaner
+iot cleaning	remove dust with vacuum cleaner
+iot cleaning	can you turn on the vacuum
+iot cleaning	vacuum the living room carpet
+iot coffee	make me coffee
+iot coffee	can you set the coffee machine to make coffee at three pm time every week day
+iot coffee	i need a drink
+iot coffee	please help serve me coffee with a no sugar
+iot coffee	can you make me some coffee
+iot hue lightchange	i need to change my house lights colour to blue
+iot hue lightchange	change the color of my lights to something random
+iot hue lightchange	change the media room lights from purple to green
+iot hue lightchange	can you set the living room lights to pink
+iot hue lightchange	make the room light blue
+iot hue lightdim	give me some dim light
+iot hue lightdim	lights dim
+iot hue lightdim	i would love a less bright up room
+iot hue lightdim	lower lights down
+iot hue lightdim	light is too much
+iot hue lightoff	turn the light off
+iot hue lightoff	turn the lights off to my room
+iot hue lightoff	shift the light off
+iot hue lightoff	turn all the lights off
+iot hue lightoff	turn off the light in the kitchen
+iot hue lighton	hey turn on disco lights in my apartment and let the party begin
+iot hue lighton	i can't see anything
+iot hue lighton	lights on
+iot hue lighton	overhead lights on please
+iot hue lighton	switch on light
+iot hue lightup	increase the brightness in this room
+iot hue lightup	bring up lights
+iot hue lightup	please increase the brightness in this room
+iot hue lightup	turn up the lights
+iot hue lightup	please put all the lights
+iot wemo off	wemo plug socket off
+iot wemo off	turn off my smart plug in thirty minutes
+iot wemo off	turn off the smart socket
+iot wemo off	mute your android phone when you arrive at work
+iot wemo off	keep the socket in off condition
+iot wemo on	turn on my wemo socket
+iot wemo on	start the oven
+iot wemo on	times clapping sound times
+iot wemo on	wemo plug socket on
+iot wemo on	turn on my plug
+lists createoradd	create new list for baby names
+lists createoradd	open a new list for me
+lists createoradd	include this
+lists createoradd	update work out list with new items
+lists createoradd	create a blank list
+lists query	whats on my shopping list
+lists query	what groups are listed in my contacts
+lists query	groceries list
+lists query	read out my shopping list for today
+lists query	what list do i have
+lists remove	delete from playlist my old english songs list
+lists remove	throw away my to do list please
+lists remove	delete the list
+lists remove	all food items with the prefix dry should be taken away from the list
+lists remove	remove soccer list from notes
+music query	can you turn down the volume please and tell me what is the title of this song
+music query	is the song by shakira
+music query	tell me the music that is playing
+music query	what are my favorite types of music
+music query	this song is composed by whom
+music settings	lower battery consumption to save setting
+music settings	show current track in music player
+music settings	olly skip two songs
+music settings	repeat the song playing now
+music settings	please repeat the last song
+news query	what's happened in the news recently
+news query	newest world news
+news query	did the yankees win last night
+news query	give me the news on donald trump
+news query	tell me updates
+play game	start play spider
+play game	list the games you can play with me
+play game	let us play millionaires
+play game	play for me the game candy crush
+play game	lets play
+play music	i would like to hear heathens by twenty one pilots
+play music	start music
+play music	play all songs by metallica on shuffle
+play music	please play for me elvis presley song again
+play music	play music from workout playlist
+play podcasts	search for podcasts that cover men's issues
+play podcasts	can you pull up the dave ramsey podcast that aired on monday
+play podcasts	please play next episode of podcast
+play podcasts	start the podcast i was last listening to
+play podcasts	play the podcast named ringcast
+play radio	play my favorite radio station
+play radio	play me news radio channel
+play radio	i would like to listen to this programme on radio
+play radio	i want to listen to the new sam harris episode
+play radio	activate radio and tune into nine hundred and eighty nine
+qa currency	what's the exchange rates
+qa currency	forex rate of euro to u. s. d.
+qa currency	how much money in us would i need to have a thousand pesos
+qa currency	how much is fifty us dollars with in china
+qa currency	exchanges rates any problems
+qa definition	show meaning of clarion
+qa definition	mobile device explanation
+qa definition	what is the definition of a probiotic
+qa definition	whats the definition of indignation
+qa definition	what does it look like
+qa factoid	can you really see russia from alaska
+qa factoid	what is the population of florida
+qa factoid	how many kids jackie chan does have
+qa factoid	just let me know the population of india
+qa factoid	when was frank sinatra born
+qa maths	what is twenty percent of one hundred and fifty
+qa maths	what is two hundred divided by ten
+qa maths	how many pounds do sixty kg make
+qa maths	what is the answer to dollars minus dollars
+qa maths	twenty minus ten
+qa stock	how's microsoft's stock
+qa stock	how is the exchange rate for microsoft
+qa stock	what is the daily price of johnson and johnson stock
+qa stock	have i made loss in which stocks
+qa stock	what is the stock price of sensex right now
+recommendation locations	is there any chinese places in benton ar
+recommendation locations	where can i shop around here
+recommendation locations	i'm looking for some dress shows can you find clothing stores within one mile
+recommendation locations	i need a place that will deliver pizza to me in benton ar
+recommendation locations	what's the best clothes store here
+social post	tell comcast their customer service is slow
+social post	let national grid know the power is out again
+social post	tweet at quote unquote
+social post	comcast sucks put that on their twitter account
+social post	complain to mcdonalds twitter about my burger
+social query	check how many likes did i got on my most recent post
+social query	what going on
+social query	what friends were in popular places the last day
+social query	is there anything important happening on social media
+social query	find me new comments from my facebook
+transport query	show me the train schedules to the metropolitan opera house
+transport query	please send me info on how to go about purchasing a train ticket to new york
+transport query	whats the travel time from here to dallas by train
+transport query	i'd like a train ticket to this location
+transport query	train leaving
+transport ticket	google can you book me a ticket on the train for tomorrow
+transport ticket	book my first class ac train ticket from new york to san francisco
+transport ticket	book a train ticket for me
+transport ticket	get me a ticket to boston
+transport ticket	can you please book train tickets for two for this friday
+transport traffic	what is the current traffic situation
+transport traffic	current traffic
+transport traffic	how is traffic over the donner summit now
+transport traffic	how is the traffic at the moment
+transport traffic	in jodhpur traffic level is very low
+weather query	what will the weather be next week
+weather query	let me know the weather for today
+weather query	what is the climate here today
+weather query	do i need to wear a coat today
+weather query	how is the weather likely to be this week

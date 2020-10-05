@@ -1,0 +1,48 @@
+alarm set	make me a wake up alarm for eight forty five am
+audio volume down	please lower the speaker volume
+audio volume up	i can't hear you speak up
+calendar query	what time does the dinner party start tonight
+calendar remove	delete my meeting for tomorrow
+calendar set	can you remind me of sunday gym every saturday evening
+cooking recipe	how can i cook pasta
+datetime convert	what is the time difference between eastern and pacific time zones
+email addcontact	please place my new email address to the contact
+email querycontact	find me my dad's email address
+email query	give me recent emails
+email sendemail	email my meeting details to my manager
+general affirm	you've understood command perfectly.
+general commandstop	please could you shut off.
+general confirm	check question.
+general dontcare	any one, olly.
+general praise	it was nice one, thanks.
+iot cleaning	activate robot vacuum
+iot coffee	prepare a cup of coffee
+iot hue lightchange	change my house lights colour to blue
+iot hue lightdim	lower the lights a little more
+iot hue lightoff	turn light off
+iot hue lighton	please turn on all the outdoor lights
+iot hue lightup	please increase the light of table lamp
+iot wemo off	please turn off wemo socket
+iot wemo on	start the laundry
+lists createoradd	make me a new checklist
+lists query	tell me my lists
+lists remove	reset my locations list
+music query	what is the title and artist of this song
+music settings	turn on spotify shuffle
+news query	give me the latest on paul ryan
+play game	open games
+play music	skip to the next song
+play podcasts	play the serial podcast
+play radio	press play on the radio
+qa currency	exchange rate between dollar and mexican peso
+qa definition	describe the computer to me
+qa factoid	how old is kim kardashian
+qa maths	what is the answer to two times three
+qa stock	mention the stock price of hdfc
+recommendation locations	is there a well rated pizza place between fourteenth and eighteenth streets
+social post	send a tweet
+social query	latest tweets
+transport query	what is the departure time for the next train leaving new york city
+transport ticket	i want a train ticket to oregon
+transport traffic	are there any accidents on harvard
+weather query	what is the weather this friday

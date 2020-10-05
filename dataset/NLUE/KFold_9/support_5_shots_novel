@@ -1,0 +1,80 @@
+alarm query	if there any alarm is set then let me know
+alarm query	just to confirm you set the alarm to go off at eight hundred
+alarm query	did i set my house alarm
+alarm query	when is my alarm set for
+alarm query	at what time have you set alarm for me
+alarm remove	twelve am removed
+alarm remove	cancel my eight am alarm
+alarm remove	remove alarm of six am on tuesday
+alarm remove	remove my alarm for tomorrow morning
+alarm remove	remove tomorrow's alarm
+audio volume mute	mute for twenty minutes
+audio volume mute	don't speak for an hour
+audio volume mute	please do not talk for thirty minutes
+audio volume mute	set volume to zero
+audio volume mute	mute sound from speakers
+datetime query	what is today's current date
+datetime query	hey what's today's date
+datetime query	what is the time in china
+datetime query	please provide current time in india
+datetime query	what is today's day
+general explain	elaborate me about your answers further.
+general explain	what did you mean by saying this.
+general explain	i could not quite catch up with you.
+general explain	please rephrase more on what you have just said to me.
+general explain	didn't understand what you said now.
+general joke	hey olly make me laugh with a good joke
+general joke	cheer me up
+general joke	i want to hear a funny joke
+general joke	find jokes on the web
+general joke	sarcastic jokes
+general negate	sorry but i think you've got that not right.
+general negate	dammit, that's not what i said.
+general negate	you didn't say my name right.
+general negate	it's not the correct command.
+general negate	uh no, it isn't what i am looking for.
+general quirky	nightime
+general quirky	today i had a record breaking sale
+general quirky	what are the details on umf
+general quirky	what rihanna is doing
+general quirky	cheering me up
+general repeat	will you replay what you have said please.
+general repeat	retry please.
+general repeat	can you tell me what said once more.
+general repeat	can you say one more again.
+general repeat	say the last one said again please.
+music likeness	i favorite singer is arijit singh find his voice on radio
+music likeness	please save this song
+music likeness	i like senatra songs
+music likeness	save opinion on song
+music likeness	add this channel to pandora
+play audiobook	play the circle
+play audiobook	restart the audiobook heaven is for real
+play audiobook	play me a random audio book that has to do with love
+play audiobook	book please
+play audiobook	lets have a break for five minutes
+recommendation events	any activity in the area
+recommendation events	inform about latest scheduled events near my location
+recommendation events	show me concerts in sacramento
+recommendation events	what's happening around town
+recommendation events	which event should i attend in my area
+recommendation movies	what movies are playing tonight
+recommendation movies	what movies are showing in cinema today
+recommendation movies	what are the new movies releasing
+recommendation movies	any good movies
+recommendation movies	show me nearest theatre
+takeaway order	i'm in the mood to order takeaway
+takeaway order	order a pizza from pizza express
+takeaway order	order pizza from domino's
+takeaway order	order spaghetti from spaghetti warehouse to bring home
+takeaway order	free home delivery
+takeaway query	find my thai takeaways around grassmarket
+takeaway query	current status of take out order
+takeaway query	hows the food order going
+takeaway query	is mr pizza on skip the dishes
+takeaway query	please could you tell me if george's geek restaurant can i order takeaway from there
+transport taxi	check in a taxi for booking
+transport taxi	i need a taxi in thirty minutes
+transport taxi	schedule me a taxi for after my thursday meeting
+transport taxi	find a taxi service close to me
+transport taxi	schedule taxi pickup for monday at noon

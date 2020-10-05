@@ -1,0 +1,274 @@
+alarm query	what alarms do i have set right now
+alarm query	checkout today alarm of meeting
+alarm query	report alarm settings
+alarm query	see see for me the alarms that you have set tomorrow morning
+alarm query	is there an alarm for ten am
+alarm query	confirm the alarm time
+alarm query	show my alarms
+alarm query	at what time have you set alarm for me
+alarm query	please list active alarms
+alarm query	please tell me about upcoming alarms
+alarm query	what alarms have i set for tomorrow
+alarm query	have i set any alarm for today
+alarm query	what alarms are upcoming
+alarm query	what alarms do you have set
+alarm query	show me all scheduled alarms
+alarm query	could you tell me about the alerts i have set
+alarm query	show me my alarms i have set
+alarm query	do i have any alarms for tomorrow morning
+alarm query	what alarm do i have set for today
+alarm remove	delete alarm
+alarm remove	remove the latest alarm
+alarm remove	stop wake up calls for this week
+alarm remove	remove the first alarm
+alarm remove	remove my earliest alarm for tomorrow
+alarm remove	kickball is over i do not need the alarm for kickball on wednesday evening any longer
+alarm remove	remove all alarms
+alarm remove	take off my alarms
+alarm remove	cancel my seven am alarm
+alarm remove	disable all alarms set for today
+alarm remove	olly cancel alarms
+audio volume mute	don't talk
+audio volume mute	go silent until three pm
+audio volume mute	please do not talk for thirty minutes
+audio volume mute	Silence speakers
+audio volume mute	please be quiet
+audio volume mute	silently adjust
+audio volume mute	turn off audio
+audio volume mute	turn off sound
+audio volume mute	set to mute
+audio volume mute	keep quiet
+audio volume mute	please stop for a bit
+audio volume mute	Please pause the song
+audio volume mute	off the speakers
+audio volume mute	be silent for thirty minutes
+audio volume mute	can you place the sound on mute
+datetime query	give me time
+datetime query	could you please tell me what time is in singapore
+datetime query	report the current time in oakland
+datetime query	the twenty second is on what day of the week
+datetime query	what week of the year does the summer season start
+datetime query	what is the correct time
+datetime query	what is the time in beijing
+datetime query	is there a national holiday on fifth december
+datetime query	the last friday of the month lands on what day
+datetime query	what time in las vegas
+datetime query	what is mondays actual date
+datetime query	give me the time in phoenix az
+datetime query	what is the time in china
+datetime query	what is the current time in chennai
+datetime query	new york time
+datetime query	what time is it in central time zone
+datetime query	can you tell me the time in new york
+datetime query	what's the time in this time zone
+datetime query	what is time now in california
+general explain	once again clarify me about your answers please.
+general explain	don't get this.
+general explain	explain it further please.
+general explain	s1, rephrase me more on it.
+general explain	would you elaborate again to me please.
+general explain	would you once again clarify me about your response please.
+general explain	would you explain further on it to me please.
+general explain	i am unclear about your response.
+general explain	s1, please elaborate further on it to me.
+general explain	please explain again to me.
+general explain	further explain.
+general explain	s1, again clarify your answers please.
+general explain	it was not clear.
+general explain	s1, would you please further clarify me on your answers.
+general explain	s2, i was not so clear about what you said now.
+general explain	s1, could you rephrase further on what you have said to me please.
+general explain	could you clarify me on it further.
+general explain	could you please again clarify your answer to me.
+general explain	please explain me more on what you said.
+general joke	can you tell me a nice joke
+general joke	say joke
+general joke	i need to find a funny joke that is ok for kids
+general joke	do you know any good jokes
+general joke	do you know any jokes
+general joke	i need a good joke
+general joke	the joke of the day
+general joke	i want to hear a yo mama joke
+general joke	humor me
+general joke	find me the best knock knock joke on the internet
+general joke	tell me joke
+general joke	tell me a joke about birds
+general negate	i think you messed up with my command.
+general negate	this was not what i am searching for.
+general negate	uhh no, that's not what i am searching for.
+general negate	i am sorry but this was not the correct command.
+general negate	you told me the incorrect date please correct this.
+general negate	nope, i did not say it.
+general negate	shit, i didn't ask for this.
+general negate	sorry but it was not the correct response.
+general negate	incorrect command.
+general negate	thanks but this is not the right response.
+general negate	goddammit.
+general negate	i am sorry but that's not the correct response.
+general negate	dammit, it isn't what i asked.
+general negate	are you sure that is correct.
+general negate	stop, this is not right answer.
+general negate	oh no, you gave me not right information.
+general negate	thanks but i think you did not get the answer correctly.
+general negate	sorry but that is not the right answer.
+general negate	uhh no, i did not say this.
+general quirky	i had a relaxing day today
+general quirky	i want a not only to direct me to an internet site but actually answer any given question
+general quirky	can you feel
+general quirky	have a anyinput day
+general quirky	tell me about economy and gdp about india versus china
+general quirky	what is the best chocolate chip cookie recipe
+general quirky	is it true the hanging tree really had someone hung from it
+general quirky	i am happy
+general quirky	nightime
+general quirky	nice to meet you
+general quirky	what is the best method to decide what the best thing to do isre
+general quirky	how can i make your day a little better
+general quirky	can you explain string theory to me
+general quirky	what do you think i should have for breakfast
+general quirky	i really enjoyed sunny day today
+general quirky	when i want it to take down notes
+general quirky	what rihanna is doing
+general quirky	famous person biographies
+general quirky	i hate how long the traffic jams get
+general repeat	would you do it again.
+general repeat	let us start over.
+general repeat	please would you replay your last phrase said.
+general repeat	say the last one said again please.
+general repeat	reset.
+general repeat	can you tell me what said once more.
+general repeat	please start over.
+general repeat	please would you repeat that.
+general repeat	please try the things one more again.
+general repeat	would you speak it one more again please.
+general repeat	can you try the last one spoken once again.
+general repeat	please reset that.
+general repeat	can you speak the command spoke one more again please.
+general repeat	i'd like to hear what i have just said again.
+general repeat	tell me once again.
+general repeat	please say what you've just said once again.
+general repeat	start over please.
+general repeat	can you repeat please.
+general repeat	will you reset.
+music likeness	save my last playlist
+music likeness	save this song in my great songs category
+music likeness	i love the songs of micheal jackson can you save some songs of jackson for me
+music likeness	i love that song who sings it
+music likeness	make this my favorite
+music likeness	I love the eternal voice of the singer she is my favourite
+music likeness	i like a song sing by arijit singh
+music likeness	the song touches my heart
+music likeness	i like the songs of yeshudas please play it
+music likeness	i like this song
+music likeness	save the information which is provided by aman on this song
+music likeness	the song makes me remember certain memories
+music likeness	i have to done it on the post important music file
+music likeness	the song in background is cool
+music likeness	please save my rating on this song it is five stars please
+music likeness	record the opinion of each individual about this song
+music likeness	please save my opinion about the song that is currently playing
+music likeness	this song is too good
+play audiobook	progress from the last paused point of my audio book
+play audiobook	go back to animal farm
+play audiobook	play next episode of harry potter by j. k. rowling
+play audiobook	resume the two towers
+play audiobook	start playing again
+play audiobook	resume lord of the rings
+play audiobook	resume the reading of the french lesson
+play audiobook	continue the smurfs book
+play audiobook	can you put on the giver
+play audiobook	read that back
+play audiobook	start audio playback of twilight again
+play audiobook	i want to finally read the mars trilogy
+play audiobook	pick up we left off on battle royale
+play audiobook	i would like to listen to my audiobook
+play audiobook	lets have a break for five minutes
+play audiobook	resume the two towers audiobook
+play audiobook	can you play my favorite audio book of king kong
+play audiobook	i want to listen to treasure island by robert louis stevenson
+play audiobook	resume pride and prejudice
+recommendation events	show me all the events happening in milan
+recommendation events	what are some local events
+recommendation events	can you tell me some fun things to do in kentucky
+recommendation events	is there anything to do tonight
+recommendation events	searching for any special holidays for us country
+recommendation events	what is happening in the area
+recommendation events	whats happening around my town
+recommendation events	inform about latest scheduled events near my location
+recommendation events	what are the events conducted in new york
+recommendation events	show todays events in new york
+recommendation events	what events are scheduled for this weekend in me area
+recommendation events	is there a sporting event tomorrow in chicago
+recommendation events	is there anything happening nearby
+recommendation events	what is happening in delhi today
+recommendation events	what can i do in berlin
+recommendation events	what are all the event in area
+recommendation events	tell me about activities in my area this weekend
+recommendation events	what baseball games are scheduled for this week in tulsa
+recommendation events	where is the food festival tonight
+recommendation movies	which rom com movie can i watch in theatres around new york
+recommendation movies	can you tell me what movies are playing at the movies tonight
+recommendation movies	what movies are playing at theatres near me
+recommendation movies	show me theatre where pirates of caribbean is playing
+recommendation movies	what new movies are good
+recommendation movies	what is the biggest blockbuster this week
+recommendation movies	find an oscar nominee movie
+recommendation movies	recommend a movie which is released last Friday
+recommendation movies	training day
+recommendation movies	is swat a good movie
+takeaway order	order me some chipotle
+takeaway order	could you please help me to order some sushi from deliveroo
+takeaway order	order chinese food
+takeaway order	show me chinese food near me
+takeaway order	ordering food
+takeaway order	checkout top restaurant near me and order shahi panner
+takeaway order	find and order handi paneer in pavitra
+takeaway order	order food
+takeaway order	order a ham and cheese sandwich from subway
+takeaway order	can you look up chinese takeout near here
+takeaway order	any low priced delicacies
+takeaway order	how much does general tsos chicken cost at peking garden
+takeaway order	order one pizza from pizza hut
+takeaway order	how about some pizza tonight can you please order a pepperoni large
+takeaway order	order six chicken tacos from chipotle
+takeaway order	i want to eat some spicy thing
+takeaway order	places with pizza delivery near me
+takeaway order	make an order for noodles one pack make it as takeaway order
+takeaway order	order general t'so eggroll to go
+takeaway query	call pizza hut and find out if my order is ready
+takeaway query	find a pizza restaurant open until noon
+takeaway query	does my favourite pizza place available for takeaway
+takeaway query	do the restaurant deliver
+takeaway query	does pf changs do takeout
+takeaway query	find my thai takeaways around grassmarket
+takeaway query	look to see if luigi's has takeaway
+takeaway query	does john's pizza have takeaway
+takeaway query	can i get takeout from pf changs
+takeaway query	where is an olive garden that does takeaway
+takeaway query	how much time it will take to prepare the order
+takeaway query	when i will get the delivery
+takeaway query	when is my takeaway going to get here
+takeaway query	when will my food be ready
+takeaway query	does restaurant have takeaway
+takeaway query	can i get delivery from this restaurant
+takeaway query	what is the status of my order
+takeaway query	when do i need to leave to pick up my order
+takeaway query	prepare the order as soon as possible
+transport taxi	call an uber for me
+transport taxi	call a taxi for me
+transport taxi	find the nearest taxi
+transport taxi	please book a taxi for me
+transport taxi	book a taxi uber
+transport taxi	book ola cab for now
+transport taxi	open uber app and book me a car for pick up at the airport
+transport taxi	book me a taxi to the mall of america please
+transport taxi	book me a taxi
+transport taxi	book taxi to new york city
+transport taxi	find transportation to rome
+transport taxi	call a taxi company
+transport taxi	find a taxi to book
+transport taxi	get me the number for local taxi service
+transport taxi	find a taxi service close to me
+transport taxi	i need a ride home
+transport taxi	call city cab to airport
+transport taxi	call a taxi for me to where i am currently located

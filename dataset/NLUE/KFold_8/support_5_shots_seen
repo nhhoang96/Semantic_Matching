@@ -1,0 +1,240 @@
+alarm set	set an alarm for me at eight am
+alarm set	please wake me up at eight am
+alarm set	can you set an alarm for seven am
+alarm set	set an alarm for two hours from now
+alarm set	set a repeating reminder alarm for the facebook event i have to attend on seventh april
+audio volume down	Turn down volume
+audio volume down	down the volume
+audio volume down	lower your volume please
+audio volume down	you're too loud
+audio volume down	turn down the sound
+audio volume up	increase the volume please
+audio volume up	increase volume please
+audio volume up	speaker volume increase
+audio volume up	turn up volume of music
+audio volume up	can you turn it up a little
+calendar query	what events are scheduled this week
+calendar query	how many calories did i burn between three and five today
+calendar query	is there a chili cookoff this weekend
+calendar query	let me know about upcoming events
+calendar query	is jimmie's party on friday cancelled
+calendar remove	delete from the calendar the next event
+calendar remove	can to please clear my calendar of all events
+calendar remove	delete my dr k appointment in march
+calendar remove	clear all events from march seven
+calendar remove	clean my calendar
+calendar set	invite people to the calendar event
+calendar set	add a reminder to my calendar every year on this date
+calendar set	activate a one week notification before my anniversary please
+calendar set	remember to remind me about client meet at four pm
+calendar set	give me the list of all events coming up in the next month and set notifications for all of them
+cooking recipe	what is recipe
+cooking recipe	what is a good vegan egg substitute
+cooking recipe	find recipe chicken casserole
+cooking recipe	how long should i cook a hamburger on each side
+cooking recipe	show me how to cook lasagna
+datetime convert	how many hours difference is hong kong from new york city
+datetime convert	what is the time difference between eastern and pacific
+datetime convert	if it's sunrise in stockholm what time is it in okinawa
+datetime convert	what is the time difference between new york and lagos
+datetime convert	convert new york time to london
+email addcontact	add the new email to my contacts
+email addcontact	please add tom to my contact list
+email addcontact	add sarah as email contact
+email addcontact	Update my contacts with the new contact sam@gmail dot com
+email addcontact	add apahelp@yahoo dot com in my contact list
+email querycontact	what is mary s.'s birthday
+email querycontact	what is a work phone number of emilia
+email querycontact	tell me the landline number
+email querycontact	what is my daughter's phone number
+email querycontact	do i have a work number for susan
+email query	hey check emails
+email query	please check all new email of income tax department
+email query	open inbox
+email query	what is the subject and who is the sender of my last email
+email query	is there any new mail for me
+email sendemail	can you send an email to my mother about the weekly weather
+email sendemail	will you send the email to greg
+email sendemail	please send email to pawel with reminder
+email sendemail	send this email to reply to the latest emails
+email sendemail	send an email to adele
+general affirm	strongly agreed.
+general affirm	yeap the command was exact.
+general affirm	yeap perfect.
+general affirm	yes you've understood that right.
+general affirm	yeap you've understood my instructions perfectly.
+general commandstop	please could you shut off.
+general commandstop	olly just stop.
+general commandstop	i want you just stop it.
+general commandstop	could you shut down.
+general commandstop	olly please shut off.
+general confirm	check last thing said please.
+general confirm	would you check the details please.
+general confirm	would you check what i said.
+general confirm	would you please confirm the instruction.
+general confirm	please would you check and confirm it.
+general dontcare	i don't really mind for anything.
+general dontcare	i would not know, olly.
+general dontcare	wouldn't know.
+general dontcare	it does not matter to me, olly.
+general dontcare	i have no idea for which to choose, olly.
+general praise	it was nice job, thank you so much.
+general praise	it's helpful, musch appreciated, olly.
+general praise	you have done it correctly thanks, olly.
+general praise	you are hero, appreciated.
+general praise	that's good one, thank you very much, olly.
+iot cleaning	vacuum the mud room
+iot cleaning	start vacuum cleaner
+iot cleaning	get the roomba to start cleaning
+iot cleaning	turn on the robot vacuum
+iot cleaning	clean the floor
+iot coffee	i need coffee please preferably hot
+iot coffee	instruct the coffee maker to make a filter coffee ready in ten minutes
+iot coffee	please start me some coffee
+iot coffee	yo i need a coffee now
+iot coffee	make coffee at eight am
+iot hue lightchange	can you do me a favor my eyes are feeling strained on these lights can you please change it to a cooler tone
+iot hue lightchange	switch the lights to blue
+iot hue lightchange	make curser adjustable position
+iot hue lightchange	turn the lights blue
+iot hue lightchange	please change the light to green
+iot hue lightdim	lower the light to forty percent
+iot hue lightdim	attenuate the lights
+iot hue lightdim	nighttime mode
+iot hue lightdim	bed room two darken
+iot hue lightdim	decrease brightness
+iot hue lightoff	please turn off the light in the upstairs bedroom
+iot hue lightoff	turn off one light on porch
+iot hue lightoff	turn this room light off
+iot hue lightoff	please turn lights off
+iot hue lightoff	turn the security light off
+iot hue lighton	i want to turn on the blue lights
+iot hue lighton	it's dark in the living room
+iot hue lighton	clap on
+iot hue lighton	turn on all upstairs lights
+iot hue lighton	please turn on my balcony lights
+iot hue lightup	raise the lights
+iot hue lightup	please turn the lights brighter
+iot hue lightup	olly brighten the lights
+iot hue lightup	please put all the lights
+iot hue lightup	increase the light a little
+iot wemo off	please turn off the smart socket
+iot wemo off	turn off the rice cooker socket
+iot wemo off	turn off my smart plug in thirty minutes
+iot wemo off	disable smart socket
+iot wemo off	switch off the plug socket
+iot wemo on	please turn on my wemo plug socket
+iot wemo on	turn on living room radio
+iot wemo on	turn on the wemo plug
+iot wemo on	outlet on
+iot wemo on	turn on the light socket
+lists createoradd	create a new list of my due bills
+lists createoradd	add grocery shopping to my to do list
+lists createoradd	search the item
+lists createoradd	please add list of things to buy for party
+lists createoradd	can you add cups to my grocery list
+lists query	what are the items on my list
+lists query	what is on my playlist
+lists query	read out the list
+lists query	what's on the list
+lists query	anything else left on the list
+lists remove	remove my shopping list
+lists remove	we're out of paint so take bathroom painting off the list
+lists remove	i don't need the shopping list delete it
+lists remove	list remove
+lists remove	delete the list
+music query	who's playing the oboe on this piece
+music query	where is band playing
+music query	what song is currently playing
+music query	which song is currently playing
+music query	what's the name of this song
+music settings	shuffle music
+music settings	please put this playlist on shuffle
+music settings	select shuffle all
+music settings	stop after current song
+music settings	make sure my shuffles are always repeat and always shuffled
+news query	breaking news fox news
+news query	show latest news about migration
+news query	dea guam prescription drug abuse on the rise
+news query	what were the cities affected by the earthquake
+news query	please advise what the current news is on fox news
+play game	lets go nazi hunting
+play game	anyone for tennis
+play game	angry bird play
+play game	play racing
+play game	play for me the game candy crush
+play music	play the song for me
+play music	play my most played songs
+play music	i would like to hear heathens by twenty one pilots
+play music	play what i am by edie brickel
+play music	i want to listen to rock
+play podcasts	rewind to four twelve
+play podcasts	play a podcast about latest yoga videos
+play podcasts	play podcast for the philadelphia eagles content
+play podcasts	please play the podcast from happypeoplecom
+play podcasts	can you please play the next episode of food stuff
+play radio	please play program on xmtune
+play radio	turn on one oh seven point five
+play radio	get radio
+play radio	let's hear ninety two point one
+play radio	play radio
+qa currency	forex rate of euro to u. s. d.
+qa currency	what is the exchange rate of rupee for dollar
+qa currency	how much is ten dollars in euros
+qa currency	what's the rate between pesos and yen
+qa currency	what is the dollar price in inr
+qa definition	describe the computer to me
+qa definition	what are the definitions of orange
+qa definition	what defines a triangle
+qa definition	what is the meaning of the word sanctimonious
+qa definition	what does it look like
+qa factoid	what is the temperature in indianapolis indiana
+qa factoid	calculate a close integral of exponential function from zero to five
+qa factoid	how old is tom hanks
+qa factoid	when's mark lanegan's next album out
+qa factoid	find me the perfect girlfriend
+qa maths	is the answer of five plus two seven
+qa maths	what is the answer to this math question
+qa maths	can you do nine plus two
+qa maths	what is the answer to one times two
+qa maths	what is five minus one
+qa stock	google i. b. m. stock prices
+qa stock	show me share price of amazon
+qa stock	how much is starbuck's stock these days
+qa stock	what is terranova stock going for
+qa stock	how is coca cola stock doing today
+recommendation locations	find a grocery store in town that carries creamed pickled herring
+recommendation locations	give me the name of all the shops in my area
+recommendation locations	find me the oldest hotel in washington dc
+recommendation locations	where can i shop as a local tourist
+recommendation locations	i want to take karate classes where are local karate studios
+social post	complaint on service provider on my twitter
+social post	tweet consumer service that i am very disappointed with my recent interaction
+social post	write a complaint to best buy
+social post	post a complaint via twitter to cvs pharmacy
+social post	please post so bored to facebook
+social query	what is trending on twitter
+social query	show me the posts of my friends in the last hour
+social query	please scan my social media and tell me what's happening
+social query	tell me my friends most recent update
+social query	what are today's highlights from facebook
+transport query	give the shortest route to the airport
+transport query	tell me how to get from here to the chimes in covington
+transport query	give me the list of available train tickets from edinburgh to leeds
+transport query	please send me info on how to go about purchasing a train ticket to new york
+transport query	what are the train times today
+transport ticket	repurchase last train ticket to phillyx
+transport ticket	find train ticket
+transport ticket	can i get a train ticket to
+transport ticket	please book the five pm train to rockville
+transport ticket	book train ticket for this time
+transport traffic	show traffic in ohio
+transport traffic	is the traffic bad enough that i should leave early
+transport traffic	how is the traffic on I twenty five
+transport traffic	is there any construction on route sixty six
+transport traffic	what is the traffic like right now
+weather query	what is the climate here today
+weather query	what is the current weather in denver
+weather query	Is it going to be windy on Saturday in denver
+weather query	what will the weather be like in austin on march sixteenth
+weather query	whats the weather like

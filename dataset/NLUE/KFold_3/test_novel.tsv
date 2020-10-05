@@ -1,0 +1,274 @@
+alarm query	what alarms have been set for me
+alarm query	list all set alarms
+alarm query	please tell me my alarms
+alarm query	what is the wake up time for my alarm i have set for the flight this weekend
+alarm query	did i set an alarm to wake up in the morning
+alarm query	what times do my alarms go off
+alarm query	are there any alarms for today
+alarm query	what time is my wakeup alarm set for
+alarm query	please read out all the alarms that are set
+alarm query	what time are my alarms set for
+alarm query	check if default alarm is set
+alarm query	how many alarms do i have set
+alarm query	are there any alarms currently set
+alarm query	confirm alarm for tomorrow morning
+alarm query	do i have an alarm set for morning flight
+alarm query	what's my next scheduled alarm
+alarm query	do i have any alarms set for tomorrow
+alarm query	please check alarms
+alarm query	what alarms do i have set
+alarm remove	remove my six am alarm
+alarm remove	snooze all today's alarms permanently
+alarm remove	remove my work alarm
+alarm remove	one pm removed
+alarm remove	olly cancel yoga alarms
+alarm remove	do not wake me up on weekends
+alarm remove	remove wake up calls for this week
+alarm remove	cancel my alarm for tomorrow morning
+alarm remove	reset the alarm
+alarm remove	remove tomorrow's alarm
+alarm remove	set the alarm off
+audio volume mute	stop making sounds for forty minutes
+audio volume mute	can you please stop speaking
+audio volume mute	mute volume
+audio volume mute	please do not answer
+audio volume mute	please be silent until i tell you not to be
+audio volume mute	i want to mute the speaker
+audio volume mute	silent mode
+audio volume mute	mute yourself when i am in a meeting
+audio volume mute	please pause yourself
+audio volume mute	please keep quiet for the next hour
+audio volume mute	mute the living room speakers
+audio volume mute	down the speaker volume at the end of level
+audio volume mute	set the speakers to mute
+audio volume mute	please mute the volume control
+audio volume mute	turn on silent mode until my alarm goes off
+datetime query	what time is it in this city
+datetime query	can you tell me the current time in dallas texas
+datetime query	march tenth lands on what day of the week
+datetime query	what time of day is it in london
+datetime query	can i get the time
+datetime query	how time is it
+datetime query	when is easter in the year two thousand and eighteen
+datetime query	what day of the week does the fifteenth of march fall on
+datetime query	what's the time for neighboring city
+datetime query	time and date of today
+datetime query	what day does my birthday fall on next year
+datetime query	what does the clock say
+datetime query	what day is christmas
+datetime query	let me know today's date in american format
+datetime query	what is the time in hyderabad
+datetime query	what is the time in bangalore
+datetime query	what's the time in dubai
+datetime query	is it noon in paris
+datetime query	whats the date today
+general explain	s2, i was unclear about what you've just said.
+general explain	s1, will you further explain.
+general explain	please further elaborate your response.
+general explain	i am not so clear about your answers.
+general explain	could you again elaborate me on your answers please.
+general explain	s1, rephrase me further on it please.
+general explain	s2, do not get your answer.
+general explain	could you please once again elaborate to me.
+general explain	s2, i can not catch up with you.
+general explain	s1, would you explain me about what you have just said once again.
+general explain	will you further elaborate me on what you have said please.
+general explain	s2, i was not clear about it.
+general explain	i was unclear about what you have said.
+general explain	i don't quite catch that.
+general explain	i do not get the last sentence.
+general explain	can you further explain me on it please.
+general explain	again clarify me on your answers please.
+general explain	s1, please clarify me about your answers once again.
+general explain	please further rephrase it.
+general joke	what is the funniest joke ever
+general joke	what's the funniest joke you know
+general joke	say some jokes
+general joke	i need a funny joke to tell sam
+general joke	please tell me a joke
+general joke	tell joke
+general joke	tell me a joke about a man
+general joke	hey olly make me laugh with a good joke
+general joke	tell me a good joke
+general joke	cheer me up
+general joke	tell me a joke about aliens
+general joke	hey tell me a knock knock joke
+general negate	dammit, that's not what i meant.
+general negate	thanks but i think that was not the correct command.
+general negate	that was incorrect let's try again.
+general negate	no, i think that's not the right response.
+general negate	you didn't say my name right.
+general negate	it seems like olly's command was not right.
+general negate	i am sorry but you did not interpret command right.
+general negate	i think you've done this all in wrong manner.
+general negate	dont do that again.
+general negate	i did not say it.
+general negate	uh no, you've done in wrong manner.
+general negate	it's not the correct command.
+general negate	oops, i think this was not the right response.
+general negate	thanks but i think this was not the correct command.
+general negate	uhh no, you didn't interpret the request right.
+general negate	that isn't what i meant.
+general negate	i think this was not correct.
+general negate	wait, this is not the right command.
+general negate	thanks but you didn't get me.
+general quirky	how do i duct tape a gooseto apig
+general quirky	what about tonight dinner with me
+general quirky	lets begin buddy
+general quirky	celebrities
+general quirky	why do some people still think the earth is flat
+general quirky	let me know when charges hit my credit card
+general quirky	i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month
+general quirky	how do you make steel
+general quirky	what do you think was the best decade
+general quirky	plants
+general quirky	dubai marriage
+general quirky	what do you do with my personal data
+general quirky	good morning isn't it a great day
+general quirky	tell me about this person
+general quirky	i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz
+general quirky	when is the first seventy degree day forecast
+general quirky	find me a good wine shop that stock old wines like older than ten years navigate me to that shop
+general quirky	how much do you know about me
+general quirky	if it is a consumer good then what is the customer feedback
+general repeat	could you tell me it one more time please.
+general repeat	one more time again.
+general repeat	will you retry it please.
+general repeat	would you try that instruction said again please.
+general repeat	tell me that once again.
+general repeat	tell me it one more again please.
+general repeat	i would like to hear what i've said again.
+general repeat	would you tell me that once again.
+general repeat	please speak the last one said one more time.
+general repeat	one more again please.
+general repeat	try it once more please.
+general repeat	please let's start over.
+general repeat	i would like to hear the last you just said again.
+general repeat	tell me what you just said once again please.
+general repeat	could you try what you just said one more again.
+general repeat	i'd like to hear the last utterance spoken again.
+general repeat	would you try what you said again.
+general repeat	please would you reset.
+general repeat	please would you repeat what you've said.
+music likeness	can you save this what a nice song for me
+music likeness	please add this song to my playlist favorites
+music likeness	please note i like jazz and hate disco
+music likeness	save this post about the song that i just listened to
+music likeness	add this song to my favorite list
+music likeness	filter all arijit singh sad song and save or create playlist of sad songs of arijit singh
+music likeness	i like rock music
+music likeness	i like this song please save
+music likeness	i like music
+music likeness	please save the remarks i have on this current song
+music likeness	you like the song
+music likeness	i like soft rock music
+music likeness	i like jazz you should know
+music likeness	find lyrics of this song and save it it is very nice song
+music likeness	keep that song for when i need cheering up
+music likeness	the music of this song is very melodious and relaxing
+music likeness	i like senatra songs
+music likeness	love me some brad paisley
+play audiobook	play the game of thrones audio book from the last chapter i was on
+play audiobook	play the book which i heard on some particular day
+play audiobook	stop play
+play audiobook	get me resume of newest release audio book
+play audiobook	keep playing secret garden
+play audiobook	can you pause and rewind the audio then resume
+play audiobook	play the last played audiobook
+play audiobook	start reading that alan partridge book
+play audiobook	play magic run after thirty min
+play audiobook	resume play on my most recent audiobook selection
+play audiobook	start reading fifty shades of grey from chapter four
+play audiobook	start chapter five of physics for future presidents
+play audiobook	continue pride and prejudice
+play audiobook	resume audio
+play audiobook	read some more of the daisy goodwin book for me
+play audiobook	can you play my latest audio book
+play audiobook	open harrypotter audiobook and play from last played
+play audiobook	play audiobook of planets
+play audiobook	resume my audiobook from the beginning of the last chapter i started
+recommendation events	events in city
+recommendation events	events in the local area
+recommendation events	is there any carnival taking place in our area
+recommendation events	will there be a farmers market in the area this weekend
+recommendation events	events today
+recommendation events	which event should i attend in my area
+recommendation events	what are the local events
+recommendation events	is there any events are in the local area
+recommendation events	show me nearby musical events
+recommendation events	what's some upcoming events i might want to go to
+recommendation events	are there any crafts fairs happening in this area
+recommendation events	what is happening in me area
+recommendation events	what kind of event is happening around me
+recommendation events	this weekend what events are going on in seattle
+recommendation events	tell me the local events
+recommendation events	searching for recent happenings on the particular dates
+recommendation events	what can i do for fun under dollars around me
+recommendation events	please search for events in my location
+recommendation events	please check on the rock concerts scheduled this weekend
+recommendation movies	how is the new movie swat
+recommendation movies	what time does thor start
+recommendation movies	logan
+recommendation movies	what movies are playing at carmike cinemas
+recommendation movies	give me a movie for tonight
+recommendation movies	what movies are playing near me
+recommendation movies	recommend a movie playing in me area
+recommendation movies	recommend a movie with justin bieber
+recommendation movies	what is a good movie to see right now
+recommendation movies	recommend a romantic comedy in me area
+takeaway order	order pizza for delivery
+takeaway order	call pizza hut and order a large pan pizza with ham and mushrooms
+takeaway order	takeaway noodles one pack
+takeaway order	open takeout menus
+takeaway order	please call the golden fork and tell them to deliver one portion of the fish risotto
+takeaway order	order me a cheese burger from tommy's burgers
+takeaway order	call eastwind and order lomaine to go
+takeaway order	i would like to order takeaway
+takeaway order	i am in need of some pizza what's the closest place that delivers
+takeaway order	order two hamburgers for me
+takeaway order	please put in an order from red thai fpr this evening
+takeaway order	order pizza
+takeaway order	place a takeaway order for a cheeseburger and fries from burger king
+takeaway order	closest chipotle
+takeaway order	call peking garden
+takeaway order	order chinese for delivery
+takeaway order	order from dominos
+takeaway order	place order for usual burritto at chipolte
+takeaway order	food order from grubhub
+takeaway query	could you please confirm if paradise does takeaway
+takeaway query	is my order ready for pick up now
+takeaway query	restaurant delivery update
+takeaway query	does paradise has takeaway
+takeaway query	when my takeaway order will arrive
+takeaway query	is there a takeaway in chipotle restaurant
+takeaway query	when can i pick up my order
+takeaway query	how long until my takeaway
+takeaway query	what time is my domino's order expected to arrive
+takeaway query	can i get an order delivered from romero's
+takeaway query	please check if paradise does takeaway
+takeaway query	check to see if pizza hut has my order on the way
+takeaway query	does dominos deliver
+takeaway query	when did i place my order and what was the projected time it would take
+takeaway query	ask peking garden when my food will arrive
+takeaway query	ask if deliver
+takeaway query	is my order ready
+takeaway query	whats up with my takeaway
+takeaway query	does fongs have delivery
+transport taxi	i am going to chinatown in half an hour book an uber for me
+transport taxi	hail taxi
+transport taxi	book a taxi to the airport
+transport taxi	open the uber app and get me a car please
+transport taxi	catcha a ride
+transport taxi	could you please have uber be at my house in fifteen minutes
+transport taxi	send golden taxi to pick me up as soon as possible
+transport taxi	please reserve the next taxi a nine am
+transport taxi	book an uber to the nearest mall in the next half hour
+transport taxi	call me a taxi
+transport taxi	find a taxi to go home
+transport taxi	i need a taxi to take me to the airport please
+transport taxi	call an uberpool to get me at long island bar
+transport taxi	i need a taxi uber
+transport taxi	call me an uber to the movie theater
+transport taxi	call a car for me
+transport taxi	i need a taxi ride now
+transport taxi	open uber and book a car for twelve o'clock

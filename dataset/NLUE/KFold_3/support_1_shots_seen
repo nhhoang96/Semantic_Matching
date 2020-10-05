@@ -1,0 +1,48 @@
+alarm set	set my alarm for twelve pm
+audio volume down	lower the volume
+audio volume up	turn up volume
+calendar query	what events do i have scheduled today
+calendar remove	please remove march nineteenth's scheduled event
+calendar set	in the following week repeat this event at ten am every day
+cooking recipe	how to make chicken tikka
+datetime convert	change this time to ist
+email addcontact	add email to existing contact
+email querycontact	give me charles telephone number
+email query	what did the clinic say about my exams
+email sendemail	reply back to this email
+general affirm	it's right.
+general commandstop	olly can you just stop.
+general confirm	could you check and confirm what i last said please.
+general dontcare	wouldn't really care.
+general praise	you are my hero, thank you very much, olly.
+iot cleaning	start cleaning
+iot coffee	coffee
+iot hue lightchange	change the light colour to green
+iot hue lightdim	lower lights now
+iot hue lightoff	shut off the lights in the bedroom
+iot hue lighton	it's too dark here
+iot hue lightup	turn the lights up
+iot wemo off	turn off on wemo outlet
+iot wemo on	times clapping sound times
+lists createoradd	add the item to the list
+lists query	most viewed list
+lists remove	please remove dallas from my travel itinerary
+music query	which songs do i listen to most
+music settings	please check my playlists for jazz music
+news query	is anything different today about blank
+play game	play solitaire
+play music	let me hear some bluegrass music
+play podcasts	play the next podcast episode
+play radio	play power one oh two point three
+qa currency	what is the exchange rate between us dollars and bitcoin
+qa definition	what does happy mean
+qa factoid	how old is rihanna
+qa maths	multiply one thousand by twelve
+qa stock	how much is apple stock worth
+recommendation locations	where can i got to grab some drinks in west chester
+social post	post the following status to facebook
+social query	open social media account
+transport query	find me a train ticket for the next trip to washington dc
+transport ticket	i want a train ticket
+transport traffic	is there traffic right now in maiden lane
+weather query	weather report of the week

@@ -1,0 +1,48 @@
+alarm set	add a five am alarm in place of my nine pm alarm
+audio volume down	I need the volume to be quieter
+audio volume up	turn up the volume of my speakers
+calendar query	what events are this week
+calendar remove	remove the event from monday
+calendar set	please remind me about the event later five pm
+cooking recipe	what goes with risotto
+datetime convert	change mountain standard to pacific
+email addcontact	save new email addresses to my contacts
+email querycontact	what is amber stevens address it is in my contacts
+email query	do i have a new email from eric
+email sendemail	send an email to my family wishing them a happy holiday
+general affirm	yeah get that correcly.
+general commandstop	olly please will you shut up.
+general confirm	please will you check details.
+general dontcare	doesn't really matter to me.
+general praise	you are my star, thank you so much, olly.
+iot cleaning	turn on vacuum
+iot coffee	please make me a cappuccino
+iot hue lightchange	brightness ninety percent
+iot hue lightdim	turn down the brightness
+iot hue lightoff	turn off the lights please
+iot hue lighton	please turn on the lights
+iot hue lightup	a little brighter thanks
+iot wemo off	turn off wifi when you leave home to save power
+iot wemo on	on the plug
+lists createoradd	add chives to my shopping list
+lists query	can you read me my lists
+lists remove	can you remove this item from the list
+music query	what's the song title
+music settings	replay the required of the musics
+news query	please advise what the current news is on fox news
+play game	let's play space invaders together
+play music	i would like to hear some rap music
+play podcasts	play me the latest podcast about online surveys
+play radio	please go to the local sports talk show on the radio
+qa currency	whats the currency exchange rate from dollars to euros
+qa definition	give me the definition of the word fondle
+qa factoid	tell me about donald trump
+qa maths	what do you get when you multiply sixteen by nine
+qa stock	whats the dow jones at today
+recommendation locations	tell me where the local shopping district is
+social post	post i am happy to facebook
+social query	can i see my facebook feed
+transport query	what time does the train depart from downtown los angeles to santa barbara
+transport ticket	book a train ticket for an eight am ride to charleston west virginia
+transport traffic	how is traffic from work to home
+weather query	is it going to rain in seattle today

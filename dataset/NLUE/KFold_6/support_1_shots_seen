@@ -1,0 +1,48 @@
+alarm set	set an alarm for me for tomorrow
+audio volume down	turn down the volume
+audio volume up	turn up music please
+calendar query	do i have a date for tonight
+calendar remove	check the events on calendar and delete the next event
+calendar set	remind me later
+cooking recipe	can you give me a recipe for homemade chicken noodle soup
+datetime convert	tell me the time in g. m. t. plus five
+email addcontact	create new contact with email
+email querycontact	how many contacts do i have in my phone book
+email query	jane doe emails
+email sendemail	please sent this email to my friend
+general affirm	yes fantastic response.
+general commandstop	will you please shut down.
+general confirm	i like you to confirm the details please.
+general dontcare	have no idea regarding to what to select, olly.
+general praise	you rock, thank you very much, olly.
+iot cleaning	activate robot cleaner in an hour
+iot coffee	i need some coffee made
+iot hue lightchange	change the lights in the kitchen to blue
+iot hue lightdim	i need to turn the lights down
+iot hue lightoff	switch off the light on the left
+iot hue lighton	light up the lights in the kitchen
+iot hue lightup	increase brightness in the room
+iot wemo off	turn off the fan
+iot wemo on	times clapping sound times
+lists createoradd	please add new item to list
+lists query	check out my to do list
+lists remove	delete the list created yesterday
+music query	can you pull up information on the singer of this song
+music settings	put the last song on repeat
+news query	automobiles
+play game	can you find animal crossing
+play music	play thinking out loud next
+play podcasts	jump to the next podcast
+play radio	play the jazz station
+qa currency	what is the current value of yen in american money
+qa definition	what i can do with laptop
+qa factoid	is yemen closer to japan or india
+qa maths	answer the equation eight times seven
+qa stock	how is the exchange rate for microsoft
+recommendation locations	please list shops within one miles from me
+social post	two thumbs down @companyname
+social query	let me know if i get a new personal message from martha on facebook today
+transport query	when is the next septa train to philadelphia
+transport ticket	book me a train ride covering five destinations to see in new york
+transport traffic	how is the traffic on harvard
+weather query	what a sunny day

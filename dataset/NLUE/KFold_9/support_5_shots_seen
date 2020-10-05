@@ -1,0 +1,240 @@
+alarm set	make me a wake up alarm for eight forty five am
+alarm set	fix an alarm
+alarm set	open clock
+alarm set	update alarm
+alarm set	please sound an alarm three hours before a scheduled event
+audio volume down	please lower the speaker volume
+audio volume down	can you turn that down
+audio volume down	I need the volume to be quieter
+audio volume down	down
+audio volume down	lower volume by fifty percent
+audio volume up	i can't hear you speak up
+audio volume up	raise the volume to fifty
+audio volume up	raise volume
+audio volume up	turn up the volume of my speakers
+audio volume up	please turn the music volume up
+calendar query	what time does the dinner party start tonight
+calendar query	please tell me what day this event reminder is set for
+calendar query	time time is the holiday party at the office
+calendar query	what is my schedule for tomorrow
+calendar query	what is on the agenda for today
+calendar remove	delete my meeting for tomorrow
+calendar remove	hey olly make sure my calendar is completely clear tomorrow
+calendar remove	delete event for tuesday
+calendar remove	please cancel my next hair cut
+calendar remove	remove meeting for wednesday morning
+calendar set	can you remind me of sunday gym every saturday evening
+calendar set	remind me to take the casserole out of the oven at seven hundred and forty five pm
+calendar set	remind me at the start of each month
+calendar set	please set reminder
+calendar set	remind me later
+cooking recipe	how can i cook pasta
+cooking recipe	is soft cheese better than hard
+cooking recipe	how long should i cook a steak to be medium
+cooking recipe	can you tell me how to cook chocolate chip cookies
+cooking recipe	show me the recipe for cookies
+datetime convert	what is the time difference between eastern and pacific time zones
+datetime convert	what the time difference from here to ottawa
+datetime convert	convert time zone
+datetime convert	when it is nine in the east what time is it in the west
+datetime convert	what time can i call from pennsylvania and it will be business hours in australia
+email addcontact	please place my new email address to the contact
+email addcontact	i would like you to add an email to my contacts
+email addcontact	please add an email to my contacts
+email addcontact	save that email as a new contact
+email addcontact	get apahelp@yahoo dot com in my contacts
+email querycontact	find me my dad's email address
+email querycontact	open contacts and find john smith
+email querycontact	what is the email address for tessa
+email querycontact	what is mary smith's telephone number
+email querycontact	is alex saved in my contacts list
+email query	give me recent emails
+email query	find my email for date
+email query	what new emails do i have form amie
+email query	display latest emails
+email query	jane doe
+email sendemail	email my meeting details to my manager
+email sendemail	please open a reply to the email
+email sendemail	send email to david davis email address
+email sendemail	send an email to my boss
+email sendemail	email co worker about work project
+general affirm	you've understood command perfectly.
+general affirm	yeah you did it exactly.
+general affirm	yeap you've got your understanding right.
+general affirm	yeah that's great.
+general affirm	you have understood my instructions perfectly.
+general commandstop	please could you shut off.
+general commandstop	olly please could you cancel.
+general commandstop	olly please would you stop.
+general commandstop	olly can you cancel please.
+general commandstop	please would you cancel.
+general confirm	check question.
+general confirm	will you please check and confirm the last thing i said.
+general confirm	would you please check it.
+general confirm	please check and confirm detail.
+general confirm	please check what said.
+general dontcare	any one, olly.
+general dontcare	this is unimportant, olly.
+general dontcare	wouldn't really mind to choose any one, olly.
+general dontcare	wouldn't really mind for whatever.
+general dontcare	this is unimportant with me, olly.
+general praise	it was nice one, thanks.
+general praise	good work, you have done well, olly.
+general praise	you are my star, thank you so much, olly.
+general praise	that's useful, thank you so much, olly.
+general praise	it's great one, thank you very much.
+iot cleaning	activate robot vacuum
+iot cleaning	turn my iroomba on
+iot cleaning	run the vacuum cleaner
+iot cleaning	start robot vacuum cleaner
+iot cleaning	turn cleaner robot on
+iot coffee	prepare a cup of coffee
+iot coffee	i'd like a coffee now
+iot coffee	please start me some coffee
+iot coffee	i need a cup of coffee
+iot coffee	can i have an espresso please
+iot hue lightchange	change my house lights colour to blue
+iot hue lightchange	i like red colour for my home change it
+iot hue lightchange	i'd like some red lighting
+iot hue lightchange	go to setting
+iot hue lightchange	change the lights of the house to a blue hue
+iot hue lightdim	lower the lights a little more
+iot hue lightdim	bring the lights down a bit
+iot hue lightdim	decrease brightness of lights
+iot hue lightdim	i want the lights less brighter
+iot hue lightdim	bed room two darken
+iot hue lightoff	turn light off
+iot hue lightoff	turn off the office lights
+iot hue lightoff	turn off the dining room
+iot hue lightoff	please turn bedroom lights off
+iot hue lightoff	please turn off kitchen light for me
+iot hue lighton	please turn on all the outdoor lights
+iot hue lighton	it is dark
+iot hue lighton	turn on the lights that are outdoors
+iot hue lighton	turn all lights on
+iot hue lighton	switch on the lights
+iot hue lightup	please increase the light of table lamp
+iot hue lightup	increase light brightness
+iot hue lightup	more lights please
+iot hue lightup	turn up the lights please
+iot hue lightup	increase brightness in the room
+iot wemo off	please turn off wemo socket
+iot wemo off	turn off my wemo socket
+iot wemo off	turn the wemo off
+iot wemo off	mute your android phone when you arrive at work
+iot wemo off	cut wemo power please
+iot wemo on	start the laundry
+iot wemo on	please turn on my wemo plug socket
+iot wemo on	enable wemo
+iot wemo on	turn on my plug
+iot wemo on	turn on when plugged in else turn off
+lists createoradd	make me a new checklist
+lists createoradd	please add deodorant to my shopping list
+lists createoradd	begin a new list
+lists createoradd	create a list for the following
+lists createoradd	start new list
+lists query	tell me my lists
+lists query	what lists do i have queried
+lists query	read my grocery list
+lists query	what's the next thing on my list of appointments
+lists query	what is on the list for today
+lists remove	reset my locations list
+lists remove	take bread out from the shopping list
+lists remove	i want you to delete my shopping list from last month
+lists remove	remove item three
+lists remove	remove the sms recipient which have initials s
+music query	what is the title and artist of this song
+music query	other songs by this artist
+music query	what music is playing right now
+music query	what's that the album is current music from
+music query	who sings this song
+music settings	turn on spotify shuffle
+music settings	repeat the current song
+music settings	please repeat the last song
+music settings	shuffle the current album of songs
+music settings	repeat song
+news query	give me the latest on paul ryan
+news query	what's the news from source
+news query	what is happening with brexit today
+news query	what's the latest news from xinhua
+news query	give me international news
+play game	open games
+play game	let's play global thermonuclear war
+play game	play racing
+play game	start angry bird
+play game	play the latest games
+play music	skip to the next song
+play music	play my rap playlist
+play music	start my jazz playlist
+play music	play marvin gaye i want you
+play music	play melody songs
+play podcasts	play the serial podcast
+play podcasts	go to the third episode of this podcast
+play podcasts	can you find the dave ramsey podcast that aired earlier today
+play podcasts	please play the next episode
+play podcasts	play me john's podcast
+play radio	press play on the radio
+play radio	find joel osteen's broadcast on sirius
+play radio	can you find the the preacher joe show on gospel radio
+play radio	load sirius and play a rock and roll show
+play radio	please turn on the sean hannity show on am
+qa currency	exchange rate between dollar and mexican peso
+qa currency	canadian us exchange rate
+qa currency	i have ten us dollars how many canadian dollars do i have
+qa currency	whats the currency exchange rate from dollars to euros
+qa currency	currency converter please
+qa definition	describe the computer to me
+qa definition	give me the description of a mobile battery functioning
+qa definition	what an umbrella means
+qa definition	where can i use this word
+qa definition	define what's a goalkeeper
+qa factoid	how old is kim kardashian
+qa factoid	how many pages long is harry potter
+qa factoid	is yemen closer to japan or india
+qa factoid	how many countries are in europe
+qa factoid	how big is russia
+qa maths	what is the answer to two times three
+qa maths	what is three times seven
+qa maths	how do you subtract numbers
+qa maths	four plus five equals nine
+qa maths	what is the root of 16
+qa stock	mention the stock price of hdfc
+qa stock	what are the stock prices of target
+qa stock	what did the s n. p close out at
+qa stock	what is the value of apple
+qa stock	what's new with the stock market
+recommendation locations	is there a well rated pizza place between fourteenth and eighteenth streets
+recommendation locations	recommend a restaurant with medium expense
+recommendation locations	when does olive garden close today
+recommendation locations	where are italian restaurants in me area
+recommendation locations	where is a nearby park where i can go running
+social post	send a tweet
+social post	can you send a tweet to lif saying that their app crashed
+social post	tweet walmart and tell them their customer service is horrible
+social post	tweet long wait time and unprofessional employees
+social post	please tweet the following to radisson hotels customer service
+social query	latest tweets
+social query	what's new on facebook
+social query	please let me know what's happening to my social media
+social query	how many notifications do i have on facebook
+social query	is trump tweeting today
+transport query	what is the departure time for the next train leaving new york city
+transport query	what street do i take to get to downtown
+transport query	i'd like a train ticket to this location
+transport query	what times may i travel to location a
+transport query	how often does the train arrive and depart from penn station
+transport ticket	i want a train ticket to oregon
+transport ticket	can you book me a train ticket to boston for next tuesday
+transport ticket	buy me a ticket to take the train to atlanta
+transport ticket	google i need one train ticket to new york can you book that for me
+transport ticket	order a train ticket to los angeles
+transport traffic	are there any accidents on harvard
+transport traffic	how long will it take me to get to park avenue considering current traffic
+transport traffic	how is the traffic near me
+transport traffic	few traffic roads
+transport traffic	what is the traffic this morning
+weather query	what is the weather this friday
+weather query	what's it like outside
+weather query	what is today's weather forecast
+weather query	tell me what was the temperature in our city at twelve pm
+weather query	give me the weather for merced at three pm

@@ -1,0 +1,80 @@
+alarm query	what alarms have i set for tomorrow
+alarm query	any alarms currently listed
+alarm query	checkout today alarm of meeting
+alarm query	what alarms do i have set
+alarm query	when does my alarm go off
+alarm remove	please delete my morning alarm
+alarm remove	please delete the wednesday evening alarm
+alarm remove	remove my work alarm
+alarm remove	remove alarm if any
+alarm remove	remove the latest alarm
+audio volume mute	mute yourself until i say otherwise
+audio volume mute	mute speakers
+audio volume mute	please be quiet for another hour
+audio volume mute	turn off the sounds
+audio volume mute	set the speakers to mute
+datetime query	tell me the current time in san paulo brazil
+datetime query	is it Monday today
+datetime query	i want exact time in washington right now
+datetime query	can you tell me today's date
+datetime query	would like to see the time zone
+general explain	s1, please elaborate further on it to me.
+general explain	can you explain once again.
+general explain	could you once again rephrase me about your answers.
+general explain	your words is not so clear.
+general explain	s1, could you rephrase further on what you have said to me please.
+general joke	funny joke
+general joke	tell me a joke about birds
+general joke	hey olly tell me a joke
+general joke	humor me
+general joke	find me a joke related to baseball
+general negate	thanks but i think you have messed up my request.
+general negate	you have done task all wrong.
+general negate	that was incorrect let's try again.
+general negate	i am sorry but this was not the correct command.
+general negate	oh no, you gave me not right information.
+general quirky	please tell me who is going to win the nba championship
+general quirky	have you come across any new recipes
+general quirky	is the data prefers any problems in objects
+general quirky	what's your favorite color
+general quirky	Is country better today or ten years ago
+general repeat	start over.
+general repeat	i want to hear your last instruction you said again.
+general repeat	please repeat that.
+general repeat	please will you say that one more again.
+general repeat	say what you've said one more time again please.
+music likeness	the song you are playing is amazing
+music likeness	i like this song
+music likeness	i like vocals
+music likeness	that song was awesome can you repeat
+music likeness	please add this song to my playlist favorites
+play audiobook	i want to finally read the mars trilogy
+play audiobook	i would like to listen to my audiobook
+play audiobook	play recently added audiobook
+play audiobook	play audiobook snow white
+play audiobook	play this audiobook
+recommendation events	what's happening in my town
+recommendation events	what's happening near me this week
+recommendation events	what is worth doing around here
+recommendation events	is there a sporting event tomorrow in chicago
+recommendation events	what is going on in me area today
+recommendation movies	what should i watch today
+recommendation movies	what movies are playing in columbia
+recommendation movies	what's worth watching
+recommendation movies	what do you suggest that i watch this weekend
+recommendation movies	theaters near to me
+takeaway order	order takeout
+takeaway order	noodles one pack make it as takeaway
+takeaway order	please put in an order from red thai fpr this evening
+takeaway order	call pizza hut and order a large pan pizza with ham and mushrooms
+takeaway order	confirm the order and send me the confirmation
+takeaway query	call the restaurant to see if the delivery is on the way
+takeaway query	does pizza hut have my order ready
+takeaway query	restaurant order status
+takeaway query	take out available louies
+takeaway query	does panda garden deliver
+transport taxi	check in a taxi for booking
+transport taxi	send an uber to me right now
+transport taxi	call taxi
+transport taxi	taxi now
+transport taxi	just book for me a lyft taxi to bardonia

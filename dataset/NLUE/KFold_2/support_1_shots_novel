@@ -1,0 +1,16 @@
+alarm query	my alarms
+alarm remove	turn off the six am alarm for Wednesday
+audio volume mute	mute for the next hour please
+datetime query	can you tell me the time at san francisco
+general explain	what did you mean by saying it.
+general joke	whats a silly joke you know
+general negate	uh no, i think you have done task in wrong manner.
+general quirky	the meaning of life
+general repeat	i would like to hear what said again.
+music likeness	save my opinion about the current song playing
+play audiobook	continue playing where I left off
+recommendation events	any specific event in washington
+recommendation movies	recommend a romantic comedy in me area
+takeaway order	order pizza for delivery
+takeaway query	status for the pizza delivery from pizza hut
+transport taxi	find the nearest uber

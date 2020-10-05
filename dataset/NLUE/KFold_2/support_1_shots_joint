@@ -1,0 +1,64 @@
+alarm query	my alarms
+alarm remove	turn off the six am alarm for Wednesday
+alarm set	two pm set
+audio volume down	turn the volume down
+audio volume mute	mute for the next hour please
+audio volume up	hey sound is low can you tune it up
+calendar query	what's on my schedule this week
+calendar remove	remove meeting for wednesday morning
+calendar set	set a reminder for twelve thirty meeting with the boss
+cooking recipe	healthy foods
+datetime convert	change mountain standard to pacific
+datetime query	can you tell me the time at san francisco
+email addcontact	i need you to add gary's email to my favorites
+email querycontact	what is john smith's number
+email query	have i gotten any emails lately
+email sendemail	email my mother
+general affirm	yeah it's good.
+general commandstop	would you shut off.
+general confirm	please can you confirm it.
+general dontcare	wouldn't mind for any one.
+general explain	what did you mean by saying it.
+general joke	whats a silly joke you know
+general negate	uh no, i think you have done task in wrong manner.
+general praise	i appreciate it, that's amazing.
+general quirky	the meaning of life
+general repeat	i would like to hear what said again.
+iot cleaning	please start the vacuum
+iot coffee	make me a coffee please
+iot hue lightchange	make the lights blue please
+iot hue lightdim	i want the room to be less bright
+iot hue lightoff	bed room two switch off the lights
+iot hue lighton	turn on hall lights
+iot hue lightup	brighten more light
+iot wemo off	can you turn off wemo plug socket
+iot wemo on	turn on this socket
+lists createoradd	i need to create a new to do list
+lists query	how many eggs are on my grocery list
+lists remove	get rid of tax list from nineteen ninety
+music likeness	save my opinion about the current song playing
+music query	what music is this
+music settings	repeat previous song
+news query	latest updates on syrian civil war
+play audiobook	continue playing where I left off
+play game	i want to play fifa seventeen
+play music	play led zeppelin houses of the holy
+play podcasts	skip to the next episode of this podcast
+play radio	open radio frequency ninety nine point five
+qa currency	how much is the us dollar versus the pound
+qa definition	please search for this word
+qa factoid	how many pages long is harry potter
+qa maths	what's one divided by plus two divided by cup
+qa stock	facebook current stock rate
+recommendation events	any specific event in washington
+recommendation locations	i need to find a gift what stores are within a one mile radius
+recommendation movies	recommend a romantic comedy in me area
+social post	tweet my complaint to @nsa
+social query	what was the latest post
+takeaway order	order pizza for delivery
+takeaway query	status for the pizza delivery from pizza hut
+transport query	how to get somewhere
+transport taxi	find the nearest uber
+transport ticket	book the the next train ticket to chennai
+transport traffic	is traffic to work clear
+weather query	is it going to be cloudy in london during the weekend

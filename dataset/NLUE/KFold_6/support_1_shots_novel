@@ -1,0 +1,16 @@
+alarm query	did i set an alarm to wake up in the morning
+alarm remove	remove my early alarms
+audio volume mute	Silence speakers
+datetime query	today is which date
+general explain	s2, i was unclear about your answers.
+general joke	find me the best knock knock joke on the internet
+general negate	no, you gave me incorrect information.
+general quirky	i would like to crack jokes
+general repeat	could you speak the last utterance said once more.
+music likeness	put that song in my favourite list
+play audiobook	resume the playback of a child called it
+recommendation events	get local events
+recommendation movies	what are new drama movies opening this weekend
+takeaway order	i am so hungry and tired and i think i might order some food now
+takeaway query	i just ordered food call and see it has been delivered
+transport taxi	get me an uber

@@ -1,0 +1,274 @@
+alarm query	do i have an alarm set
+alarm query	show me the list of alarms
+alarm query	just to confirm you set the alarm to go off at eight hundred
+alarm query	did i set my house alarm
+alarm query	tell me my alarms
+alarm query	what are the next three alarms set to go off
+alarm query	check if alarm is set for six am
+alarm query	i need to set an alarm how many do i have set
+alarm query	is the alarm to the backdoor set and ready to go
+alarm query	what time do i have my alarm set for tomorrow
+alarm query	what's the description for the alarm at eleven am
+alarm query	are there any alarms set
+alarm query	are there any alarms set right now
+alarm query	are there any alarms
+alarm query	do i have alarms set for today
+alarm query	how many alarms are listed
+alarm query	remind me about my alarms today
+alarm query	list alarms
+alarm query	do i have alarms set before six in the morning
+alarm remove	remove my four am alarm
+alarm remove	cancel my eight am alarm
+alarm remove	delete the meeting alarm at two pm on tuesday
+alarm remove	please remove this alarm
+alarm remove	remove six am alarm of whole week for future
+alarm remove	twelve am removed
+alarm remove	delete my six am alarm
+alarm remove	i need to delete the alarm for church on sundays at eleven am
+alarm remove	cancel my three pm alarm
+alarm remove	please remove the alarm which i set for today morning
+alarm remove	cancel alarm for tomorrow
+audio volume mute	pause the music
+audio volume mute	silent
+audio volume mute	go silent for a day
+audio volume mute	mute for volume
+audio volume mute	set mute mode for one hour
+audio volume mute	can you mute when i am not home
+audio volume mute	mute please
+audio volume mute	please be quiet for another hour
+audio volume mute	set to silent for five minutes
+audio volume mute	silence please
+audio volume mute	stop playing
+audio volume mute	mute the audio
+audio volume mute	mute the settings
+audio volume mute	mute the volume
+audio volume mute	please quiet the speaker
+datetime query	show me boston's current time
+datetime query	what is the current date time group
+datetime query	display date
+datetime query	what time is it in denver
+datetime query	what time is it in akron
+datetime query	what day does easter fall on
+datetime query	do we have thirty first day on this month
+datetime query	is it Monday today
+datetime query	hey what time is it in london now
+datetime query	just let me know the current date today
+datetime query	on what date is easter this year
+datetime query	time in chicago
+datetime query	may i know the time in london
+datetime query	show me the date of today
+datetime query	what day of the month is it
+datetime query	what is the date and time
+datetime query	what time is it in mountain time zone
+datetime query	would like to see the time zone
+datetime query	show me what time it is
+general explain	i could not quite catch up with you.
+general explain	i can not quite catch up with you.
+general explain	your answer was not so clear.
+general explain	s1, can you please again rephrase to me.
+general explain	elaborate me about your answers further.
+general explain	i can't get that.
+general explain	can you please clarify once again.
+general explain	s2, i could not quite catch up with you.
+general explain	s1, can you rephrase me more on the last sentence please.
+general explain	s2, i was unclear about your answers.
+general explain	will you explain me more on what you just said please.
+general explain	what you have said is not so clear.
+general explain	can you elaborate me on your answers again.
+general explain	can you explain me further on what you just said.
+general explain	what you just said was not so clear to me.
+general explain	explain further please.
+general explain	please can you rephrase me further on your answers.
+general explain	could you please further elaborate me about what you have just said.
+general explain	i don't understand what you just said now.
+general joke	find jokes on the web
+general joke	make me laugh i want to hear a joke
+general joke	i want to hear a joke
+general joke	open some cools jokes
+general joke	hey olly tell me a joke
+general joke	hey share me some joke to make me happy
+general joke	joke of the day
+general joke	tell me a joke
+general joke	tell me a dirty joke
+general joke	find a joke in your vault and tell me
+general joke	i would like to hear some good funny jokes
+general joke	share me a joke
+general negate	shit, you've done a task wrong.
+general negate	thanks but i think you have messed up my request.
+general negate	nope, incorrect command.
+general negate	thanks but you have got it incorrect.
+general negate	i think you did not get this right.
+general negate	sorry but that was not the correct response.
+general negate	i am sorry but that is not the right answer.
+general negate	thanks but i think you do not understand this right.
+general negate	i think that's not correct answer.
+general negate	shit, not correct response.
+general negate	please make sure your command was correct because it doesn't sound right.
+general negate	please check the command.
+general negate	i am sorry but i think you have messed up with my request.
+general negate	sorry but i think you are not right.
+general negate	sorry but it is not correct.
+general negate	i am sorry but you have messed up with my request.
+general negate	i don't think thats right.
+general negate	i am sorry but i think that's not correct.
+general negate	dammit, it isn't what i am looking for.
+general quirky	how has your life been changed by me
+general quirky	jlo fan updates
+general quirky	how about you
+general quirky	uefa european championship
+general quirky	good restaurants
+general quirky	what happened to charlie chaplin
+general quirky	what can you do
+general quirky	what would be the a perfectly nutritionally balanced meal for dinner
+general quirky	moderate
+general quirky	how much can i bleed before i die
+general quirky	tell me everything about umf
+general quirky	it has a meaning of rhythm
+general quirky	it was a very hectic workday
+general quirky	can you make dinner for me
+general quirky	how often do you complete updates
+general quirky	i would like to solve maths issues
+general quirky	did you change the wallpaper
+general quirky	hey i am having a bad day today what can i watch to cheer me up
+general quirky	how would you tackle the following problem brush your teeth
+general repeat	will you say again please.
+general repeat	could you tell me one more time please.
+general repeat	replay please.
+general repeat	please could you try what you've said once more.
+general repeat	i would like to hear the last one you said again.
+general repeat	do it again please.
+general repeat	can you reset.
+general repeat	say that again.
+general repeat	please replay your last statement.
+general repeat	try the last message one more time please.
+general repeat	please tell me that one more again.
+general repeat	retry the last spoken.
+general repeat	please tell me it one more again.
+general repeat	i want to hear your last instruction you said again.
+general repeat	reset please.
+general repeat	can you speak it again please.
+general repeat	please can you tell me that word said once again.
+general repeat	i'm sorry.
+general repeat	can you say it one more time again please.
+music likeness	this song is my favourite
+music likeness	i'm into music
+music likeness	save this channel on pandora please
+music likeness	my favorite singer is shakira
+music likeness	add this song to my music
+music likeness	give five stars to this song
+music likeness	i like justin beibers music please play it
+music likeness	add that song to my top ten favorites list
+music likeness	slow rock it's ok
+music likeness	that's a good song
+music likeness	isn't it a lovely song please save this for me
+music likeness	put that song in my favourite list
+music likeness	my favourite music band is queen
+music likeness	i like jazz
+music likeness	please save this song to my favorites
+music likeness	super song
+music likeness	this song was very good
+music likeness	this is my favorite song
+play audiobook	resume the last played audiobook
+play audiobook	open book
+play audiobook	open the two towers and play
+play audiobook	i need a break start it after five minutes
+play audiobook	resume playback
+play audiobook	pick up wuthering heights where we left off
+play audiobook	audio start
+play audiobook	please restart the handmaid's tale
+play audiobook	book swan resume
+play audiobook	resume harry potter book four
+play audiobook	resume play of american gods
+play audiobook	play pride and prejudice
+play audiobook	resume play where i left off in book on audible
+play audiobook	play the twilight book
+play audiobook	play me a random audio book that has to do with love
+play audiobook	can you put on the chuck palhunik audio book
+play audiobook	i want you to fast forward the audio then resume
+play audiobook	resume the playback of zanes se chronicles
+play audiobook	hold
+recommendation events	search for any upcoming book fairs during next week in washington dc
+recommendation events	are there any good social events happening in my area
+recommendation events	are there any special events in my town
+recommendation events	tell me about things to do in london
+recommendation events	info of the upcoming events
+recommendation events	local area events
+recommendation events	is there anything happening in town this weekend
+recommendation events	what is tomorrows events
+recommendation events	are there any interesting events around this area
+recommendation events	inform about best circus near me
+recommendation events	latest event in new york city
+recommendation events	are there dog shows going on near new york city
+recommendation events	is there a food festival in the area
+recommendation events	is there any event around
+recommendation events	what do they have going on at young circle this week
+recommendation events	what events are happening near me
+recommendation events	show local events
+recommendation events	what is there to do in new york city
+recommendation events	searching on holidays in my location
+recommendation movies	what are movies that are playing near me with high reviews
+recommendation movies	movie times tonight
+recommendation movies	can you tell me what movie has the best reviews
+recommendation movies	what are the show times for logan at the nearby theatre
+recommendation movies	show me nearest theatre
+recommendation movies	what is a good iranian film from two thousand and sixteen
+recommendation movies	what movies are playing nearby
+recommendation movies	what new movies are played in cinemas this week
+recommendation movies	what movie theatres are in stephenville
+recommendation movies	what is the best movie to watch with a glass of wine
+takeaway order	i want to order some takeout food
+takeaway order	get us spaghetti from pizza hut
+takeaway order	what mexican restaurants are there nearby for takeout
+takeaway order	can you order me a pizza today from dominos
+takeaway order	i want to eat something will you order food for me
+takeaway order	order food from applebees
+takeaway order	place an order for two pizzas from dominoes
+takeaway order	i want to order some food
+takeaway order	from wangs kitchen restaurant home delivery for a chicken manchow soup
+takeaway order	i want to order a takeaway from papa john's
+takeaway order	call domino's pizza
+takeaway order	id like to put in an order for some chinese food with hunan wok
+takeaway order	order one burger
+takeaway order	start a takeaway order for me
+takeaway order	find and order domino pizza at nearest store of domino
+takeaway order	order ribs for dinner
+takeaway order	order a large pan pizza with ham and mushrooms from pizza hut
+takeaway order	find the nearest olive garden that has take out service
+takeaway order	any good fast food items
+takeaway query	how many minutes do i need to wait to pick up my food from china on the go
+takeaway query	check the status of my order
+takeaway query	does the nearby chinese restaurant do delivery
+takeaway query	find my food
+takeaway query	does the nearby pizza hut deliver in my area
+takeaway query	can i get the food to go
+takeaway query	what is the phone number for the nearest location of church's chicken
+takeaway query	will arby's offer takeaway
+takeaway query	what's up with my order
+takeaway query	does this restaurant only do carryout
+takeaway query	call the restaurant to see if the delivery is on the way
+takeaway query	look up whether or not charley's steakhouse delivers
+takeaway query	when will by order from taco bell be delivered
+takeaway query	i just ordered food call and see it has been delivered
+takeaway query	what is happening to my order
+takeaway query	can i get takeaway from arby's
+takeaway query	domino's delivery status
+takeaway query	please takeaway of giving required of the restaurant
+takeaway query	please find out of charley's steakhouse delivers
+transport taxi	i need a taxi at eight tomorrow morning to take me to work
+transport taxi	i need to book a taxi
+transport taxi	set up uber
+transport taxi	what's the closest taxi to me
+transport taxi	need a taxi for my travel
+transport taxi	book my nearest available taxi
+transport taxi	where is the closest uber
+transport taxi	call a uber in thirty minutes
+transport taxi	get city cab here to airport
+transport taxi	book a rental cab of uber
+transport taxi	uber please
+transport taxi	tell taxi to pick me up at four pm
+transport taxi	can you call an uber for me
+transport taxi	find a taxi for me
+transport taxi	book a taxi at my home address for right now
+transport taxi	book a taxi for me
+transport taxi	book uber taxi for my travel
+transport taxi	book ola for airport today evening

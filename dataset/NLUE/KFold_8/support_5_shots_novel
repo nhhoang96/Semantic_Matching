@@ -1,0 +1,80 @@
+alarm query	what times do my alarms go off
+alarm query	is the alarm set for tomorrow morning
+alarm query	do i have any alarms
+alarm query	what alarms do i have
+alarm query	do i have any alarms set for tomorrow
+alarm remove	cancel all alarms
+alarm remove	remove alarm
+alarm remove	snooze all today's alarms permanently
+alarm remove	please remove the alarm which i set for today morning
+alarm remove	remove number three alarm of list
+audio volume mute	stop playing
+audio volume mute	Silence speakers
+audio volume mute	do not speak today
+audio volume mute	turn off the sounds
+audio volume mute	turn off audio
+datetime query	please tell me the date
+datetime query	date today
+datetime query	can you tell me the date today
+datetime query	let me know the time
+datetime query	what day of the week is first april
+general explain	i could not understand this.
+general explain	i don't understand what you have said.
+general explain	i can't get that.
+general explain	i am unclear about your response.
+general explain	what did you mean by saying it.
+general joke	what's the famous monty python joke about the bird
+general joke	tell me a joke about dogs
+general joke	humor me
+general joke	i need a good joke
+general joke	the joke of the day
+general negate	thanks but i think you do not get me.
+general negate	oh no, i think you have done a task wrong.
+general negate	you have done the task wrong.
+general negate	please check the command.
+general negate	olly's command is incorrect.
+general quirky	i hate how long the traffic jams get
+general quirky	good restaurants
+general quirky	i saw a bulldog today
+general quirky	hey i met one of my old classmates today
+general quirky	how did your day go
+general repeat	i'd like to hear the last spoke again.
+general repeat	let's try what you said one more time again please.
+general repeat	would you tell me that once again.
+general repeat	can you try what i just said again.
+general repeat	please replay your last statement.
+music likeness	the song makes me remember certain memories
+music likeness	send this song to my favorites
+music likeness	store opinion on song
+music likeness	current song rating three stars
+music likeness	please rate current song as five stars
+play audiobook	play the jungle book
+play audiobook	resume war and peace
+play audiobook	resume pride and prejudice
+play audiobook	resume my audiobook where we paused last
+play audiobook	continue pride and prejudice
+recommendation events	what is there to do in new york city
+recommendation events	what's happening at the library this month
+recommendation events	tell me all local events
+recommendation events	could you suggest some fun in new york
+recommendation events	is there any carnival taking place in our area
+recommendation movies	what's a movie in theaters that doesn't suck
+recommendation movies	what highly rated movies are playing this weekend
+recommendation movies	movies with good rotten tomato ratings
+recommendation movies	which rom com movie can i watch in theatres around new york
+recommendation movies	training day
+takeaway order	i want to order some food
+takeaway order	i'm in the mood to order takeaway
+takeaway order	order spaghetti from spaghetti warehouse to bring home
+takeaway order	please order some sushi for dinner
+takeaway order	order food from applebees
+takeaway query	does restaurant royale deliver takeaway
+takeaway query	how much longer until my pizza will be here
+takeaway query	will the restaurant deliver the order
+takeaway query	tell me when taco bell can deliver my dinner
+takeaway query	tell me all the takeaways nearby and i want to order food
+transport taxi	please book a taxi in uber for me to go to the airport today
+transport taxi	book me a taxi for one pm
+transport taxi	book a taxi to airport for me in the evening
+transport taxi	book a taxi at my home address for right now
+transport taxi	find the nearest uber

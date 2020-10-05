@@ -1,0 +1,80 @@
+alarm query	my alarms
+alarm query	what alarms do i have set
+alarm query	tell me what alarms are set for me
+alarm query	what are my alarms
+alarm query	are there any alarms going off today
+alarm remove	turn off the six am alarm for Wednesday
+alarm remove	please remove this alarm
+alarm remove	remove seven am alarm
+alarm remove	will you turn the alarm off for me
+alarm remove	snooze all today's alarms permanently
+audio volume mute	mute for the next hour please
+audio volume mute	don't speak for a while
+audio volume mute	silence for two hours
+audio volume mute	set to silent for five minutes
+audio volume mute	i want to mute the speaker
+datetime query	can you tell me the time at san francisco
+datetime query	what is the date for next tuesday
+datetime query	is today march sixth
+datetime query	what is the time in ajmer
+datetime query	what is the current day month and year
+general explain	what did you mean by saying it.
+general explain	s1, rephrase me further on it please.
+general explain	what do you mean.
+general explain	could not understand it.
+general explain	i could not quite catch up with you.
+general joke	whats a silly joke you know
+general joke	what is a funny joke
+general joke	tell me random joke
+general joke	let me hear a joke
+general joke	i would like to hear some good funny jokes
+general negate	uh no, i think you have done task in wrong manner.
+general negate	no, i think that's not the right response.
+general negate	hmm, i did not ask for this response.
+general negate	nope, i didn't say this.
+general negate	hmm, i think not correct.
+general quirky	the meaning of life
+general quirky	journal entry for today
+general quirky	plants
+general quirky	give me some health tips
+general quirky	your birth date
+general repeat	i would like to hear what said again.
+general repeat	let's try what you have said again.
+general repeat	can you retry please.
+general repeat	tell me it one more time again please.
+general repeat	would you repeat the last please.
+music likeness	save my opinion about the current song playing
+music likeness	please rate current song as five stars
+music likeness	rate this song five stars and save the rating
+music likeness	i'm into music
+music likeness	this song is amazing is not it
+play audiobook	continue playing where I left off
+play audiobook	resume play of american gods
+play audiobook	read to me
+play audiobook	book swan play
+play audiobook	play the program where i left off yesterday
+recommendation events	any specific event in washington
+recommendation events	what do they have going on at young circle this week
+recommendation events	what do they have going on for festivals downtown
+recommendation events	what is going on around me
+recommendation events	when is the yearly cultural event coming up
+recommendation movies	recommend a romantic comedy in me area
+recommendation movies	what's a movie in theaters that doesn't suck
+recommendation movies	top ten movies
+recommendation movies	how is the new movie swat
+recommendation movies	what movie should i see
+takeaway order	order pizza for delivery
+takeaway order	find me the nearest chinese for delivery
+takeaway order	id like to put in an order for some chinese food with hunan wok
+takeaway order	schedule a delivery from food at the nearby takeaway diner
+takeaway order	find food and order
+takeaway query	status for the pizza delivery from pizza hut
+takeaway query	where can i order pizza for delivery
+takeaway query	hello i would like to know whether you provide home delivery services
+takeaway query	find out if the olive garden will let me do takeaway
+takeaway query	does restaurant has home delivery
+transport taxi	find the nearest uber
+transport taxi	find me a taxi
+transport taxi	book me a uber for tomorrow night at six pm
+transport taxi	where is the closest uber
+transport taxi	look for a taxi to go home

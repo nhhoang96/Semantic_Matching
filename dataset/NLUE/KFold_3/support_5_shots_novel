@@ -1,0 +1,80 @@
+alarm query	please read me my alarms
+alarm query	checkout today set alarm of ten am
+alarm query	show me the alarms i've set
+alarm query	what alarms will wake me up tomorrow
+alarm query	how many alarms have i set
+alarm remove	cancel all alarms
+alarm remove	can you please remove the alarm
+alarm remove	twelve am removed
+alarm remove	please cancel all alarms for tomorrow
+alarm remove	disable the alarm at ten am
+audio volume mute	set the settings to mute
+audio volume mute	mute yourself until five pm
+audio volume mute	please unmute yourself
+audio volume mute	can you set radio to mute
+audio volume mute	be mute
+datetime query	please show me today's date
+datetime query	what is the date easter falls on
+datetime query	what day of the week is first april
+datetime query	what is tomorrows date
+datetime query	what is mondays actual date
+general explain	s2, do not get the last sentence.
+general explain	s1, further rephrase me about what you just said now please.
+general explain	s1, rephrase me more on it.
+general explain	will you further elaborate me on it please.
+general explain	s2, i could not get that.
+general joke	make me laugh i want to hear a joke
+general joke	have any jokes
+general joke	i need a good joke
+general joke	i would like a joke
+general joke	the joke of the day
+general negate	thanks but i think you have gotten me not correct.
+general negate	it seems like the answer was not correct.
+general negate	that's wrong.
+general negate	i think you did a task all wrong.
+general negate	uhh no, that isn't what i was looking for.
+general quirky	can you watch a movie on netflix with me
+general quirky	plan me a holiday trip
+general quirky	when i want it to take down notes
+general quirky	why do starving people keep having kids
+general quirky	what is your age
+general repeat	i want to hear what i've said again.
+general repeat	please tell me that message spoke once more.
+general repeat	i'd like to hear what i have just said again.
+general repeat	can you tell me what said once more.
+general repeat	let us do it again.
+music likeness	save information about love of beyonc
+music likeness	save my last playlist
+music likeness	this is the best band ever
+music likeness	i am the living blues
+music likeness	my favorite singer is shakira
+play audiobook	i want to hear the book written by the mother of the shooter at columbine
+play audiobook	can you put on the chuck palhunik audio book
+play audiobook	pause the audiobook
+play audiobook	resume audio playback of twilight
+play audiobook	resume pride and prejudice
+recommendation events	events in me area
+recommendation events	searching on holidays in my location
+recommendation events	what is worth doing around here
+recommendation events	things to do in my area
+recommendation events	what's around tonight
+recommendation movies	what movie should i see
+recommendation movies	inform me about the most popular rom com movie playing now in theatres across new york
+recommendation movies	confirm a movie ticket at glory theater
+recommendation movies	i need a good chick flick any thoughts
+recommendation movies	can you tell me what movie has the best reviews
+takeaway order	order me some chinese food
+takeaway order	order pizza from domino's
+takeaway order	free home delivery
+takeaway order	i am so hungry and tired and i think i might order some food now
+takeaway order	hey order a side of hot wings with my previous order
+takeaway query	do you serve for home delivery
+takeaway query	when is my food going to be here
+takeaway query	does peking garden take orders over the phone
+takeaway query	i need to know if mr pizza delivers
+takeaway query	check delivery options for the restaurant
+transport taxi	i need a cab in thirty minutes
+transport taxi	find a taxi for me
+transport taxi	call golden taxi to pick me up at seven pm today
+transport taxi	please book the next taxi
+transport taxi	book an outstation cab for tomorrow

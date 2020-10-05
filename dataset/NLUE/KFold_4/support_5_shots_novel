@@ -1,0 +1,80 @@
+alarm query	what days are my alarms set for
+alarm query	what alarms do you have set
+alarm query	next alarm
+alarm query	review all alarms
+alarm query	may i know the about alarm you set
+alarm remove	turn off the six am alarm for Wednesday
+alarm remove	remove the alarm for tomorrow
+alarm remove	take away my alarm for tomorrow at four thirty am
+alarm remove	please remove any alarms that i have set
+alarm remove	disable all alarms set for today
+audio volume mute	quiet
+audio volume mute	mute sound from speakers
+audio volume mute	mute for the next hour please
+audio volume mute	turn off the sound
+audio volume mute	please mute the speakers
+datetime query	what time in las vegas
+datetime query	give me the time in london
+datetime query	today is monday is it
+datetime query	what time is it in central time zone
+datetime query	give me the time
+general explain	s2, last sentence was not clear.
+general explain	please once again rephrase me about what you have said.
+general explain	rephrase me about what you've said further please.
+general explain	would you again rephrase me on your words please.
+general explain	could you elaborate me more on your response please.
+general joke	tell funny things
+general joke	what is the funniest joke ever
+general joke	tell me a good doctor joke
+general joke	hey olly have you heard any funny jokes lately
+general joke	find funny jokes
+general negate	uhh no, i think you've done this incorrectly.
+general negate	i am sorry but this was not the right command.
+general negate	nope, you are incorrect.
+general negate	i think you made some mistake, please check it.
+general negate	this was not what i am searching for.
+general quirky	hey whatsapp
+general quirky	today was a hard day
+general quirky	can you tell me a little about yourself
+general quirky	are you human
+general quirky	i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month
+general repeat	would you try that instruction said again please.
+general repeat	what is that one more time.
+general repeat	could you say the sentence spoken once again please.
+general repeat	i need to hear that sentence again.
+general repeat	please reset that.
+music likeness	save this song in my favorites
+music likeness	great song for the commute
+music likeness	yes i like to save opinion on song playing and which player support that song
+music likeness	i like rock music
+music likeness	the song in background is cool
+play audiobook	start dune from where i left off
+play audiobook	play audio
+play audiobook	please play recently paused audio
+play audiobook	stop play
+play audiobook	play my book
+recommendation events	events in me area
+recommendation events	recommend a blue grass band event within twenty miles of manchester ma this week
+recommendation events	what events are going on around my place
+recommendation events	are there any crafts fairs happening in this area
+recommendation events	show local events near me
+recommendation movies	what is the biggest blockbuster this week
+recommendation movies	what movies is out there in the local cinema
+recommendation movies	what new movies available today
+recommendation movies	find an oscar nominee movie
+recommendation movies	top ten movies
+takeaway order	what is the best pizza near me that delivers
+takeaway order	i want to order food
+takeaway order	order a pizza with sausage from domino's
+takeaway order	order two pizzas from dominoes
+takeaway order	order me a byron from deliveroo
+takeaway query	where are my takeaway order
+takeaway query	will the restaurant deliver the order
+takeaway query	can i get delivery from this restaurant
+takeaway query	when is my food going to be here
+takeaway query	how long until i receive my food
+transport taxi	reserve the closest uber
+transport taxi	find me an uber
+transport taxi	i need to get to location call a cab
+transport taxi	call a taxi for me
+transport taxi	hail taxi

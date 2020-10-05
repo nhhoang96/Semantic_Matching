@@ -1,0 +1,16 @@
+alarm query	what times do my alarms go off
+alarm remove	cancel all alarms
+audio volume mute	stop playing
+datetime query	please tell me the date
+general explain	i could not understand this.
+general joke	what's the famous monty python joke about the bird
+general negate	thanks but i think you do not get me.
+general quirky	i hate how long the traffic jams get
+general repeat	i'd like to hear the last spoke again.
+music likeness	the song makes me remember certain memories
+play audiobook	play the jungle book
+recommendation events	what is there to do in new york city
+recommendation movies	what's a movie in theaters that doesn't suck
+takeaway order	i want to order some food
+takeaway query	does restaurant royale deliver takeaway
+transport taxi	please book a taxi in uber for me to go to the airport today

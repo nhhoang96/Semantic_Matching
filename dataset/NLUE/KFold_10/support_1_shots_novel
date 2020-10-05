@@ -1,0 +1,16 @@
+alarm query	what alarms have i set for tomorrow
+alarm remove	please delete my morning alarm
+audio volume mute	mute yourself until i say otherwise
+datetime query	tell me the current time in san paulo brazil
+general explain	s1, please elaborate further on it to me.
+general joke	funny joke
+general negate	thanks but i think you have messed up my request.
+general quirky	please tell me who is going to win the nba championship
+general repeat	start over.
+music likeness	the song you are playing is amazing
+play audiobook	i want to finally read the mars trilogy
+recommendation events	what's happening in my town
+recommendation movies	what should i watch today
+takeaway order	order takeout
+takeaway query	call the restaurant to see if the delivery is on the way
+transport taxi	check in a taxi for booking

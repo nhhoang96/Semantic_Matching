@@ -1,0 +1,64 @@
+alarm query	what time is my alarm set for
+alarm remove	i would like this alarm permanently removed
+alarm set	call me at six am
+audio volume down	lower volume by fifty percent
+audio volume mute	mute the sound
+audio volume up	speak loudly
+calendar query	am i on vacation this week
+calendar remove	i need everything deleted from calendar please
+calendar set	remind me clock that i have a event
+cooking recipe	freezing
+datetime convert	what is time now in japan compared to usa
+datetime query	what is the month day and year
+email addcontact	please add johndoe@yahoocom to my contact list
+email querycontact	tell me about mary s.
+email query	have i gotten any emails lately
+email sendemail	reply email to charlotte
+general affirm	yes you have got my instructions perfectly.
+general commandstop	olly that's enough, just stop it.
+general confirm	please check and confirm detail.
+general dontcare	doesn't matter, olly.
+general explain	do not get this.
+general joke	i want to hear a joke
+general negate	thanks but you didn't get me.
+general praise	you are my star, thank you so much, olly.
+general quirky	let me know when charges hit my credit card
+general repeat	please say one more time again.
+iot cleaning	activate the vacuum cleaner
+iot coffee	can you bring me a nice coffee
+iot hue lightchange	change the opacity of the color
+iot hue lightdim	i need to turn the lights down
+iot hue lightoff	switch off the lights
+iot hue lighton	clap on
+iot hue lightup	increase the light a little
+iot wemo off	please turn off wemo socket
+iot wemo on	turn on smart socket in dining room
+lists createoradd	add eggs to my grocery list
+lists query	lists i have
+lists remove	cross out bread from shopping list
+music likeness	i have to done it on the post important music file
+music query	what is the name of this song playing right now
+music settings	change song
+news query	tell me the latest news from bbc sports
+play audiobook	can you pause and rewind the audio then resume
+play game	let's play tic tac toe
+play music	start playing my song list
+play podcasts	play me the new podcast from npr
+play radio	play tunes
+qa currency	what is the dollar price in inr
+qa definition	description of iphone seven
+qa factoid	when did mount saint helens last erupt
+qa maths	how many inches make one feet
+qa stock	facebook current stock rate
+recommendation events	Show latest events around new york
+recommendation locations	where can i find a good taco truck in los angles
+recommendation movies	what are the show times for logan at the nearby theatre
+social post	tweet that there was an insect in the chocolate packet
+social query	has mary posted anything to facebook today
+takeaway order	who delivers near here
+takeaway query	does dominos has a delivery option
+transport query	please list the available rain trips to location a
+transport taxi	find an uber that can get me to the airport now
+transport ticket	train ticket
+transport traffic	how long will it take me to drive to work today
+weather query	should i wear gloves tonight
