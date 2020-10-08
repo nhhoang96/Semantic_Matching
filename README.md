@@ -1,5 +1,5 @@
-# Semantic Matching And Aggregation Network for Few-shot Intent Detection
-This repository provides PyTorch implementation for the paper *Semantic Matching and Aggregation Network for Few-shot Intent Detection*
+# Dynamic Semantic Matching And Aggregation Network for Few-shot Intent Detection
+This repository provides PyTorch implementation for the paper *Dynamic Semantic Matching and Aggregation Network for Few-shot Intent Detection*
 
 ## Requirements
 Python 3.6.2 <br />
@@ -12,7 +12,7 @@ Scikit-learn 0.21.1 <br />
 We conduct the split on NLUE and SNIPS dataset in dataset directory. Please take a look at our paper for details of the split.
 
 ## Usage
-Please obtain and put the pre-trained FasTText embedding in our fasttext directory of the directory.</br>
+Please obtain and put the pre-trained FastText embedding in our fasttext directory of the repository. Otherwise, create your own FastText embedding directory and update the argument in Configuration below. </br>
  
 ## Configuration
 * ```--ckpt_dir```: Saved directory for checkpoint
@@ -39,7 +39,17 @@ python main.py
 
 
 ## Citation
-If you use our code or dataset, please cite our paper
+If you use our ideas, code or dataset, please cite the following paper:
+<pre>
+@misc{nguyen2020dynamic,
+      title={Dynamic Semantic Matching and Aggregation Network for Few-shot Intent Detection}, 
+      author={Hoang Nguyen and Chenwei Zhang and Congying Xia and Philip S. Yu},
+      year={2020},
+      eprint={2010.02481},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</pre>
 
 ## Acknowledgement
 https://github.com/ZhixiuYe/MLMAN </br>
