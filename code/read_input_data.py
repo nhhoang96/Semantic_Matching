@@ -172,11 +172,8 @@ def read_datasets(num_shots, dataset, num_fold,src, tgt, fasttext_path):
         print ("Loading support 1")
     elif (num_shots == 5):
         support_path = data_path + 'support_5_shots_' + tgt
-        support_path_tr =  data_path + 'support_1_shots_'+ src
+        support_path_tr =  data_path + 'support_5_shots_'+ src
         print ("Loading support 5")
-    else:
-        support_path = data_path + 'support_3_shots'
-        print ("Loading support 3")
 
 # Read data
     test_data_path = data_path + 'test_' + tgt + '.tsv'
