@@ -219,11 +219,11 @@ def parse_argument():
 	parser.add_argument('--num_run', type=int, default=1)
 	parser.add_argument('--dataset', type=str, default='SNIPS')
 	parser.add_argument('--num_fold', type=int, default=1)
-	parser.add_argument('--r', type=int, default=5) # num_heads (r==-1 means traditional MLMAN)
+	parser.add_argument('--r', type=int, default=4)
 	parser.add_argument('--l', type=int, default=5)
 	parser.add_argument('--hidden_size',type=int,default=64)
-	parser.add_argument('--same_intent_loss', type=float, default=1e-5)
-	parser.add_argument('--uniform_loss', type=float, default=0.01)
+	parser.add_argument('--same_intent_loss', type=float, default=0.01)
+	parser.add_argument('--uniform_loss', type=float, default=1e-5)
 	parser.add_argument('--self_attn_loss', type=float, default=0.0001)
 	parser.add_argument('--eps', type=str, default='noneps')
 	parser.add_argument('--src', type=str, default='seen')
@@ -238,43 +238,34 @@ def parse_argument():
 def evaluate_episode(data, config, model, loss_fn, eval):
 
 	x_te, y_te, te_len, te_mask, text_te = utils.load_test(data, eval)
-	y_ind_te = utils.create_index(y_te)
-	
-	kl_loss = torch.nn.KLDivLoss(reduction='sum').to(config['device'])
+	y_te_ind = utils.create_index(y_te)
+
 	reverse_dict = data['reverse_dict']
 	
-	y_te_ind = utils.create_index(y_te)
-	num_class = np.unique(y_te)
-	
-	num_test_query = config['num_query_per_class'] * config['num_class'] 
 	x_support, y_support, x_len_support, support_m, sup_text = utils.load_support(data, False)
-
 	y_support_ind = utils.create_index(y_support)
 	
 	total_prediction = np.array([], dtype=np.int64)
 	total_y_test = np.array([], dtype=np.int64)
 	cum_acc = []
-	cum_loss = 0.0
+	
 	with torch.no_grad():
 		for episode in range (config['num_episodes']):
 			support_feature, support_class, support_len, support_ind, support_mask, support_text, query_feature, query_class, query_len, query_ind, query_mask,query_text = utils.create_query_support(x_support, y_support, x_len_support, y_support_ind, support_m, sup_text, x_te, y_te, te_len, y_te_ind, te_mask, text_te, config, config['num_test_class'])
 
 			support_feature, support_id, support_ind, support_len, support_mask = convert_to_tensor(support_feature, support_class, support_ind, support_len, support_mask, config['device'])
 			query_feature, query_id, query_ind, query_len, query_mask = convert_to_tensor(query_feature, query_class, query_ind, query_len, query_mask, config['device'])
-			prediction,incons_loss, support_attn, query_attn, support_thres, query_thres = model.forward(support_feature, support_len, support_mask, query_feature, query_len, query_mask)
+			prediction,incons_loss, support_attn, query_attn = model.forward(support_feature, support_len, support_mask, query_feature, query_len, query_mask)
 			 
 			pred = np.argmax(prediction.cpu().detach().numpy(), 1)
 			cur_acc = accuracy_score(query_class, pred)
 			cum_acc.append(cur_acc)
-			val_loss=0.0
-			cum_loss += val_loss
  
-	cum_loss = cum_loss / config['num_episodes']
 	cum_acc = np.array(cum_acc)
 	avg_acc, std_acc = np.mean(cum_acc), np.std(cum_acc)
 	print ("Average accuracy", avg_acc) 
 	print ("STD", std_acc)
-	return avg_acc,cum_loss
+	return avg_acc
 #------ End episode testing --------#
 
 #---------START GFSL ---------------------------------#
@@ -294,8 +285,6 @@ def evaluate_nonepisode(data, config, model, loss_fn, eval):
 	
 	total_prediction = np.array([], dtype=np.int64)
 	total_y_test = np.array([], dtype=np.int64)
-	cum_loss = 0.0
-	kl_loss = torch.nn.KLDivLoss(reduction='batchmean').to(config['device'])
 
 	with torch.no_grad():
 		for batch in range (test_batch):
@@ -318,7 +307,7 @@ def evaluate_nonepisode(data, config, model, loss_fn, eval):
 				support_idx = support_idx + config['num_samples_per_class']
 				support_feature[old_support_idx:support_idx] = x_support[class_index]
 				support_class[old_support_idx:support_idx] = y_support[class_index]
-				support_len[old_support_idx:support_idx] =	x_len_support[class_index]
+				support_len[old_support_idx:support_idx] = x_len_support[class_index]
 				support_mask[old_support_idx:support_idx] = support_m[class_index] 
 				support_text[old_support_idx:support_idx] = support_text[class_index]
 			cs = np.unique(query_class)
@@ -330,18 +319,15 @@ def evaluate_nonepisode(data, config, model, loss_fn, eval):
 				s_index = np.where(support_class == cs[i])[0]
 				q_ind_key[cs[i]] = q_index
 				s_ind_key[cs[i]] = s_index
-
-		 # Changet values
+		 # Reset class index
 			for i in range (len(cs)):
 				query_class[q_ind_key[cs[i]]] = i
 				support_class[s_ind_key[cs[i]]] = i
-			
 			support_ind = utils.create_index(support_class)
-			query_ind = utils.create_index(query_class)
-			
+			query_ind = utils.create_index(query_class)	
 			support_feature, support_id, support_ind, support_len, support_mask = convert_to_tensor(support_feature, support_class, support_ind, support_len, support_mask, config['device'])
 			query_feature, query_id, query_ind, query_len, query_mask = convert_to_tensor(query_feature, query_class, query_ind, query_len, query_mask, config['device'])
-			prediction,_,support_attn,query_attn,_,_ = model.forward(support_feature, support_len, support_mask, query_feature, query_len, query_mask)
+			prediction,_,support_attn,query_attn = model.forward(support_feature, support_len, support_mask, query_feature, query_len, query_mask)
 
 			pred = np.argmax(prediction.cpu().detach().numpy(), 1)
 			total_prediction = np.concatenate((total_prediction, pred))
@@ -374,47 +360,47 @@ def load_model(config, embedding):
 
 def train_episode(x_support_tr, y_support_tr, x_len_support_tr, y_support_ind_tr, support_m_tr, sup_text_tr,x_tr, y_tr, x_len_tr, y_ind_tr, tr_mask,tr_text,config,model,loss_fn, optimizer,current_directory):
 
-				kl_loss = torch.nn.KLDivLoss(reduction='batchmean').to(config['device'])
-				all_classes = np.unique(y_tr)
-				# Store original indexes of each class in dictionary
-				idx_key = {}
-				for val in all_classes:
-						index = np.where(y_tr == val)[0]
-						idx_key[val] = index
+	kl_loss = torch.nn.KLDivLoss(reduction='batchmean').to(config['device'])
+	all_classes = np.unique(y_tr)
+	# Store original indexes of each class in dictionary
+	idx_key = {}
+	for val in all_classes:
+		index = np.where(y_tr == val)[0]
+		idx_key[val] = index
 
-				best_acc = 0
-				avg_loss = 0.0
-				avg_acc = 0.0
-				
-				early_stop_count =0.0
-				prev_loss = float("inf")
-				for episode in range (config['num_episodes']):
+	best_acc = 0
+	avg_loss = 0.0
+	avg_acc = 0.0
+	
+	early_stop_count =0.0
+	prev_loss = float("inf")
+	for episode in range (config['num_episodes']):
+					
+		support_feature, support_class, support_len, support_ind, support_mask, support_text_tr, query_feature, query_class, query_len, query_ind, query_mask, query_text = utils.create_query_support(x_support_tr, y_support_tr, x_len_support_tr, y_support_ind_tr, support_m_tr, sup_text_tr, x_tr, y_tr, x_len_tr, y_ind_tr, tr_mask,tr_text, config, config['num_class'])
+
+		support_feature, support_id, support_ind, support_len, support_mask = convert_to_tensor(support_feature, support_class, support_ind, support_len, support_mask, config['device'])
+		query_feature, query_id, query_ind, query_len, query_mask = convert_to_tensor(query_feature, query_class, query_ind, query_len, query_mask, config['device'])
+		prediction,incons_loss, support_attn, query_attn = model.forward(support_feature, support_len, support_mask, query_feature, query_len, query_mask)
 								
-					support_feature, support_class, support_len, support_ind, support_mask, support_text_tr, query_feature, query_class, query_len, query_ind, query_mask, query_text = utils.create_query_support(x_support_tr, y_support_tr, x_len_support_tr, y_support_ind_tr, support_m_tr, sup_text_tr, x_tr, y_tr, x_len_tr, y_ind_tr, tr_mask,tr_text, config, config['num_class'])
+		loss_val = compute_loss(prediction, support_attn, support_ind, support_len, support_id, query_attn, query_class, query_ind, query_len, config, loss_fn, kl_loss)
+		avg_loss += loss_val.item()
+		optimizer.zero_grad()
+		loss_val.backward()
+		torch.nn.utils.clip_grad_norm_(model.parameters(),1)
+		optimizer.step()
 
-					support_feature, support_id, support_ind, support_len, support_mask = convert_to_tensor(support_feature, support_class, support_ind, support_len, support_mask, config['device'])
-					query_feature, query_id, query_ind, query_len, query_mask = convert_to_tensor(query_feature, query_class, query_ind, query_len, query_mask, config['device'])
-					prediction,incons_loss, support_attn, query_attn, support_thres, query_thres = model.forward(support_feature, support_len, support_mask, query_feature, query_len, query_mask)
-											
-					loss_val = compute_loss(prediction, support_attn, support_ind, support_len, support_id, query_attn, query_class, query_ind, query_len, config, loss_fn, kl_loss)
-					avg_loss += loss_val.item()
-					optimizer.zero_grad()
-					loss_val.backward()
-					torch.nn.utils.clip_grad_norm_(model.parameters(),1)
-					optimizer.step()
-
-					tr_pred = np.argmax(prediction.cpu().detach().clone(), 1)
-					acc = accuracy_score(query_class.reshape(-1,), tr_pred) 
-					avg_acc += acc
-					if ((episode % 100 == 99)):
-						cur_acc = avg_acc / (episode + 1)
-						if (cur_acc >= best_acc):
-							print ("--Saving model --")
-							best_acc = cur_acc
-							torch.save(model.state_dict(), current_directory + 'best_model.pth')
-						 
-						print ("Average accuracy after", episode + 1, 'episodes: ', avg_acc / (episode+1))
-						print ("Average loss after", episode + 1, 'episodes: ', avg_loss / (episode+1))
+		tr_pred = np.argmax(prediction.cpu().detach().clone(), 1)
+		acc = accuracy_score(query_class.reshape(-1,), tr_pred) 
+		avg_acc += acc
+		if ((episode % 100 == 99)):
+			cur_acc = avg_acc / (episode + 1)
+			if (cur_acc >= best_acc):
+				print ("--Saving model --")
+				best_acc = cur_acc
+				torch.save(model.state_dict(), current_directory + 'best_model.pth')
+			 
+			print ("Average accuracy after", episode + 1, 'episodes: ', avg_acc / (episode+1))
+			print ("Average loss after", episode + 1, 'episodes: ', avg_loss / (episode+1))
 						
 def train(data,config, current_directory):
 	x_tr = data['x_tr']
@@ -454,7 +440,7 @@ if __name__ == "__main__":
 		num_run = config['num_fold']
 	elif (config['dataset'] =='SNIPS'):
 		num_run = config['num_run']
-
+	
 	seed_vals = np.arange(num_run)
 	run_acc =[]
 	for n_r in range(num_run): 
@@ -465,7 +451,7 @@ if __name__ == "__main__":
 
 		print ("============================================")
 		print ("---------Experiment Run START ------- ", n_r)
-
+		print ("----- Evaluation Type: ", config['eps'])
 		data = read_datasets(config['num_samples_per_class'], config['dataset'], n_r + 1, config['src'], config['tgt'], config['fasttext_path'])
 
 		embedding = data['embedding']
@@ -483,7 +469,7 @@ if __name__ == "__main__":
 			avg_acc = evaluate_nonepisode(data, config, best_model,loss_fn, eval=False) 
 			print ("----End of the run " + str(n_r) + " ---------") 
 		else:
-			avg_acc,_ = evaluate_episode(data, config, best_model, loss_fn, eval=False)
+			avg_acc = evaluate_episode(data, config, best_model, loss_fn, eval=False)
 		run_acc.append(avg_acc)
 	run_acc = np.array(run_acc)
 	print("------Experiment Summary --------")

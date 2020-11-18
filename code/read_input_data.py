@@ -157,8 +157,6 @@ def read_datasets(num_shots, dataset, num_fold,src, tgt, fasttext_path):
         new_intents_file = data_prefix + 'NLUE' + '/new_intents'
         label_dict = load_label_dict(label_file)
         new_intents = load_new_intents(label_dict, new_intents_file)
-        #print ("Label dict", label_dict)
-        #print ("New intents", new_intents)
         reverse_label_dict={}
         for k,v in label_dict.items():
             reverse_label_dict[v] = k

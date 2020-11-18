@@ -56,32 +56,6 @@ def create_index(y):
     return ind
 
 
-##----- Additional functions -----------#
-## Repopulate with examples from the class that did not meet requirements
-#def repopulate(remain_x, remain_y, remain_y_ind,  remain_len, index, x_tr_ori, y_tr_ori, y_ind_ori, s_len_ori):
-#    #new_x_tr, new_y_tr, new_y_ind, new_s_len = makeDeepCopy(x_t, y_tr_copy, y_ind_copy, s_len_copy)
-#    
-#    new_x_tr = np.concatenate((remain_x,x_tr_ori[index]), axis=0)
-#    new_y_tr = np.concatenate((remain_y, y_tr_ori[index]), axis=0)
-#    new_y_ind = np.concatenate((remain_y_ind, y_ind_ori[index]), axis=0)
-#    new_s_len = np.concatenate((remain_len, s_len_ori[index]), axis=0)
-#
-#    return new_x_tr, new_y_tr, new_y_ind, new_s_len
-         
-#def update_index(index, x_tr, y_tr, y_ind, s_len):
-#    x_tr = np.delete(x_tr, index, axis=0)
-#    y_tr = np.delete(y_tr, index,axis=0)
-#    y_ind = np.delete(y_ind, index, axis=0)
-#    s_len = np.delete(s_len, index, axis=0)
-#    return x_tr, y_tr, y_ind, s_len
-#
-#def filter_data(index, query_class, query_attn, query_text):
-#    new_class= query_class[index]
-#    new_attn = query_attn[index]
-#    new_text = query_text[index]
-#    return new_class, new_attn, new_text
-
-
 #----Data Loading Helper -----#
 def generate_tok_idx(tokens, word2idx):
     tok_idx = []
@@ -179,7 +153,6 @@ def create_query_support(x_support, y_support, len_support, ind_support, mask_su
 		seen_classes = np.delete(copy_classes, ix, axis=0)
 		new_class,_ = produce_chosen_class(seen_classes, y, num_class)
 		train_classes = np.append(train_classes, new_class)
-
 	support_feature, support_class, support_len, support_ind,support_mask, support_text = create_samples(x_support, y_support, len_support, ind_support, mask_support, text_support, config['num_samples_per_class'], train_classes)
 
 	query_feature, query_class, query_len, query_ind,query_mask, query_text = create_samples(x, y, x_len, y_ind, mask, text, config['num_query_per_class'], train_classes)

@@ -4,16 +4,13 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch.autograd import Variable
-from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
-import numpy as np
 import encoder
 
 class SMAN(nn.Module):
         """
         Multi-level Matching and Aggregation
         """
-        def __init__(self, config, embedding,input_channels=1):
+        def __init__(self, config, embedding):
                 super(SMAN, self).__init__()
                 # Generic parameters
                 self.device = config['device']
@@ -55,7 +52,6 @@ class SMAN(nn.Module):
                                 batch_first=True
                       )
 
-        # bsz* k, head, D
         # ---Helper function for matching -----# 
         def mp_matching_func(self,v1, v2, w):
                 """
@@ -243,7 +239,7 @@ class SMAN(nn.Module):
             mv_h_att_max_bw = self.mp_matching_func(query_bw, att_max_p_bw, w8)
             return mv_p_att_max_fw, mv_p_att_max_bw, mv_h_att_max_fw, mv_h_att_max_bw
 
-        def expand_local_matching(self, support, query, support_heads, query_heads,support_thres, query_thres):
+        def expand_local_matching(self,support_heads, query_heads):
             match_support = []
             match_query = []
 
@@ -252,8 +248,8 @@ class SMAN(nn.Module):
             query_f = []
             for i in range (num_samples):
                     support_ = support_heads[:,i,:]
-                    support_t = self.head_match(support_, query_heads, support_thres,query_thres)
-                    query_t = self.head_match(query_heads, support_, support_thres, query_thres)
+                    support_t = self.head_match(support_, query_heads)
+                    query_t = self.head_match(query_heads, support_)
                     
                     support_f.append(support_t.unsqueeze(1))
                     query_f.append(query_t.unsqueeze(1))
@@ -268,12 +264,12 @@ class SMAN(nn.Module):
         # Head match
         # Support: [bsz, r, D_h*2]
         # Query: [bsz, r, D_h*2]
-        def head_match(self, enhance_support, enhance_query, support_thres, query_thres):
+        def head_match(self, enhance_support, enhance_query):
 
                 support_fw, query_fw = enhance_support[:,:,:self.hidden_size], enhance_query[:,:,:self.hidden_size]
                 support_bw, query_bw = enhance_support[:,:,self.hidden_size:], enhance_query[:,:,self.hidden_size:]
                  
-            	# 1. Full-Matching
+            	# 1. Head-wise Matching
             	# (batch, seq_len, hidden_size), (batch, hidden_size)
             	# -> (batch, seq_len, l)
                 mv_p_full_fw, mv_p_full_bw, mv_h_full_fw, mv_h_full_bw = self.headwise_match(support_fw, support_bw, query_fw,query_bw, self.head_w7,self.head_w8)
@@ -331,20 +327,15 @@ class SMAN(nn.Module):
             max_len = support_sets.shape[-1]
             batch= 1
         
-            #---- Feature level with matching and aggregation ------#
-            support_embeddings = support_sets
-            query_embeddings = query_sets
             #---- Encoder ---------
-            aggr_sup, support_attn, support_heads, support_thres,nonhead_support, nonpp_support = self.encoder(support_embeddings, support_len, support_mask)  
-            aggr_query, query_attn, query_heads, query_thres,nonhead_query, nonpp_query = self.encoder(query_embeddings, query_len, query_mask) 
+            aggr_sup, support_attn, support_heads,nonhead_support = self.encoder(support_sets, support_len, support_mask)  
+            aggr_query, query_attn, query_heads,nonhead_query = self.encoder(query_sets, query_len, query_mask) 
 
-            nonpp_support, nonhead_support, support_heads, support_len, support_mask = reshape_dim(nonpp_support, nonhead_support, support_heads,support_len, support_mask,num_support,num_query, num_class, max_len,batch, 'support', self.r)
-            nonpp_query, nonhead_query, query_heads, query_len, query_mask = reshape_dim(nonpp_query, nonhead_query, query_heads, query_len, query_mask, num_support,num_query, num_class, max_len,batch, 'query', self.r)
+            nonhead_support, support_heads, support_len, support_mask = reshape_dim(nonhead_support, support_heads,support_len, support_mask,num_support,num_query, num_class, max_len,batch, 'support', self.r)
+            nonhead_query, query_heads, query_len, query_mask = reshape_dim(nonhead_query, query_heads, query_len, query_mask, num_support,num_query, num_class, max_len,batch, 'query', self.r)
 
-            # Mutli-head attention approach
-            enhance_support = nonhead_support
-            enhance_query = nonhead_query
-            enhance_support, enhance_query = self.expand_local_matching(enhance_support, enhance_query,support_heads, query_heads, support_thres, query_thres)
+            # -- Semantic Matching Approach -----#
+            enhance_support, enhance_query = self.expand_local_matching(support_heads, query_heads)
 
             #--------- Instance Matching -----------#
             tmp_query = enhance_query.unsqueeze(1).repeat(1,num_support,1)
@@ -358,19 +349,18 @@ class SMAN(nn.Module):
             logits = self.multilayer(cat_seq)
             logits = logits.view(num_query, num_class)
             
-            return logits, J_incon, support_attn, query_attn,support_thres, query_thres
+            return logits, J_incon, support_attn, query_attn
 
 #-----Helper function ---------------#
-def reshape_dim(embedding, nonhead, head, len, mask, num_support,num_query, num_class, max_len,batch, type, r):
+def reshape_dim(nonhead, head, len, mask, num_support,num_query, num_class, max_len,batch, type, r):
         
     """
-        embedding[bs, max_len, D_W]: contextualized embedding (pp)
         nonhead [bs, len, D_W]: contextualized embedding (nonpp)
         head [bs, r, D_W]: head embedding
         len [bs,]: len of each sentence
         mask [bs, max_len]: mask for each sentence
     """
-    
+    hidden_dim = nonhead.shape[-1]
     if (type == 'support'):
         # Reshape length (feature-based)
         out_len = len.view(-1,).contiguous()
@@ -380,25 +370,19 @@ def reshape_dim(embedding, nonhead, head, len, mask, num_support,num_query, num_
         out_mask = mask.view(-1,max_len).contiguous()
         out_mask = out_mask.repeat(num_query,1)
                                         
-        # Reshape embeddings (feature based)
-        out_emb = embedding.unsqueeze(0).view(num_class, num_support, max_len, -1).contiguous()
-        out_emb = out_emb.unsqueeze(0).view(1,num_class,num_support,max_len,-1).contiguous()
-        out_emb = out_emb.unsqueeze(0).view(batch,1, num_class,num_support,max_len,-1).contiguous()
-        out_emb = out_emb.expand(batch, num_query,num_class,num_support, max_len, -1).contiguous()
-        out_emb = out_emb.view(batch*num_query*num_class,num_support*max_len,-1)
-        
-        out_nonhead = nonhead.unsqueeze(0).view(num_class, num_support, -1, out_emb.shape[-1]).contiguous()
-        out_nonhead = out_nonhead.unsqueeze(0).view(1,num_class,num_support,-1,out_emb.shape[-1]).contiguous()
-        out_nonhead = out_nonhead.unsqueeze(0).view(batch,1, num_class,num_support,-1,out_emb.shape[-1]).contiguous()
-        out_nonhead = out_nonhead.expand(batch, num_query,num_class,num_support, -1, out_emb.shape[-1]).contiguous()
-        out_nonhead = out_nonhead.view(batch*num_query*num_class, num_support, -1,out_emb.shape[-1]).contiguous()
+        # Reshape embeddings (feature based) 
+        out_nonhead = nonhead.unsqueeze(0).view(num_class, num_support, -1, hidden_dim).contiguous()
+        out_nonhead = out_nonhead.unsqueeze(0).view(1,num_class,num_support,-1, hidden_dim).contiguous()
+        out_nonhead = out_nonhead.unsqueeze(0).view(batch,1, num_class,num_support,-1,hidden_dim).contiguous()
+        out_nonhead = out_nonhead.expand(batch, num_query,num_class,num_support, -1, hidden_dim).contiguous()
+        out_nonhead = out_nonhead.view(batch*num_query*num_class, num_support, -1,hidden_dim).contiguous()
         out_head = head.repeat(num_query,1,1)
 
-        out_head = head.unsqueeze(0).view(num_class, num_support, -1, out_emb.shape[-1]).contiguous()
-        out_head = out_head.unsqueeze(0).view(1,num_class,num_support,-1,out_emb.shape[-1]).contiguous()
-        out_head = out_head.unsqueeze(0).view(batch,1, num_class,num_support,-1,out_emb.shape[-1]).contiguous()
-        out_head = out_head.expand(batch, num_query,num_class,num_support, -1, out_emb.shape[-1]).contiguous()
-        out_head = out_head.view(batch*num_query*num_class,num_support,-1, out_emb.shape[-1]).contiguous() 
+        out_head = head.unsqueeze(0).view(num_class, num_support, -1, hidden_dim).contiguous()
+        out_head = out_head.unsqueeze(0).view(1,num_class,num_support,-1,hidden_dim).contiguous()
+        out_head = out_head.unsqueeze(0).view(batch,1, num_class,num_support,-1,hidden_dim).contiguous()
+        out_head = out_head.expand(batch, num_query,num_class,num_support, -1, hidden_dim).contiguous()
+        out_head = out_head.view(batch*num_query*num_class,num_support,-1, hidden_dim).contiguous() 
     
     else: # Query
         out_len = len.view(-1,).contiguous()
@@ -407,21 +391,16 @@ def reshape_dim(embedding, nonhead, head, len, mask, num_support,num_query, num_
         out_mask = mask.view(-1,max_len).contiguous()
         out_mask =out_mask.repeat(num_class,1)
         
-        out_emb = embedding.unsqueeze(1).view(num_query, 1, max_len, -1).contiguous() # NQ, 1,len, D
-        out_emb = out_emb.unsqueeze(0).view(batch, num_query,1,max_len,-1).contiguous()
-        out_emb = out_emb.expand(batch, num_query,num_class,max_len, -1).contiguous()
-        out_emb = out_emb.view(batch*num_query*num_class,max_len, -1) #NQN, max_len, D)
-
-        out_nonhead = nonhead.unsqueeze(1).view(num_query, 1, -1, out_emb.shape[-1]).contiguous() # NQ, 1,len, D
-        out_nonhead = out_nonhead.unsqueeze(0).view(batch, num_query,1,-1,out_emb.shape[-1]).contiguous()
-        out_nonhead = out_nonhead.expand(batch, num_query,num_class,-1, out_emb.shape[-1]).contiguous()
-        out_nonhead = out_nonhead.view(batch*num_query*num_class,-1, out_emb.shape[-1]) #NQN, max_len, D)
+        out_nonhead = nonhead.unsqueeze(1).view(num_query, 1, -1, hidden_dim).contiguous() # NQ, 1,len, D
+        out_nonhead = out_nonhead.unsqueeze(0).view(batch, num_query,1,-1,hidden_dim).contiguous()
+        out_nonhead = out_nonhead.expand(batch, num_query,num_class,-1, hidden_dim).contiguous()
+        out_nonhead = out_nonhead.view(batch*num_query*num_class,-1, hidden_dim) #NQN, max_len, D)
         
-        out_head = head.unsqueeze(1).view(num_query, 1, -1, out_emb.shape[-1]).contiguous() # NQ, 1,len, D
-        out_head = out_head.unsqueeze(0).view(batch, num_query,1,-1,out_emb.shape[-1]).contiguous()
-        out_head = out_head.expand(batch, num_query,num_class,-1, out_emb.shape[-1]).contiguous()
-        out_head = out_head.view(batch*num_query*num_class,-1, out_emb.shape[-1]) #NQN, max_len, D)
-    return out_emb,out_nonhead, out_head, out_len, out_mask
+        out_head = head.unsqueeze(1).view(num_query, 1, -1, hidden_dim).contiguous() # NQ, 1,len, D
+        out_head = out_head.unsqueeze(0).view(batch, num_query,1,-1,hidden_dim).contiguous()
+        out_head = out_head.expand(batch, num_query,num_class,-1, hidden_dim).contiguous()
+        out_head = out_head.view(batch*num_query*num_class,-1, hidden_dim) #NQN, max_len, D)
+    return out_nonhead, out_head, out_len, out_mask
 
 def div_with_small_value(n, d, eps=1e-8):
     # too small values are replaced by 1e-8 to prevent it from exploding.
