@@ -1,5 +1,5 @@
 # Dynamic Semantic Matching And Aggregation Network for Few-shot Intent Detection
-This repository provides PyTorch implementation for the paper [*Dynamic Semantic Matching and Aggregation Network for Few-shot Intent Detection*][https://www.aclweb.org/anthology/2020.findings-emnlp.108/]
+This repository provides PyTorch implementation for the paper [*Dynamic Semantic Matching and Aggregation Network for Few-shot Intent Detection*](https://www.aclweb.org/anthology/2020.findings-emnlp.108/)
 
 ## Requirements
 Python 3.6.2 <br />
